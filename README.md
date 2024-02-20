@@ -108,6 +108,7 @@
         <a href="https://laravel.com/"><img alt="mongodb" src="https://img.shields.io/badge/mongodb-ff00ff?logo=mongodb&logoColor=#ff00ff&style=flat"></a>
         <a href="https://laravel.com/"><img alt="pssql" src="https://img.shields.io/badge/PostgreSQL-ffff00?logo=PostgreSQL&logoColor=#0000ff&style=flat"></a>
         <a href="https://laravel.com/"><img alt="pssql" src="https://img.shields.io/badge/symfony-1e90ff?logo=symfony&logoColor=#0000ff&style=flat"></a>
+    <img alt="MYSQL" src="http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql"></a> 	
 
 
    
