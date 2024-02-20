@@ -1,11 +1,9 @@
-<h1 align="center">  <img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true">
-	<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">" Saludos , Haz llegado a la Cueva de Aquiles369 " <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> <img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"></h1>
+<h1 align="center"><img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">" Saludos , Haz llegado a la Cueva de Aquiles369 " <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> <img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"> </h1>
 
  
-
 <br>
-<p 
-	align="center" >
+
+<p align="center" >
  <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
 </p>
