@@ -39,39 +39,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills
 
 <br>
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Lenguajes de programación:
-
-<p align="center"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="html-5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat">
-  </a> 
-  <a href="https://www.css.com" target="_blank"> 
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
-<a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="PHP" src="http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white">
-  </a> 	
-<a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="MYSQL" src="http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql">
-  </a> 	
-<a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="Shell scrypting" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat">
-  </a> 	
-  <a href="https://www.sql.com/" target="_blank"> 
-    <img alt="sql" src="http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white">
-  </a> 
-	 <a href="https://www.sql.com/" target="_blank"> 
-    <img alt="fast api" src="https://img.shields.io/badge/fastapi-483d8b?logo=fastapi&logoColor=#0000ff&style=flat">
-  </a> 
-</p>
-
+ 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Front-end:
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -86,6 +54,15 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
+	<a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="typescript" src="https://img.shields.io/badge/typescript-800000?logo=typescript&logoColor=#0000ff&style=flat">
+  </a> 	
+<a href="https://www.sql.com/" target="_blank"> 
+    <img alt="fast api" src="https://img.shields.io/badge/fastapi-483d8b?logo=fastapi&logoColor=#0000ff&style=flat">
+  </a> 
+	<a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="json" src="https://img.shields.io/badge/json-800000?logo=json&logoColor=#0000ff&style=flat">
+  </a> 	
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="angular" src="https://img.shields.io/badge/angular-708090?logo=angular&logoColor=#0000ff&style=flat">
    </a>
@@ -128,6 +105,8 @@
      <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Git%20lab-Git%20lab"></a>
      <a href="#"><img alt="Apache" src="https://img.shields.io/badge/apache-cd5c5c?logo=apache&logoColor=#0000ff&style=flat"></a>
      <a href="#"><img src="https://img.shields.io/badge/burpsuite-faebd7?logo=burpsuite&logoColor=#0000ff&style=flat" /></a>
+     <a href="https://www.w3schools.com/css/" target="_blank">
+    <a href="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat"></a> 	
          
 
 
@@ -148,6 +127,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Kali%20Linux-%23181717.svg?style=plastic&logo=Kali%20Linux&logoColor=blue" /></a>
     <a href="#"><img src="https://img.shields.io/badge/debian-20b2aa?logo=debian&logoColor=#0000ff&style=flat" /></a>
         <a href="#"><img src="https://img.shields.io/badge/linuxmint-e0ffff?logo=linuxmint&logoColor=#0000ff&style=flat"></a>
+ <a href="#"><img src="https://img.shields.io/badge/GNU%20Bash-800080?logo=GNU%20Bash&logoColor=#0000ff&style=flat"></a>
 
 
 
