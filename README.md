@@ -27,7 +27,7 @@
 	<a href="https://www.linkedin.com/in/Aquiles369/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/Aquiles369"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
  <a href="aquiless369@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
- <a href="https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg"><img alt="youtube" src="https://img.shields.io/badge/YouTube-red">
+ <a href="https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg"><img alt="youtube" src="https://img.shields.io/badge/youtube-ff4500?logo=youtube&logoColor=#0000ff&style=flat">
  <a href="https://dehymos.com/"><img alt="pagina web" src="https://img.shields.io/badge/Mi%20Pagina%20Web-yelow">
 
   
@@ -67,6 +67,9 @@
   <a href="https://www.sql.com/" target="_blank"> 
     <img alt="sql" src="http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white">
   </a> 
+	 <a href="https://www.sql.com/" target="_blank"> 
+    <img alt="fast api" src="https://img.shields.io/badge/fastapi-483d8b?logo=fastapi&logoColor=#0000ff&style=flat">
+  </a> 
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Front-end:
@@ -77,12 +80,24 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat">
   </a> 
+ <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="sass" src="https://img.shields.io/badge/Sass-E34F26?logo=Sass&logoColor=fff&style=flat">
+  </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+   </a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="angular" src="https://img.shields.io/badge/angular-708090?logo=angular&logoColor=#0000ff&style=flat">
+   </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="Vu.js" src="https://img.shields.io/badge/Vue.js-c71585?logo=Vue.js&logoColor=#0000ff&style=flat">
    </a>
  <a href="https://www.python.org" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
   </a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="angular" src="https://img.shields.io/badge/Normalize.css-00ced1?logo=Normalize.css&logoColor=#0000ff&style=flat">
+   </a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Back-End:
@@ -90,6 +105,12 @@
 	<a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-14354C.svg?logo=php&logoColor=white&color=mediumpurple"></a>
  	<a href="https://www.mysql.com/"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   	<a href="https://laravel.com/"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-14354C.svg?logo=laravel&logoColor=black&color=orangered"></a>
+        <a href="https://laravel.com/"><img alt="mongodb" src="https://img.shields.io/badge/mongodb-ff00ff?logo=mongodb&logoColor=#ff00ff&style=flat"></a>
+        <a href="https://laravel.com/"><img alt="pssql" src="https://img.shields.io/badge/PostgreSQL-ffff00?logo=PostgreSQL&logoColor=#0000ff&style=flat"></a>
+        <a href="https://laravel.com/"><img alt="pssql" src="https://img.shields.io/badge/symfony-1e90ff?logo=symfony&logoColor=#0000ff&style=flat"></a>
+
+
+   
    
 
  
@@ -99,12 +120,16 @@
  
 <p align="center">
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/gitlab-00008b?logo=gitlab&logoColor=#0000ff&style=flat"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat"></a>
-     <a href="#"><img alt="docker" src="https://img.shields.io/badge/Docker*-2496ED?logo=docker&logoColor=fff&style=flat"></a>
-     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Aws-orange"></a>
+     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/amazonaws-ffd700?logo=amazonaws&logoColor=#0000ff&style=flat"></a>
      <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Git%20lab-Git%20lab"></a>
+     <a href="#"><img alt="Apache" src="https://img.shields.io/badge/apache-cd5c5c?logo=apache&logoColor=#0000ff&style=flat"></a>
+     <a href="#"><img src="https://img.shields.io/badge/burpsuite-faebd7?logo=burpsuite&logoColor=#0000ff&style=flat" /></a>
+         
+
+
 
 
 
@@ -119,6 +144,10 @@
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=flat" /></a>
     <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Kali%20Linux-%23181717.svg?style=plastic&logo=Kali%20Linux&logoColor=blue" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/debian-20b2aa?logo=debian&logoColor=#0000ff&style=flat" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/linuxmint-e0ffff?logo=linuxmint&logoColor=#0000ff&style=flat"></a>
+
 
 
 </p>
@@ -128,16 +157,21 @@
 <p align="center">
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
+        <a href="#"><img alt="neovim" src="https://img.shields.io/badge/neovim-f0ffff?logo=neovim&logoColor=#0000ff&style=flat" /></a>
 
  ### <picture> <img src = "https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width = 50px>  </picture> Praticas de programcion y pentesting Web:
  
 <p align="center">
     <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
     <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
     <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
-    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
+	<a href="#"><img alt = "tryhackme" src="https://img.shields.io/badge/tryhackme-008000?logo=tryhackme&logoColor=#0000ff&style=flat" /></a>
+	<a href="#"><img alt = "hack the box " src="https://img.shields.io/badge/hackthebox-fff8dc?logo=hackthebox&logoColor=#0000ff&style=flat" /></a>
+ 	<a href="#"><img alt = "hacker one " src="https://img.shields.io/badge/hackerone-dc143c?logo=hackerone&logoColor=#0000ff&style=flat" /></a>
+ 	<a href="#"><img alt = "bug bounty " src="https://img.shields.io/badge/Open%20Bug%20Bounty-00008b?logo=Open%20Bug%20Bounty&logoColor=#0000ff&style=flat" /></a>
+
+
+</p>
 </p>
 
 <br> 
