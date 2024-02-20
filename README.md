@@ -27,6 +27,11 @@
 	<a href="https://www.linkedin.com/in/Aquiles369/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/Aquiles369"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
  <a href="aquiless369@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+ <a href="https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg"><img alt="youtube" src="https://img.shields.io/badge/YouTube-red">
+ <a href="https://dehymos.com/"><img alt="pagina web" src="https://img.shields.io/badge/Mi%20Pagina%20Web-yelow">
+
+  
+
 	
 </p>
 
@@ -98,6 +103,10 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat"></a>
      <a href="#"><img alt="docker" src="https://img.shields.io/badge/Docker*-2496ED?logo=docker&logoColor=fff&style=flat"></a>
+     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Aws-orange"></a>
+     <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Git%20lab-Git%20lab"></a>
+
+
 
 </p>
 
@@ -136,6 +145,22 @@
 ---
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Estadísticas:
+<div align="center">
+
+<a href="https://github.com/Aquiles369/">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aquiles369&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aquiles369&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Aquiles369"/>
+
+</a>
+</div>
+
+<br>
+<br>
+<br>
+
+-----
+
+<br>
 
 
 
