@@ -17,7 +17,7 @@
 
 - :Whoami:`Desarrolador WEB Full STACK y Técnico en Cibersegurirdad`.
 - `Soy un programador competitivo y Pentester`.
-- :Algo sobre mi:`Me encanta usar el software como solución para cada problema  un programador competitivo y Pentester siempre
+- :Algo sobre mi:`Me encanta usar el software como solución para cada problema , siempre
   aprendiendo cosas nuevas`.
 - :Actualmente: `Estoy en busqueda de una nueva oportunidad laboral, puedes visitar mi Pagina web`: [CLICK AQUI](http://dehymos.com) tambien a mi correo aquiless369@gmail.com , Mi Canal de Youtube:[ https://www.youtube.com/](https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg).
 <br>
