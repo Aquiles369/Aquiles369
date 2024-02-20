@@ -19,7 +19,7 @@
 - `Soy un programador competitivo y Pentester`.
 - :Algo sobre mi:`Me encanta usar el software como solución para cada problema  un programador competitivo y Pentester siempre
   aprendiendo cosas nuevas`.
-- :Actualmente: `Estoy en busqueda de una nueva oportunidad laboral, puedes visitar mi Pagina web`: [CLICK AQUI](http://dehymos.com).
+- :Actualmente: `Estoy en busqueda de una nueva oportunidad laboral, puedes visitar mi Pagina web`: [CLICK AQUI](http://dehymos.com) tambien a mi correo aquiless369@gmail.com.
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Escríbeme:
