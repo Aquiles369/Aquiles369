@@ -107,6 +107,7 @@
      <a href="#"><img src="https://img.shields.io/badge/burpsuite-faebd7?logo=burpsuite&logoColor=#0000ff&style=flat" /></a>
      <a href="https://www.w3schools.com/css/" target="_blank">
     <a href="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat"></a> 	
+     <a href="#"><img src="https://img.shields.io/badge/GNU%20Bash-800080?logo=GNU%20Bash&logoColor=#0000ff&style=flat"></a>
          
 
 
@@ -127,7 +128,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Kali%20Linux-%23181717.svg?style=plastic&logo=Kali%20Linux&logoColor=blue" /></a>
     <a href="#"><img src="https://img.shields.io/badge/debian-20b2aa?logo=debian&logoColor=#0000ff&style=flat" /></a>
         <a href="#"><img src="https://img.shields.io/badge/linuxmint-e0ffff?logo=linuxmint&logoColor=#0000ff&style=flat"></a>
- <a href="#"><img src="https://img.shields.io/badge/GNU%20Bash-800080?logo=GNU%20Bash&logoColor=#0000ff&style=flat"></a>
+
 
 
 
