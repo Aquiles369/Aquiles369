@@ -104,7 +104,6 @@
      <a href="#"><img alt="Apache" src="https://img.shields.io/badge/apache-cd5c5c?logo=apache&logoColor=#0000ff&style=flat"></a>
      <a href="#"><img src="https://img.shields.io/badge/burpsuite-faebd7?logo=burpsuite&logoColor=#0000ff&style=flat" /></a>
      <a href="https://www.w3schools.com/css/" target="_blank">	
-     <a href="#"><img src="https://img.shields.io/badge/GNU%20Bash-800080?logo=GNU%20Bash&logoColor=#0000ff&style=flat"></a>
          
 
 
@@ -148,7 +147,9 @@
     <a href="#"><img alt = "hack the box " src="https://img.shields.io/badge/hackthebox-fff8dc?logo=hackthebox&logoColor=#0000ff&style=flat" /></a>
     <a href="#"><img alt = "hacker one " src="https://img.shields.io/badge/hackerone-dc143c?logo=hackerone&logoColor=#0000ff&style=flat" /></a>
     <a href="#"><img alt = "bug bounty " src="https://img.shields.io/badge/Open%20Bug%20Bounty-00008b?logo=Open%20Bug%20Bounty&logoColor=#0000ff&style=flat" /></a>
-     <a href="#"><img alt = "bug bounty " src="https://img.shields.io/badge/python3-dc143c?logo=python3&logoColor=#0000ff&style=flat" /></a>
+    <a href="#"><img alt = "bug bounty " src="https://img.shields.io/badge/python3-dc143c?logo=python3&logoColor=#0000ff&style=flat" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/GNU%20Bash-800080?logo=GNU%20Bash&logoColor=#0000ff&style=flat"></a>
+
 
 
 </p>
