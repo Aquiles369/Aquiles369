@@ -101,8 +101,6 @@
      <a href="https://github.com/Aquiles369"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
      <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat"></a>
-     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/amazonaws-ffd700?logo=amazonaws&logoColor=#0000ff&style=flat"></a>
-     <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Git%20lab-Git%20lab"></a>
      <a href="#"><img alt="Apache" src="https://img.shields.io/badge/apache-cd5c5c?logo=apache&logoColor=#0000ff&style=flat"></a>
      <a href="#"><img src="https://img.shields.io/badge/burpsuite-faebd7?logo=burpsuite&logoColor=#0000ff&style=flat" /></a>
      <a href="https://www.w3schools.com/css/" target="_blank">
