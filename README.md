@@ -98,8 +98,8 @@
 <p align="center">
      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
      <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/gitlab-00008b?logo=gitlab&logoColor=#0000ff&style=flat"></a>
-     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
      <a href="https://github.com/Aquiles369"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
      <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat"></a>
      <a href="#"><img alt="AWS" src="https://img.shields.io/badge/amazonaws-ffd700?logo=amazonaws&logoColor=#0000ff&style=flat"></a>
      <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Git%20lab-Git%20lab"></a>
