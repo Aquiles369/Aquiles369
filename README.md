@@ -14,7 +14,7 @@
 
 <br><br>
 
-- :Whoami:`Desarrolador WEB Full STACK y Técnico en Cibersegurirdad , especializado en Autidorias Web y Hardening en Servidores.`.
+- :Whoami:`Desarrolador WEB Full STACK y Técnico en Cibersegurirdad , especializado en Autidorias Web y Hardening en Servidores`.
 - `Soy un programador competitivo y Pentester`.
 - :Algo sobre mi:`Me encanta usar el software como solución para cada problema , siempre
   aprendiendo cosas nuevas`.
