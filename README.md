@@ -142,13 +142,13 @@
 <p align="center">
     <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
     <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
     <a href="#"><img alt = "tryhackme" src="https://img.shields.io/badge/tryhackme-008000?logo=tryhackme&logoColor=#0000ff&style=flat" /></a>
     <a href="#"><img alt = "hack the box " src="https://img.shields.io/badge/hackthebox-fff8dc?logo=hackthebox&logoColor=#0000ff&style=flat" /></a>
     <a href="#"><img alt = "hacker one " src="https://img.shields.io/badge/hackerone-dc143c?logo=hackerone&logoColor=#0000ff&style=flat" /></a>
     <a href="#"><img alt = "bug bounty " src="https://img.shields.io/badge/Open%20Bug%20Bounty-00008b?logo=Open%20Bug%20Bounty&logoColor=#0000ff&style=flat" /></a>
-    <a href="#"><img alt = "bug bounty " src="https://img.shields.io/badge/python3-dc143c?logo=python3&logoColor=#0000ff&style=flat" /></a>
+    <a href="#"><img alt = "python3 " src="https://img.shields.io/badge/python3-dc143c?logo=python3&logoColor=#0000ff&style=flat" /></a>
     <a href="#"><img src="https://img.shields.io/badge/GNU%20Bash-800080?logo=GNU%20Bash&logoColor=#0000ff&style=flat"></a>
+    <a href="#"><img src="https://img.shields.io/badge/hardening_Servidores-dc143c?logo=hardening_Servidores&logoColor=#FF5733&style=flat"></a>
 
 
 
