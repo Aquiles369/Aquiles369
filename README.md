@@ -14,13 +14,13 @@
 
 <br><br>
 
-- :Whoami:`Desarrolador WEB Full STACK y Técnico en Cibersegurirdad , especializado en Autidorias Web y Hardening en Servidores`.<br>
+- :Whoami:`Desarrolador WEB Full STACK y Técnico en Cibersegurirdad , especializado en Autidorias Web y Hardening en Servidores`.
 - :Algo sobre mi:`Soltura en varios lenguajes de desarrollo y scripting`.<br>
   `Creatividad y pensamiento lateral`.<br>
   `Iniciativa y autonomía en la resolución de problemas`.<br>
   `Experiencia en CTFs y retos`.<br>
-  `Experiencia en bug bounties`.<br>
-  `Siempre aprendiendo cosas nuevas `.
+  `Experiencia en bug bounty`.<br>
+  `Estoy aprendiendo constantemente , para mantenerme  actualizado`.
 - :Actualmente: `Estoy en busqueda de una nueva oportunidad laboral, puedes visitar mi Pagina web`: [CLICK AQUI](http://dehymos.com) tambien a mi correo aquiless369@gmail.com , Mi Canal de Youtube:[ https://www.youtube.com/](https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg) ademas mi Linkedin.
 <br>
 
