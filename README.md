@@ -18,7 +18,7 @@
 - `Soy un programador competitivo y Pentester`.
 - :Algo sobre mi:`Me encanta usar el software como solución para cada problema , siempre
   aprendiendo cosas nuevas`.
-- :Actualmente: `Estoy en busqueda de una nueva oportunidad laboral, puedes visitar mi Pagina web`: [CLICK AQUI](http://dehymos.com) tambien a mi correo aquiless369@gmail.com , Mi Canal de Youtube:[ https://www.youtube.com/](https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg).
+- :Actualmente: `Estoy en busqueda de una nueva oportunidad laboral, puedes visitar mi Pagina web`: [CLICK AQUI](http://dehymos.com) tambien a mi correo aquiless369@gmail.com , Mi Canal de Youtube:[ https://www.youtube.com/](https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg) ademas mi Linkedin.
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Escríbeme:
