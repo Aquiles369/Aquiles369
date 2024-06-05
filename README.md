@@ -84,7 +84,7 @@
 	<a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-14354C.svg?logo=php&logoColor=white&color=mediumpurple"></a>
  	<a href="https://www.mysql.com/"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   	<a href="https://laravel.com/"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-14354C.svg?logo=laravel&logoColor=black&color=orangered"></a>
-        <a href="https://laravel.com/"><img alt="mongodb" src="https://img.shields.io/badge/mongodb-ff00ff?logo=mongodb&logoColor=#ff00ff&style=flat"></a>
+        <a href="https://mongodb.com/"><img alt="mongodb" src="https://img.shields.io/badge/mongodb-ff00ff?logo=mongodb&logoColor=#ff00ff&style=flat"></a>
         <a href="https://laravel.com/"><img alt="pssql" src="https://img.shields.io/badge/PostgreSQL-ffff00?logo=PostgreSQL&logoColor=#0000ff&style=flat"></a>
         <a href="https://laravel.com/"><img alt="pssql" src="https://img.shields.io/badge/symfony-1e90ff?logo=symfony&logoColor=#0000ff&style=flat"></a>
     <img alt="MYSQL" src="http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql"></a> 	
