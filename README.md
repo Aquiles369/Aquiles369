@@ -14,7 +14,7 @@
 
 <br><br>
 
-- :Whoami:`Desarrolador WEB, especializado en Back-end, tengo conocimiento avanzados del Front-end, ademas soy  Técnico Superior de Cibersegurirdad , Experiencia  en Autidorias Web y Hardening en Servidores`.
+- :Whoami:`Desarrolador WEB, especializado en Back-end, cuento con conocimiento  del Front-end, ademas soy  Técnico Superior de Cibersegurirdad , Experiencia  en Autidorias Web y Hardening en Servidores`.
 - :Algo sobre mi:`Soltura en varios lenguajes de desarrollo y scripting`.<br>
   `Creatividad y pensamiento lateral`.<br>
   `Iniciativa y autonomía en la resolución de problemas`.<br>
