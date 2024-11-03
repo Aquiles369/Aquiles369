@@ -3,9 +3,7 @@
 <br>
 
 <p align="center">
- <img  height="280rem" alt="GIF" src="https://github.com/user-attachments/assets/59f924c4-7caf-4232-8592-8affffcc8371" />
-(https://github.com/user-attachments/assets/59f924c4-7caf-4232-8592-8affffcc8371)
-https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gi
+ <img  height="280rem" alt="GIF" src="https://github.com/user-attachments/assets/59f924c4-7caf-4232-8592-8affffcc8371"/>
 </p>
 
 	
