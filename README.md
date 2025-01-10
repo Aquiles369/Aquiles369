@@ -6,11 +6,10 @@
  <img  height="470rem" alt="GIF" src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif?cid=790b76110snsqzg6r51pc0qfifkl311fen0xhy2h2hik7pj3&ep=v1_stickers_search&rid=giphy.gif&ct=s"/>
 </p>
 
-<br>
 
 <h2 align="center"> <picture> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmgyYmh5OTgxMzR3ZmMxOTh3Ym1ucHFrNHY4a2x1YnRzN21rOXB1ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/13uNz6hqdlwxwc/giphy.gif" width="50px"> </picture>  WHOAMI <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmgyYmh5OTgxMzR3ZmMxOTh3Ym1ucHFrNHY4a2x1YnRzN21rOXB1ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/13uNz6hqdlwxwc/giphy.gif" width="50px"></h2> 
 
-<picture> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzA5aHIweWk1dmw1cWIzbHcyZWJqOGtnZGNwajQycHdwdjNqY3IxOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MBCGHSfJTs53LsKC9a/giphy.gif"  width = 250px  high ="200px"></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/6GEXBe7Nsde0GTLRbd/giphy.gif?cid=ecf05e47gnr4osrrx5d704w1zujl9k8o5wr7q7ufbvhi9oyw&ep=v1_stickers_search&rid=giphy.gif&ct=s"  width = 250px  high ="200px"></picture>
 <br><br> 
 
 
