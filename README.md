@@ -22,7 +22,7 @@
   `Varios Proyectos y creacion de Cursos realizados de forma Autodidacta`.<br>
 - :Actualmente: `Estoy en busqueda de una nueva oportunidad laboral, puedes visitar mi Pagina web`: [CLICK AQUI](https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos) tambien a mi correo aquiless369@gmail.com , Mi Canal de Youtube:[ https://www.youtube.com/](https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg) y mi Linkedin.
 <br>
-<div style="width:100%;height:0;padding-bottom:117%;position:relative;"><iframe src="https://giphy.com/embed/xTiTnBELA6Mb1TeeOc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/mr-robot-rami-malek-hacker-xTiTnBELA6Mb1TeeOc">via GIPHY</a></p>
+
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Escríbeme:
 <p align="center">
@@ -145,7 +145,7 @@
 
 
  
- ### <picture> <img src="https://giphy.com/embed/xTiTnBELA6Mb1TeeOc" width = 50px>  </picture> Proyectos creados:
+ ### <picture> <img src = "https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif?cid=790b7611ulp5z0z3f36wf01xw5lyuq336yd8iln1f01aoxdv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 50px>  </picture> Proyectos creados:
  <p align="center">
  	 <a href="https://github.com/Aquiles369/FLDSMDFR"><img alt="tools creada" src="https://img.shields.io/badge/FLDSMDFR-ff4500?logo=FLDSMDFR&logoColor=#0000ff&style=flat"> 
    	<a href="https://github.com/Aquiles369/Bug_Bounty_IA_ari"><img alt="tools creada" src="https://img.shields.io/badge/Bug_Bounty_IA_ari-f70606?logo=Bug_Bounty_IA_ari&logoColor=#f70606&style=flat">
