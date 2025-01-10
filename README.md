@@ -25,7 +25,7 @@
 <br>
 
 
-### <picture> <img src="https://github.com/Aquiles369/iconos/blob/main/img/eis.gif" width ="50" > </picture> Escríbeme:
+## <picture> <img src="https://github.com/Aquiles369/iconos/blob/main/img/eis.gif" width ="50" > </picture> Escríbeme:
 <p align="center">
 	<a href="https://www.linkedin.com/in/Aquiles369/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/Aquiles369"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -38,7 +38,7 @@
 	
 </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="55"> Skills
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="55"> Skills
 
 <br>
  
