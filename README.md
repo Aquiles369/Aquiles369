@@ -7,7 +7,7 @@
 </p>
 
 
-## <picture> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmgyYmh5OTgxMzR3ZmMxOTh3Ym1ucHFrNHY4a2x1YnRzN21rOXB1ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/13uNz6hqdlwxwc/giphy.gif" width="50px"> </picture> WHOAMI <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmgyYmh5OTgxMzR3ZmMxOTh3Ym1ucHFrNHY4a2x1YnRzN21rOXB1ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/13uNz6hqdlwxwc/giphy.gif" width="50px"> 
+## <picture> <img src="https://github.com/Aquiles369/iconos/blob/main/img/lobo2.gif" width="50px"> </picture> WHOAMI <img src="https://github.com/Aquiles369/iconos/blob/main/img/lobo2.gif" width="50px"> 
 
 ## <picture> <img align="right" src="https://github.com/Aquiles369/iconos/blob/main/img/lob.gif"  width = 250px  high ="200px"></picture>
 <br><br> 
