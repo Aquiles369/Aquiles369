@@ -95,7 +95,7 @@
  
  </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Herramientas:
+ ### <picture> <img src = "https://media.giphy.com/media/USsjB3PDaBmFMTVXmp/giphy.gif?cid=ecf05e47knf19rhgopqtcj33ewbk5qis3qjlyepl1ddu43q2&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 50px>  </picture> Herramientas:
  
 <p align="center">
      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
