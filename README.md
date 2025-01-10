@@ -7,7 +7,7 @@
 </p>
 
 
-## <p align="center"> <picture> <img src="https://github.com/Aquiles369/iconos/blob/main/img/lobo2.gif" width="50px"/> </picture> WHOAMI <img src="https://github.com/Aquiles369/iconos/blob/main/img/lobo2.gif" width="50px"> </p>
+### <p align="center"> <picture> <img src="https://github.com/Aquiles369/iconos/blob/main/img/lobo2.gif" width="50px"/> </picture> WHOAMI <img src="https://github.com/Aquiles369/iconos/blob/main/img/lobo2.gif" width="50px"> </p>
 
 ## <picture> <img align="right" src="https://github.com/Aquiles369/iconos/blob/main/img/lobooo.gif"  width = 250px  high ="200px"></picture>
 <br><br> 
@@ -150,21 +150,21 @@
    	<a href="https://github.com/Aquiles369/Bug_Bounty_IA_ari"><img alt="tools creada" src="https://img.shields.io/badge/Bug_Bounty_IA_ari-f70606?logo=Bug_Bounty_IA_ari&logoColor=#f70606&style=flat"/></a>
     	<a href="https://github.com/Aquiles369/CIBERSEGURIDAD.TODOS-LOS-PDF"><img alt="tools creada" src="https://img.shields.io/badge/CIBERSEGURIDAD_TODOS_LOS_PDF-0615f7?logo=Bug_Bounty_IA_ari&logoColor=#0615f7&style=flat"/></a>
      	<a href="https://github.com/Aquiles369/Cursos-de-Youtube"><img alt="tools creada" src="https://img.shields.io/badge/Cursos_de_Youtube-bd06f7?logo=Bug_Bounty_IA_ari&logoColor=#bd06f7&style=flat"/></a>
-      	<a href="https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos"><img alt="tools creada" src="https://img.shields.io/badge/Blog-ff8000?logo=Blog&logoColor=#ff8000&style=flat"/></a>
+      	<a href="https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos"><img alt="tools creada" src="https://img.shields.io/badge/Blog-ff8000?logo=Blog&logoColor=#ff8000&style=flat"/></a></p>
 
    
- ## <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/pccc.gif" width = 70px>  </picture> Otros programacion y pentesting Web:
+ ### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/pccc.gif" width = 70px>  </picture> Otros programacion y pentesting Web:
  
 <p align="center">
-    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
-    <a href="#"><img alt = "tryhackme" src="https://img.shields.io/badge/tryhackme-008000?logo=tryhackme&logoColor=#0000ff&style=flat" /></a>
-    <a href="#"><img alt = "hack the box " src="https://img.shields.io/badge/hackthebox-fff8dc?logo=hackthebox&logoColor=#0000ff&style=flat" /></a>
-    <a href="#"><img alt = "hacker one " src="https://img.shields.io/badge/hackerone-dc143c?logo=hackerone&logoColor=#0000ff&style=flat" /></a>
-    <a href="#"><img alt = "bug bounty " src="https://img.shields.io/badge/Open%20Bug%20Bounty-00008b?logo=Open%20Bug%20Bounty&logoColor=#0000ff&style=flat" /></a>
-    <a href="#"><img alt = "python3 " src="https://img.shields.io/badge/python3-dc143c?logo=python3&logoColor=#0000ff&style=flat" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/GNU%20Bash-800080?logo=GNU%20Bash&logoColor=#0000ff&style=flat"></a>
-    <a href="#"><img src="https://img.shields.io/badge/hardening_Servidores-dc143c?logo=hardening_Servidores&logoColor=#FF5733&style=flat"></a>
+	<a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
+	<a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
+	<a href="#"><img alt = "tryhackme" src="https://img.shields.io/badge/tryhackme-008000?logo=tryhackme&logoColor=#0000ff&style=flat" /></a>
+	<a href="#"><img alt = "hack the box " src="https://img.shields.io/badge/hackthebox-fff8dc?logo=hackthebox&logoColor=#0000ff&style=flat" /></a>
+	<a href="#"><img alt = "hacker one " src="https://img.shields.io/badge/hackerone-dc143c?logo=hackerone&logoColor=#0000ff&style=flat" /></a>
+	<a href="#"><img alt = "bug bounty " src="https://img.shields.io/badge/Open%20Bug%20Bounty-00008b?logo=Open%20Bug%20Bounty&logoColor=#0000ff&style=flat" /></a>
+	<a href="#"><img alt = "python3 " src="https://img.shields.io/badge/python3-dc143c?logo=python3&logoColor=#0000ff&style=flat" /></a>
+	<a href="#"><img src="https://img.shields.io/badge/GNU%20Bash-800080?logo=GNU%20Bash&logoColor=#0000ff&style=flat"></a>
+	<a href="#"><img src="https://img.shields.io/badge/hardening_Servidores-dc143c?logo=hardening_Servidores&logoColor=#FF5733&style=flat"></a>
    
 </p>
 
