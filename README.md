@@ -9,7 +9,7 @@
 	
 ## <picture> <img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmgyYmh5OTgxMzR3ZmMxOTh3Ym1ucHFrNHY4a2x1YnRzN21rOXB1ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/13uNz6hqdlwxwc/giphy.gif" width="50px"> </picture>Whoami<img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmgyYmh5OTgxMzR3ZmMxOTh3Ym1ucHFrNHY4a2x1YnRzN21rOXB1ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/13uNz6hqdlwxwc/giphy.gif" width="50px">
 
-<picture> <img align="right" src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif?cid=ecf05e479e7m4ez53t7amf2e6oi4spqm1ekpg5weppwv0q8n&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 280px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif?cid=ecf05e479e7m4ez53t7amf2e6oi4spqm1ekpg5weppwv0q8n&ep=v1_stickers_search&rid=giphy.gif&ct=s"  width = 250px  high ="200px"></picture>
 <br><br>
 
 - :Whoami:`Desarrolador WEB, especializado en Back-end, cuento con conocimiento  del Front-end, ademas soy  Técnico Superior de Cibersegurirdad , Experiencia  en Autidorias Web y Hardening en Servidores`.
