@@ -170,8 +170,6 @@
 
 ##
 
-<br> 
-
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Estadísticas
 <div align="center">
 <a href="https://github.com/Aquiles369/">
@@ -184,14 +182,7 @@
 
 <br>
 
-
-
-<br>
-
-
-
-
-</br></br>
+</br>
 	
 ### <img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/perfec.gif" width ="50px"> Mira y Admira <img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/perfec.gif"  width ="50px">
 	
