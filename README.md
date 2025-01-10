@@ -12,8 +12,8 @@
 <picture> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzA5aHIweWk1dmw1cWIzbHcyZWJqOGtnZGNwajQycHdwdjNqY3IxOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MBCGHSfJTs53LsKC9a/giphy.gif"  width = 250px  high ="200px"></picture>
 <br><br> 
 
-<picture> <img align="right" src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif?cid=ecf05e479e7m4ez53t7amf2e6oi4spqm1ekpg5weppwv0q8n&ep=v1_stickers_search&rid=giphy.gif&ct=s"  width = 20px></picture>
-- <img align="right" src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif?cid=ecf05e479e7m4ez53t7amf2e6oi4spqm1ekpg5weppwv0q8n&ep=v1_stickers_search&rid=giphy.gif&ct=s"  width = 20px>:Whoami:`Desarrolador WEB, especializado en Back-end, cuento con conocimiento  del Front-end, ademas soy  Técnico Superior de Cibersegurirdad , Experiencia  en Autidorias Web y Hardening en Servidores`.
+
+- :Whoami:`Desarrolador WEB, especializado en Back-end, cuento con conocimiento  del Front-end, ademas soy  Técnico Superior de Cibersegurirdad , Experiencia  en Autidorias Web y Hardening en Servidores`.
 - :Algo sobre mi:`Soltura en varios lenguajes de desarrollo y scripting`.<br>
   `Creatividad y pensamiento lateral`.<br>
   `Iniciativa y autonomía en la resolución de problemas`.<br>
@@ -37,8 +37,7 @@
 	
 </p>
 
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills
+## <img src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif?cid=ecf05e479e7m4ez53t7amf2e6oi4spqm1ekpg5weppwv0q8n&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="25"> Skills
 
 <br>
  
