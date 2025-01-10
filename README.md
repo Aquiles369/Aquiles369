@@ -37,7 +37,7 @@
 	
 </p>
 
-## <img src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif?cid=ecf05e479e7m4ez53t7amf2e6oi4spqm1ekpg5weppwv0q8n&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="25"> Skills
+## <img src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif?cid=ecf05e479e7m4ez53t7amf2e6oi4spqm1ekpg5weppwv0q8n&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="55"> Skills
 
 <br>
  
