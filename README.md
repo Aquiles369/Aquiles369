@@ -201,7 +201,7 @@
 
 </br></br>
 	
-## <img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"> Mira y Admira <img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true">:
+## <img height="40" src="https://media.giphy.com/media/6GEXBe7Nsde0GTLRbd/giphy.gif?cid=ecf05e47gnr4osrrx5d704w1zujl9k8o5wr7q7ufbvhi9oyw&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="50"> Mira y Admira <img height="50" src="https://media.giphy.com/media/6GEXBe7Nsde0GTLRbd/giphy.gif?cid=ecf05e47gnr4osrrx5d704w1zujl9k8o5wr7q7ufbvhi9oyw&ep=v1_stickers_search&rid=giphy.gif&ct=s">
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
