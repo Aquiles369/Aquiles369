@@ -25,7 +25,7 @@
 <br>
 
 
-### <picture> <img src="https://github.com/Aquiles369/iconos/blob/main/img/eis.gif" width ="50" > </picture> Escríbeme:
+### <picture> <img src="https://github.com/Aquiles369/iconos/blob/main/img/eis.gif" width ="50" > </picture> Escríbeme
 <p align="center">
 	<a href="https://www.linkedin.com/in/Aquiles369/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/Aquiles369"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -37,11 +37,11 @@
 
 ##
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="55"> Skills
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="55"> Skills:
 
 <br>
  
-### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/obsession.gif" width = 70px>  </picture> Front-end:
+### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/obsession.gif" width = 70px>  </picture> Front-end
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
@@ -78,7 +78,7 @@
    </a>
 </p>
 
- ### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/pixel.gif" width = 70px>  </picture> Back-End:
+ ### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/pixel.gif" width = 70px>  </picture> Back-End
  <p align="center">
 	<a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-14354C.svg?logo=php&logoColor=white&color=mediumpurple"></a>
  	<a href="https://www.mysql.com/"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
@@ -95,7 +95,7 @@
  
  </p>
 
- ### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/pc.gif" width = 70px>  </picture> Herramientas:
+ ### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/pc.gif" width = 70px>  </picture> Herramientas
  
 <p align="center">
      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
@@ -118,7 +118,7 @@
 </p>
 
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 70px>  </picture> Sistemas operativos:
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 70px>  </picture> Sistemas operativos
  
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
@@ -135,7 +135,7 @@
 
 </p>
 
- ### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/fuego.gif" width = 70px>  </picture> IDEs:
+ ### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/fuego.gif" width = 70px>  </picture> IDEs
  
 <p align="center">
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
@@ -144,7 +144,7 @@
 
 
  
- ### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/geni.gif" width = 70px>  </picture> Proyectos creados:
+ ### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/geni.gif" width = 70px>  </picture> Proyectos creados
  <p align="center">
   	<a href="https://github.com/Aquiles369/FLDSMDFR"><img alt="tools creada" src="https://img.shields.io/badge/FLDSMDFR-ff4500?logo=FLDSMDFR&logoColor=#0000ff&style=flat"/></a>
    	<a href="https://github.com/Aquiles369/Bug_Bounty_IA_ari"><img alt="tools creada" src="https://img.shields.io/badge/Bug_Bounty_IA_ari-f70606?logo=Bug_Bounty_IA_ari&logoColor=#f70606&style=flat"/></a>
@@ -153,7 +153,7 @@
       	<a href="https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos"><img alt="tools creada" src="https://img.shields.io/badge/Blog-ff8000?logo=Blog&logoColor=#ff8000&style=flat"/></a></p>
 
    
- ### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/pccc.gif" width = 70px>  </picture> Otros programacion y pentesting Web:
+ ### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/pccc.gif" width = 70px>  </picture> Otros programacion y pentesting Web
  
 <p align="center">
 	<a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
@@ -172,7 +172,7 @@
 
 
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Estadísticas:
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Estadísticas
 <div align="center">
 <a href="https://github.com/Aquiles369/">
   <img src="https://github-readme-stats.vercel.app/api?username=Aquiles369&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/> 
