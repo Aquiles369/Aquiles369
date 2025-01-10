@@ -33,9 +33,6 @@
  <a href="https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg"><img alt="youtube" src="https://img.shields.io/badge/youtube-ff4500?logo=youtube&logoColor=#0000ff&style=flat">
  <a href="https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos"><img alt="Blog Personal" src="https://img.shields.io/badge/Mi%20Pagina%20Web-yelow">
 
-  
-
-	
 </p>
 
 ##
