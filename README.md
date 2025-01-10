@@ -29,7 +29,7 @@
 	<a href="https://github.com/Aquiles369"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
  <a href="aquiless369@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
  <a href="https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg"><img alt="youtube" src="https://img.shields.io/badge/youtube-ff4500?logo=youtube&logoColor=#0000ff&style=flat">
- <a href="https://google"><img alt="pagina web" src="https://img.shields.io/badge/Mi%20Pagina%20Web-yelow">
+ <a href="https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos"><img alt="Blog Personal" src="https://img.shields.io/badge/Mi%20Pagina%20Web-yelow">
 
   
 
