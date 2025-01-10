@@ -142,6 +142,12 @@
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
         <a href="#"><img alt="neovim" src="https://img.shields.io/badge/neovim-f0ffff?logo=neovim&logoColor=#0000ff&style=flat" /></a>
 
+
+ 
+ ### <picture> <img src = "https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width = 50px>  </picture> Proyectos creados:
+ <p align="center">
+ 	 <a href="https://github.com/Aquiles369/FLDSMDFR"><img alt="tools creada" src="https://img.shields.io/badge/FLDSMDFR-ff4500?logo=FLDSMDFR&logoColor=#0000ff&style=flat">
+
  ### <picture> <img src = "https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width = 50px>  </picture> Practicas de programacion y pentesting Web, Extra:
  
 <p align="center">
@@ -154,10 +160,8 @@
     <a href="#"><img alt = "python3 " src="https://img.shields.io/badge/python3-dc143c?logo=python3&logoColor=#0000ff&style=flat" /></a>
     <a href="#"><img src="https://img.shields.io/badge/GNU%20Bash-800080?logo=GNU%20Bash&logoColor=#0000ff&style=flat"></a>
     <a href="#"><img src="https://img.shields.io/badge/hardening_Servidores-dc143c?logo=hardening_Servidores&logoColor=#FF5733&style=flat"></a>
-    <a href="https://github.com/Aquiles369/FLDSMDFR"><img alt="tools creada" src="https://img.shields.io/badge/FLDSMDFR-ff4500?logo=FLDSMDFR&logoColor=#0000ff&style=flat">
+   
 
- ### <picture> <img src = "https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width = 50px>  </picture> Proyectos creados:
- <a href="https://github.com/Aquiles369/FLDSMDFR"><img alt = "Tools mas de 100 tools todo un una V.1 esta creada en bash completo" src="https://img.shields.io/badge/hackerone-dc143c?logo=hackerone&logoColor=#0000ff&style=flat" /></a>
  
 
 
