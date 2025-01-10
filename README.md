@@ -7,9 +7,9 @@
 </p>
 
 
-##<picture> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmgyYmh5OTgxMzR3ZmMxOTh3Ym1ucHFrNHY4a2x1YnRzN21rOXB1ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/13uNz6hqdlwxwc/giphy.gif" width="50px"> </picture> WHOAMI <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmgyYmh5OTgxMzR3ZmMxOTh3Ym1ucHFrNHY4a2x1YnRzN21rOXB1ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/13uNz6hqdlwxwc/giphy.gif" width="50px"> 
+## <picture> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmgyYmh5OTgxMzR3ZmMxOTh3Ym1ucHFrNHY4a2x1YnRzN21rOXB1ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/13uNz6hqdlwxwc/giphy.gif" width="50px"> </picture> WHOAMI <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmgyYmh5OTgxMzR3ZmMxOTh3Ym1ucHFrNHY4a2x1YnRzN21rOXB1ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/13uNz6hqdlwxwc/giphy.gif" width="50px"> 
 
-##<picture> <img align="right" src="https://media.giphy.com/media/6GEXBe7Nsde0GTLRbd/giphy.gif?cid=ecf05e47gnr4osrrx5d704w1zujl9k8o5wr7q7ufbvhi9oyw&ep=v1_stickers_search&rid=giphy.gif&ct=s"  width = 250px  high ="200px"></picture>
+## <picture> <img align="right" src="https://media.giphy.com/media/6GEXBe7Nsde0GTLRbd/giphy.gif?cid=ecf05e47gnr4osrrx5d704w1zujl9k8o5wr7q7ufbvhi9oyw&ep=v1_stickers_search&rid=giphy.gif&ct=s"  width = 250px  high ="200px"></picture>
 <br><br> 
 
 
@@ -24,7 +24,7 @@
 <br>
 
 
-###<picture> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzA5aHIweWk1dmw1cWIzbHcyZWJqOGtnZGNwajQycHdwdjNqY3IxOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MBCGHSfJTs53LsKC9a/giphy.gif" width ="50" > </picture> Escríbeme:
+### <picture> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzA5aHIweWk1dmw1cWIzbHcyZWJqOGtnZGNwajQycHdwdjNqY3IxOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MBCGHSfJTs53LsKC9a/giphy.gif" width ="50" > </picture> Escríbeme:
 <p align="center">
 	<a href="https://www.linkedin.com/in/Aquiles369/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/Aquiles369"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -78,7 +78,7 @@
    </a>
 </p>
 
- ###<picture> <img src = "https://media.giphy.com/media/kXixecGzl2gBlpO4SQ/giphy.gif?cid=ecf05e477snyksk2dlgeyjc8956rzpan4tnh3tvu0ecyd684&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 60px>  </picture> Back-End:
+ ### <picture> <img src = "https://media.giphy.com/media/kXixecGzl2gBlpO4SQ/giphy.gif?cid=ecf05e477snyksk2dlgeyjc8956rzpan4tnh3tvu0ecyd684&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 60px>  </picture> Back-End:
  <p align="center">
 	<a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-14354C.svg?logo=php&logoColor=white&color=mediumpurple"></a>
  	<a href="https://www.mysql.com/"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
@@ -95,7 +95,7 @@
  
  </p>
 
- ###<picture> <img src = "https://media.giphy.com/media/USsjB3PDaBmFMTVXmp/giphy.gif?cid=ecf05e47knf19rhgopqtcj33ewbk5qis3qjlyepl1ddu43q2&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 50px>  </picture> Herramientas:
+ ### <picture> <img src = "https://media.giphy.com/media/USsjB3PDaBmFMTVXmp/giphy.gif?cid=ecf05e47knf19rhgopqtcj33ewbk5qis3qjlyepl1ddu43q2&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 50px>  </picture> Herramientas:
  
 <p align="center">
      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
@@ -118,7 +118,7 @@
 </p>
 
 
- ###<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Sistemas operativos:
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Sistemas operativos:
  
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
@@ -135,7 +135,7 @@
 
 </p>
 
- ###<picture> <img src = "https://media.giphy.com/media/t2PKZeyIhsMCHqvAt4/giphy.gif?cid=ecf05e47pxutubrdawgdx04ijl2rkpgqdm7qgra8gtmsqxt8&ep=v1_gifs_related&rid=giphy.gif&ct=s" width = 50px>  </picture> IDEs:
+ ### <picture> <img src = "https://media.giphy.com/media/t2PKZeyIhsMCHqvAt4/giphy.gif?cid=ecf05e47pxutubrdawgdx04ijl2rkpgqdm7qgra8gtmsqxt8&ep=v1_gifs_related&rid=giphy.gif&ct=s" width = 50px>  </picture> IDEs:
  
 <p align="center">
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
@@ -153,7 +153,7 @@
       	<a href="https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos"><img alt="tools creada" src="https://img.shields.io/badge/Blog-ff8000?logo=Blog&logoColor=#ff8000&style=flat">
 
    
- ##<picture> <img src = "https://media.giphy.com/media/ZJZS4VPcjlZtKwuX5n/giphy.gif?cid=ecf05e477xjywa9mumzmpx8a7wy3r0ywjogc5fmfasmcerp9&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 50px>  </picture> Otros programacion y pentesting Web,:
+ ## <picture> <img src = "https://media.giphy.com/media/ZJZS4VPcjlZtKwuX5n/giphy.gif?cid=ecf05e477xjywa9mumzmpx8a7wy3r0ywjogc5fmfasmcerp9&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 50px>  </picture> Otros programacion y pentesting Web,:
  
 <p align="center">
     <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
@@ -178,7 +178,7 @@
 
 ---
 
-##<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Estadísticas:
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Estadísticas:
 <div align="center">
 <a href="https://github.com/Aquiles369/">
   <img src="https://github-readme-stats.vercel.app/api?username=Aquiles369&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/> 
@@ -200,7 +200,7 @@
 
 </br></br>
 	
-##<img height="40" src="https://media.giphy.com/media/52zh6jYeomPlPPRwhn/giphy.gif?cid=ecf05e476a2pqwp1isxsv9vvc1a4rzqumiumu46p4ghzv3d7&ep=v1_gifs_related&rid=giphy.gif&ct=s" width ="50px"> Mira y Admira <img height="40" src="https://media.giphy.com/media/52zh6jYeomPlPPRwhn/giphy.gif?cid=ecf05e476a2pqwp1isxsv9vvc1a4rzqumiumu46p4ghzv3d7&ep=v1_gifs_related&rid=giphy.gif&ct=s"  width ="50px">
+## <img height="40" src="https://media.giphy.com/media/52zh6jYeomPlPPRwhn/giphy.gif?cid=ecf05e476a2pqwp1isxsv9vvc1a4rzqumiumu46p4ghzv3d7&ep=v1_gifs_related&rid=giphy.gif&ct=s" width ="50px"> Mira y Admira <img height="40" src="https://media.giphy.com/media/52zh6jYeomPlPPRwhn/giphy.gif?cid=ecf05e476a2pqwp1isxsv9vvc1a4rzqumiumu46p4ghzv3d7&ep=v1_gifs_related&rid=giphy.gif&ct=s"  width ="50px">
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
