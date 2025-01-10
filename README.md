@@ -1,9 +1,9 @@
-<h1 align="center"><img height="40" src="https://media.giphy.com/media/MBOrIDjqIfIgQycbvS/giphy.gif?cid=790b76116h2bhy98134wfc198wbmnpqk4v8klubts7mk9pud&ep=v1_stickers_search&rid=giphy.gif&ct=s">" Saludos , Haz llegado a la Cueva de Aquiles369, en un rato salimos a cazar te unes con la manada o te quedas en la cueva tu decides "<img height="35" src="https://media.giphy.com/media/MBOrIDjqIfIgQycbvS/giphy.gif?cid=790b76116h2bhy98134wfc198wbmnpqk4v8klubts7mk9pud&ep=v1_stickers_search&rid=giphy.gif&ct=s"></h1>
+<h1 align="center"><img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif>" Saludos , Haz llegado a la Cueva de Aquiles369, en un rato salimos a cazar te unes con la manada o te quedas en la cueva tu decides "<img height="35" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif"></h1>
 
 <br>
 
 <p align="center">
- <img  height="470rem" alt="GIF" src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif?cid=790b76110snsqzg6r51pc0qfifkl311fen0xhy2h2hik7pj3&ep=v1_stickers_search&rid=giphy.gif&ct=s"/>
+ <img  height="470rem" alt="GIF" src="https://github.com/Aquiles369/iconos/blob/main/img/hack.gif"/>
 </p>
 
 
@@ -24,7 +24,7 @@
 <br>
 
 
-### <picture> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzA5aHIweWk1dmw1cWIzbHcyZWJqOGtnZGNwajQycHdwdjNqY3IxOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MBCGHSfJTs53LsKC9a/giphy.gif" width ="50" > </picture> Escríbeme:
+### <picture> <img src="https://github.com/Aquiles369/iconos/blob/main/img/eis.gif" width ="50" > </picture> Escríbeme:
 <p align="center">
 	<a href="https://www.linkedin.com/in/Aquiles369/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/Aquiles369"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
