@@ -144,7 +144,7 @@
 
 
  
- ### <picture> <img src = "<iframe src="https://giphy.com/embed/xTiTnBELA6Mb1TeeOc" width="412" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mr-robot-rami-malek-hacker-xTiTnBELA6Mb1TeeOc">via GIPHY</a></p>" width = 50px>  </picture> Proyectos creados:
+ ### <picture> <img src="https://giphy.com/gifs/mr-robot-rami-malek-hacker-xTiTnBELA6Mb1TeeOc" width = 50px>  </picture> Proyectos creados:
  <p align="center">
  	 <a href="https://github.com/Aquiles369/FLDSMDFR"><img alt="tools creada" src="https://img.shields.io/badge/FLDSMDFR-ff4500?logo=FLDSMDFR&logoColor=#0000ff&style=flat"> 
    	<a href="https://github.com/Aquiles369/Bug_Bounty_IA_ari"><img alt="tools creada" src="https://img.shields.io/badge/Bug_Bounty_IA_ari-f70606?logo=Bug_Bounty_IA_ari&logoColor=#f70606&style=flat">
