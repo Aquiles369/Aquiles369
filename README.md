@@ -1,4 +1,4 @@
-<h1 align="center"><img height="40" src="https://media.giphy.com/media/MBOrIDjqIfIgQycbvS/giphy.gif?cid=790b76116h2bhy98134wfc198wbmnpqk4v8klubts7mk9pud&ep=v1_stickers_search&rid=giphy.gif&ct=s"><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">" Saludos , Haz llegado a la Cueva de Aquiles369, en un rato salimos a cazar te unes con la manada o te quedas en la cueva tu decides " <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> <img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"><img height="35" src="https://media.giphy.com/media/MBOrIDjqIfIgQycbvS/giphy.gif?cid=790b76116h2bhy98134wfc198wbmnpqk4v8klubts7mk9pud&ep=v1_stickers_search&rid=giphy.gif&ct=s"></h1>
+<h1 align="center"><img height="40" src="https://media.giphy.com/media/MBOrIDjqIfIgQycbvS/giphy.gif?cid=790b76116h2bhy98134wfc198wbmnpqk4v8klubts7mk9pud&ep=v1_stickers_search&rid=giphy.gif&ct=s">" Saludos , Haz llegado a la Cueva de Aquiles369, en un rato salimos a cazar te unes con la manada o te quedas en la cueva tu decides "<img height="35" src="https://media.giphy.com/media/MBOrIDjqIfIgQycbvS/giphy.gif?cid=790b76116h2bhy98134wfc198wbmnpqk4v8klubts7mk9pud&ep=v1_stickers_search&rid=giphy.gif&ct=s"></h1>
 
 <br>
 
@@ -7,7 +7,7 @@
 </p>
 
 	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Whoami:
+## <picture><img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmgyYmh5OTgxMzR3ZmMxOTh3Ym1ucHFrNHY4a2x1YnRzN21rOXB1ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/13uNz6hqdlwxwc/giphy.gif" width = 50px></picture> Whoami:
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
