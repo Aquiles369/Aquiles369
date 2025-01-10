@@ -156,6 +156,9 @@
     <a href="#"><img src="https://img.shields.io/badge/hardening_Servidores-dc143c?logo=hardening_Servidores&logoColor=#FF5733&style=flat"></a>
     <a href="https://github.com/Aquiles369/FLDSMDFR"><img alt="tools creada" src="https://img.shields.io/badge/FLDSMDFR-ff4500?logo=FLDSMDFR&logoColor=#0000ff&style=flat">
 
+ ### <picture> <img src = "https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width = 50px>  </picture> Proyectos creados:
+ <a href="https://github.com/Aquiles369/FLDSMDFR"><img alt = "Tools mas de 100 tools todo un una V.1 esta creada en bash completo" src="https://img.shields.io/badge/hackerone-dc143c?logo=hackerone&logoColor=#0000ff&style=flat" /></a>
+ 
 
 
 
