@@ -1,4 +1,4 @@
-<h1 align="center"><img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">" Saludos , Haz llegado a la Cueva de Aquiles369, en un rato salimos a cazar te unes con la manada o te quedas en la cueva tu decides " <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> <img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"><img height="35" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h1>
+<h1 align="center"><img height="40" src="https://media.giphy.com/media/MBOrIDjqIfIgQycbvS/giphy.gif?cid=790b76116h2bhy98134wfc198wbmnpqk4v8klubts7mk9pud&ep=v1_stickers_search&rid=giphy.gif&ct=s"><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">" Saludos , Haz llegado a la Cueva de Aquiles369, en un rato salimos a cazar te unes con la manada o te quedas en la cueva tu decides " <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> <img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"><img height="35" src="https://media.giphy.com/media/MBOrIDjqIfIgQycbvS/giphy.gif?cid=790b76116h2bhy98134wfc198wbmnpqk4v8klubts7mk9pud&ep=v1_stickers_search&rid=giphy.gif&ct=s"></h1>
 
 <br>
 
@@ -154,7 +154,7 @@
       	<a href="https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos"><img alt="tools creada" src="https://img.shields.io/badge/Blog-ff8000?logo=Blog&logoColor=#ff8000&style=flat">
 
    
- ### <picture> <img src = "https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width = 50px>  </picture> Otros programacion y pentesting Web,:
+ ### <picture> <img src = "https://media.giphy.com/media/ZJZS4VPcjlZtKwuX5n/giphy.gif?cid=ecf05e477xjywa9mumzmpx8a7wy3r0ywjogc5fmfasmcerp9&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 50px>  </picture> Otros programacion y pentesting Web,:
  
 <p align="center">
     <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
