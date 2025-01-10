@@ -24,7 +24,7 @@
 <br>
 
 
-## <picture> <img src="https://media.giphy.com/media/6GEXBe7Nsde0GTLRbd/giphy.gif?cid=ecf05e47gnr4osrrx5d704w1zujl9k8o5wr7q7ufbvhi9oyw&ep=v1_stickers_search&rid=giphy.gif&ct=s"> </picture> Escríbeme:
+## <picture> <img src="https://media.giphy.com/media/6GEXBe7Nsde0GTLRbd/giphy.gif?cid=ecf05e47gnr4osrrx5d704w1zujl9k8o5wr7q7ufbvhi9oyw&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="25" > </picture> Escríbeme:
 <p align="center">
 	<a href="https://www.linkedin.com/in/Aquiles369/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/Aquiles369"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
