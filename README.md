@@ -146,8 +146,10 @@
  
  ### <picture> <img src = "https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width = 50px>  </picture> Proyectos creados:
  <p align="center">
- 	 <a href="https://github.com/Aquiles369/FLDSMDFR"><img alt="tools creada" src="https://img.shields.io/badge/FLDSMDFR-ff4500?logo=FLDSMDFR&logoColor=#0000ff&style=flat">
+ 	 <a href="https://github.com/Aquiles369/FLDSMDFR"><img alt="tools creada" src="https://img.shields.io/badge/FLDSMDFR-ff4500?logo=FLDSMDFR&logoColor=#0000ff&style=flat"> 
+   	<a href="https://github.com/Aquiles369/Bug_Bounty_IA_ari"><img alt="tools creada" src="https://img.shields.io/badge/Bug_Bounty_IA_ari-f70606?logo=Bug_Bounty_IA_ari&logoColor=#f70606&style=flat">
 
+   
  ### <picture> <img src = "https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width = 50px>  </picture> Practicas de programacion y pentesting Web, Extra:
  
 <p align="center">
