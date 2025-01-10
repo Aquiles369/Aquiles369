@@ -200,7 +200,7 @@
 
 </br></br>
 	
-## <img height="40" src="https://media.giphy.com/media/6GEXBe7Nsde0GTLRbd/giphy.gif?cid=ecf05e47gnr4osrrx5d704w1zujl9k8o5wr7q7ufbvhi9oyw&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="50"> Mira y Admira <img height="50" src="https://media.giphy.com/media/6GEXBe7Nsde0GTLRbd/giphy.gif?cid=ecf05e47gnr4osrrx5d704w1zujl9k8o5wr7q7ufbvhi9oyw&ep=v1_stickers_search&rid=giphy.gif&ct=s">
+## <img height="40" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzA5aHIweWk1dmw1cWIzbHcyZWJqOGtnZGNwajQycHdwdjNqY3IxOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MBCGHSfJTs53LsKC9a/giphy.gif" width ="50"> Mira y Admira <img height="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzA5aHIweWk1dmw1cWIzbHcyZWJqOGtnZGNwajQycHdwdjNqY3IxOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MBCGHSfJTs53LsKC9a/giphy.gif">
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
