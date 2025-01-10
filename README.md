@@ -13,7 +13,7 @@
 <br><br> 
 
 <picture> <img align="right" src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif?cid=ecf05e479e7m4ez53t7amf2e6oi4spqm1ekpg5weppwv0q8n&ep=v1_stickers_search&rid=giphy.gif&ct=s"  width = 20px></picture>
-- :Whoami:`Desarrolador WEB, especializado en Back-end, cuento con conocimiento  del Front-end, ademas soy  Técnico Superior de Cibersegurirdad , Experiencia  en Autidorias Web y Hardening en Servidores`.
+- <img align="right" src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif?cid=ecf05e479e7m4ez53t7amf2e6oi4spqm1ekpg5weppwv0q8n&ep=v1_stickers_search&rid=giphy.gif&ct=s"  width = 20px>:Whoami:`Desarrolador WEB, especializado en Back-end, cuento con conocimiento  del Front-end, ademas soy  Técnico Superior de Cibersegurirdad , Experiencia  en Autidorias Web y Hardening en Servidores`.
 - :Algo sobre mi:`Soltura en varios lenguajes de desarrollo y scripting`.<br>
   `Creatividad y pensamiento lateral`.<br>
   `Iniciativa y autonomía en la resolución de problemas`.<br>
