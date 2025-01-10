@@ -41,7 +41,7 @@
 
 <br>
  
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Front-end:
+### <picture> <img src = "https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif?cid=790b7611nwph2rn2dqk1qste06iwfgginyl94pkz857fzs95&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 50px>  </picture> Front-end:
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
@@ -78,7 +78,7 @@
    </a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Back-End:
+ ### <picture> <img src = "https://media.giphy.com/media/kXixecGzl2gBlpO4SQ/giphy.gif?cid=ecf05e477snyksk2dlgeyjc8956rzpan4tnh3tvu0ecyd684&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 50px>  </picture> Back-End:
  <p align="center">
 	<a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-14354C.svg?logo=php&logoColor=white&color=mediumpurple"></a>
  	<a href="https://www.mysql.com/"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
