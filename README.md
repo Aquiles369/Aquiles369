@@ -149,6 +149,7 @@
  	 <a href="https://github.com/Aquiles369/FLDSMDFR"><img alt="tools creada" src="https://img.shields.io/badge/FLDSMDFR-ff4500?logo=FLDSMDFR&logoColor=#0000ff&style=flat"> 
    	<a href="https://github.com/Aquiles369/Bug_Bounty_IA_ari"><img alt="tools creada" src="https://img.shields.io/badge/Bug_Bounty_IA_ari-f70606?logo=Bug_Bounty_IA_ari&logoColor=#f70606&style=flat">
     	<a href="https://github.com/Aquiles369/CIBERSEGURIDAD.TODOS-LOS-PDF"><img alt="tools creada" src="https://img.shields.io/badge/CIBERSEGURIDAD_TODOS_LOS_PDF-0615f7?logo=Bug_Bounty_IA_ari&logoColor=#0615f7&style=flat">
+     	<a href="https://github.com/Aquiles369/Cursos-de-Youtube"><img alt="tools creada" src="https://img.shields.io/badge/Cursos_de_Youtube-bd06f7?logo=Bug_Bounty_IA_ari&logoColor=#bd06f7&style=flat">
 
    
  ### <picture> <img src = "https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width = 50px>  </picture> Otros programacion y pentesting Web,:
