@@ -41,7 +41,7 @@
 
 <br>
  
-###<picture> <img src = "https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif?cid=790b7611nwph2rn2dqk1qste06iwfgginyl94pkz857fzs95&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 50px>  </picture> Front-end:
+### <picture> <img src = "https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif?cid=790b7611nwph2rn2dqk1qste06iwfgginyl94pkz857fzs95&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 50px>  </picture> Front-end:
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
@@ -144,7 +144,7 @@
 
 
  
- ##<picture> <img src = "https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif?cid=790b7611ulp5z0z3f36wf01xw5lyuq336yd8iln1f01aoxdv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 50px>  </picture> Proyectos creados:
+ ## <picture> <img src = "https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif?cid=790b7611ulp5z0z3f36wf01xw5lyuq336yd8iln1f01aoxdv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 50px>  </picture> Proyectos creados:
  <p align="center">
  	 <a href="https://github.com/Aquiles369/FLDSMDFR"><img alt="tools creada" src="https://img.shields.io/badge/FLDSMDFR-ff4500?logo=FLDSMDFR&logoColor=#0000ff&style=flat"> 
    	<a href="https://github.com/Aquiles369/Bug_Bounty_IA_ari"><img alt="tools creada" src="https://img.shields.io/badge/Bug_Bounty_IA_ari-f70606?logo=Bug_Bounty_IA_ari&logoColor=#f70606&style=flat">
