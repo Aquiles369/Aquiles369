@@ -151,7 +151,7 @@
     	<a href="https://github.com/Aquiles369/CIBERSEGURIDAD.TODOS-LOS-PDF"><img alt="tools creada" src="https://img.shields.io/badge/CIBERSEGURIDAD_TODOS_LOS_PDF-0615f7?logo=Bug_Bounty_IA_ari&logoColor=#0615f7&style=flat"/></a>
      	<a href="https://github.com/Aquiles369/Cursos-de-Youtube"><img alt="tools creada" src="https://img.shields.io/badge/Cursos_de_Youtube-bd06f7?logo=Bug_Bounty_IA_ari&logoColor=#bd06f7&style=flat"/></a>
       	<a href="https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos"><img alt="tools creada" src="https://img.shields.io/badge/Blog-ff8000?logo=Blog&logoColor=#ff8000&style=flat"/></a></p>
-	<a href="nada"><img alt="check list V1 creada" src="https://img.shields.io/badge/Chek_list_V1-0c0c0c?logo=Check_list_V11&logoColor=#0c0c0c&style=flat"/></a>       
+	<a href="nada"><img alt="check list V1 la mejor del mundo" src="https://img.shields.io/badge/Chek_list_V1-003aff?logo=Check_list_V11&logoColor=#003aff&style=flat"/></a>       
 
    
  ### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/pccc.gif" width = 70px>  </picture> Otros programacion y pentesting Web
