@@ -144,7 +144,7 @@
 
 
  
- ### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/geni.gif" width = 70px>  </picture> Proyectos creados
+ ### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/hack1.gif" width = 70px>  </picture> Proyectos creados
  <p align="center">
   	<a href="https://github.com/Aquiles369/FLDSMDFR"><img alt="tools creada" src="https://img.shields.io/badge/FLDSMDFR-ff4500?logo=FLDSMDFR&logoColor=#0000ff&style=flat"/></a>
    	<a href="https://github.com/Aquiles369/Bug_Bounty_IA_ari"><img alt="tools creada" src="https://img.shields.io/badge/Bug_Bounty_IA_ari-f70606?logo=Bug_Bounty_IA_ari&logoColor=#f70606&style=flat"/></a>
