@@ -1,4 +1,4 @@
-<h1 align="center"><img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif">" Saludos , Haz llegado a la Cueva de Aquiles, en un rato salimos a cazar te unes con la manada o te quedas en la cueva tu decides "<img height="35" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif"></h1>
+<h1 align="center"><img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif">"🔱El éxito no necesita ruido, solo propósito🔱"<img height="35" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif"></h1>
 
 <br>
 
