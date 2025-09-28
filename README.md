@@ -37,9 +37,10 @@
   <br>
   <br>
 
+##
 
- ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="55"> Skills:
- <br>
+
+### <img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/perfec.gif" width ="50px"> Ser mejor cada dia <img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/perfec.gif"  width ="50px">
 
 <picture> <img src="https://github.com/Aquiles369/iconos/blob/main/img/eis.gif" width ="50" > </picture> Proyectos Destacados
 <p align="center"><br>
@@ -196,7 +197,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aquiles369&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Aquiles369"/>
 </div>
 	
-### <img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/perfec.gif" width ="50px"> Mira y Admira <img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/perfec.gif"  width ="50px">
+### <img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/perfec.gif" width ="50px"> Ser mejor cada dia <img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/perfec.gif"  width ="50px">
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
