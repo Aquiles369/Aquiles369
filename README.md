@@ -122,6 +122,16 @@
  
  </p>
 
+
+ ### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/fuego.gif" width = 70px>  </picture> IDEs
+ 
+<p align="center">
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
+        <a href="#"><img alt="neovim" src="https://img.shields.io/badge/neovim-f0ffff?logo=neovim&logoColor=#0000ff&style=flat" /></a>
+
+ 
+
  ### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/pc.gif" width = 70px>  </picture> Herramientas
  
 <p align="center">
@@ -161,13 +171,6 @@
 
 
 </p>
-
- ### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/fuego.gif" width = 70px>  </picture> IDEs
- 
-<p align="center">
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
-        <a href="#"><img alt="neovim" src="https://img.shields.io/badge/neovim-f0ffff?logo=neovim&logoColor=#0000ff&style=flat" /></a>
 
 
    
