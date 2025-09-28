@@ -30,8 +30,8 @@
   📚 Mi página: **[GitBook — Todos los módulos](https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos)**  
   🎥 YouTube: **[Aquiles](https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg)**  
   💬 Discord (servidor oficial): **https://discord.gg/tuinvitelink**  
-  🛡️ Perfil Bug Bounty / HackerOne: **https://hackerone.com/tu_usuario**
-  💼 LinkedIn: *(añade tu enlace)*
+  🛡️ Perfil Bug Bounty / HackerOne: **https://hackerone.com/tu_usuario**<br>
+  💼 LinkedIn: *(añade tu enlace)*<br>
   ✉️ Contacto: **aquiless369@gmail.com**
   <br>
 
