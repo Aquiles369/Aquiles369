@@ -29,13 +29,15 @@
   En búsqueda de una nueva oportunidad laboral.  
   📚 Mi página: **[GitBook — Todos los módulos](https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos)**  
   🎥 YouTube: **[Aquiles](https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg)**  
-  💼 LinkedIn: *(añade tu enlace)*  
+  💬 Discord (servidor oficial): **https://discord.gg/tuinvitelink**  
+  🛡️ Perfil Bug Bounty / HackerOne: **https://hackerone.com/tu_usuario**
+  💼 LinkedIn: *(añade tu enlace)*
   ✉️ Contacto: **aquiless369@gmail.com**
   <br>
 
 
 
-### <picture> <img src="https://github.com/Aquiles369/iconos/blob/main/img/eis.gif" width ="50" > </picture> Escríbeme
+### <picture> <img src="https://github.com/Aquiles369/iconos/blob/main/img/eis.gif" width ="50" > </picture> Proyectos Destacados
 <p align="center">
 	<a href="https://www.linkedin.com/in/Aquiles369/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/Aquiles369"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
