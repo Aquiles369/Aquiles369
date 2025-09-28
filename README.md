@@ -35,8 +35,11 @@
   ✉️ Contacto: **aquiless369@gmail.com**
   <br>
   <br>
+  <br>
 
 
+ ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="55"> Skills:
+ <br>
 
 <picture> <img src="https://github.com/Aquiles369/iconos/blob/main/img/eis.gif" width ="50" > </picture> Proyectos Destacados
 <p align="center"><br>
@@ -49,8 +52,8 @@
 </p>
 <br>
 <br>
-### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/hack1.gif" width = 70px>  </picture> Proyectos Generales
- <p align="center">
+<picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/hack1.gif" width = 70px>  </picture> Proyectos Generales
+ <p align="center"><br><br>
   	<a href="https://github.com/Aquiles369/FLDSMDFR"><img alt="tools creada" src="https://img.shields.io/badge/FLDSMDFR-ff4500?logo=FLDSMDFR&logoColor=#0000ff&style=flat"/></a>
    	<a href="https://github.com/Aquiles369/Bug_Bounty_IA_ari"><img alt="tools creada" src="https://img.shields.io/badge/Bug_Bounty_IA_ari-f70606?logo=Bug_Bounty_IA_ari&logoColor=#f70606&style=flat"/></a>
     	<a href="https://github.com/Aquiles369/CIBERSEGURIDAD.TODOS-LOS-PDF"><img alt="tools creada" src="https://img.shields.io/badge/CIBERSEGURIDAD_TODOS_LOS_PDF-0615f7?logo=Bug_Bounty_IA_ari&logoColor=#0615f7&style=flat"/></a>
