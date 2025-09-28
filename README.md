@@ -14,15 +14,24 @@
 <br><br> 
 
 
-- :Whoami:`Desarrolador WEB, especializado en Back-end, cuento con conocimiento  del Front-end, ademas soy  Técnico Superior de Cibersegurirdad , Experiencia  en Autidorias Web y Hardening en Servidores`.
-- :Algo sobre mi:`Soltura en varios lenguajes de desarrollo y scripting`.<br>
-  `Creatividad y pensamiento lateral`.<br>
-  `Iniciativa y autonomía en la resolución de problemas`.<br>
-  `Experiencia en CTFs y retos`.<br>
-  `Experiencia en bug bounty`.<br>
-  `Varios Proyectos y creacion de Cursos realizados de forma Autodidacta`.<br>
-- :Actualmente: `Estoy en busqueda de una nueva oportunidad laboral, puedes visitar mi Pagina web`: [CLICK AQUI](https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos) tambien a mi correo aquiless369@gmail.com , Mi Canal de Youtube:[ https://www.youtube.com/](https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg) y mi Linkedin.
-<br>
+- **Whoami:** Desarrollador **Web** especializado en **Back-end**, con conocimientos de **Front-end**.  
+  Técnico Superior en **Ciberseguridad** con experiencia en **auditorías web** y **hardening de servidores**.
+
+- **Sobre mí:**  
+  • Soltura en varios lenguajes de desarrollo y *scripting*.  
+  • Creatividad y pensamiento lateral.  
+  • Iniciativa y autonomía para resolver problemas.  
+  • Experiencia en **CTFs** y retos.  
+  • Experiencia en **bug bounty**.  
+  • Proyectos y **creación de cursos** realizados de forma autodidacta.
+
+- **Actualmente:**  
+  En búsqueda de una nueva oportunidad laboral.  
+  📚 Mi página: **[GitBook — Todos los módulos](https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos)**  
+  🎥 YouTube: **[Aquiles](https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg)**  
+  💼 LinkedIn: *(añade tu enlace)*  
+  ✉️ Contacto: **aquiless369@gmail.com**
+ <br>
 
 
 ### <picture> <img src="https://github.com/Aquiles369/iconos/blob/main/img/eis.gif" width ="50" > </picture> Escríbeme
