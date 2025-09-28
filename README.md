@@ -37,10 +37,12 @@
   <br>
   <br>
 
-##
-
 
 ### <img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/perfec.gif" width ="50px"> Ser mejor cada dia <img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/perfec.gif"  width ="50px">
+  <br>
+
+##
+  <br>
 
 <picture> <img src="https://github.com/Aquiles369/iconos/blob/main/img/eis.gif" width ="50" > </picture> Proyectos Destacados
 <p align="center"><br>
