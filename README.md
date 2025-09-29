@@ -22,11 +22,11 @@
   • Creatividad y pensamiento lateral.  
   • Iniciativa y autonomía para resolver problemas.  
   • Experiencia en **CTFs** y retos.  
-  • Experiencia en **bug bounty**.  
-  • Proyectos y **creación de cursos** realizados de forma autodidacta.
+  • Experiencia en **bug bounty**.
+  • Salón de la Fama **puesto 22** en el programa de PortSwigger.net em HackoerOner.
+  • Proyectos y **creación de varios cursos** realizados de forma autodidacta.
 
-- **Actualmente:**  
-  En búsqueda de una nueva oportunidad laboral.  
+- **Mis Redes Sociales:**  
   📚 Mi página: **[GitBook — Todos los módulos](https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos)**  
   🎥 YouTube: **[Aquiles](https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg)**  
   💬 Discord (servidor oficial): **https://discord.gg/tuinvitelink**  
