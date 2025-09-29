@@ -136,7 +136,7 @@
  </p>
 
 
- ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZqN3QwdzZhZGVsYWIzYmpzZnJrazMwcmxpd3ppZHh5YWlyaG0zNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6ppZr7ob8L6w/giphy.gi" width = 70px>  </picture> IDEs
+ ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGU0eWp6Y2gyY3h4anR6MjQxMnQ0bmNyYzB3N2kwYWlsYm9jaHk3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Db7LCEUikG9P8dt3MC/giphy.gif" width = 70px>  </picture> IDEs
  
 <p align="center">
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
