@@ -10,7 +10,7 @@
 
 ### <p align="center"> <picture> <img src="https://github.com/Aquiles369/iconos/blob/main/img/lobo2.gif" width="50px"/></picture>&nbsp;&nbsp;WHOAMI<img src="https://github.com/Aquiles369/iconos/blob/main/img/lobo2.gif" width="50px"> </p>
 
-### <picture> <img align="right" src="https://github.com/Aquiles369/iconos/blob/main/img/geni.gif"  width = 350px  high ="200px"></picture>
+### <picture> <img align="right" src="https://giphy.com/gifs/meme-requiem-shigure-ui-RBIwm8rlA2Fy1CG5xa"  width = 350px  high ="200px"></picture>
 <br><br> 
 
 
@@ -136,7 +136,7 @@
  </p>
 
 
- ### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/fuego.gif" width = 70px>  </picture> IDEs
+ ### <picture> <img src = "https://giphy.com/gifs/gladiator-a6ppZr7ob8L6w" width = 70px>  </picture> IDEs
  
 <p align="center">
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
