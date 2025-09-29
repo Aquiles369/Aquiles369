@@ -22,8 +22,8 @@
   • Creatividad y pensamiento lateral.  
   • Iniciativa y autonomía para resolver problemas.  
   • Experiencia en **CTFs** y retos.  
-  • Experiencia en **bug bounty**.
-  • Salón de la Fama **puesto 22** en el programa de PortSwigger.net em HackoerOner.
+  • Experiencia en **bug bounty**.<br>
+  • Salón de la Fama **puesto 22** en el programa de PortSwigger.net em HackoerOner.<br>
   • Proyectos y **creación de varios cursos** realizados de forma autodidacta.
 
 - **Mis Redes Sociales:**  
