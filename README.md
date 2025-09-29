@@ -63,7 +63,7 @@
 
  <br>
  
-### <picture> <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width ="50" > </picture> Cursos creados
+### <picture> <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width ="70" > </picture> Cursos creados
 <p align="center"><br>
 	<a href="https://www.linkedin.com/in/Aquiles369/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/Aquiles369"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -75,7 +75,7 @@
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br><br>
 
-### <img src="https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTkxMzY0MTksIm5iZiI6MTc1OTEzNjExOSwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU5NzMtZTRmMjgyMDQtZWE4OC00MzY0LWEzMjEtODMzMGMzZmJkZTZhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTI5VDA4NTUxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY4ZTRlMTRjZGNkNzAwMTA0NzAwN2M2NmZlMzEyNTM5ODEyNmE5YzM0NzM2ZTZjZTM2MjkwNDgyOTY0YWU0NjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ToeFMIHkH6y2WC7BFgWBZy52UzhlJSZ-boTuB1QXWbo" width ="55"> Skills:
+### <img src="https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTkxMzY0MTksIm5iZiI6MTc1OTEzNjExOSwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU5NzMtZTRmMjgyMDQtZWE4OC00MzY0LWEzMjEtODMzMGMzZmJkZTZhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTI5VDA4NTUxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY4ZTRlMTRjZGNkNzAwMTA0NzAwN2M2NmZlMzEyNTM5ODEyNmE5YzM0NzM2ZTZjZTM2MjkwNDgyOTY0YWU0NjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ToeFMIHkH6y2WC7BFgWBZy52UzhlJSZ-boTuB1QXWbo" width ="95"> Skills:
 
 <br>
  
