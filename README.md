@@ -81,7 +81,7 @@
 
 <br>
  
-### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/obsession.gif" width = 70px>  </picture> Front-end
+### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdrYXd3bjlvMmQzMTMzenUya2l0Y2U4MDg3Zm16dXY0MTFqcHM5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/NFrr9sq0XpyWz27CZO/giphy.gif" width = 70px>  </picture> Front-end
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
@@ -145,7 +145,7 @@
 
  
 
- ### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/pc.gif" width = 70px>  </picture> Herramientas
+ ### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDkxZHI3bWVhcmFuejk3b2tvaHpnd2xjeGU3MnpvY2tzZnVvc2ozeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MvFV5DRtti3KT54PID/giphy.gif" width = 70px>  </picture> Herramientas
  
 <p align="center">
      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
