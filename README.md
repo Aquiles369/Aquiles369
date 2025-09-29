@@ -14,7 +14,7 @@
 <br><br> 
 
 
-- **Whoami:** Desarrollador **Web** especializado en **Back-end**, con conocimientos de **Front-end**.  
+- <picture> <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xpbDhucTBldzN2YjF6Znh3aWE2ZnpiOXlyMmpoOXB3dzY1dmd3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/51DhgKgfPbsYDwTBPa/giphy.gif"  width = 10px  high ="200px"></picture>**Whoami:** Desarrollador **Web** especializado en **Back-end**, con conocimientos de **Front-end**.  
   Técnico Superior en **Ciberseguridad** con experiencia en **auditorías web** y **hardening de servidores**.
 
 - **Sobre mí:**  
