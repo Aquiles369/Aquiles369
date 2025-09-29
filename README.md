@@ -10,7 +10,7 @@
 
 ### <p align="center"> <picture> <img src="https://github.com/Aquiles369/iconos/blob/main/img/lobo2.gif" width="50px"/></picture>&nbsp;&nbsp;WHOAMI<img src="https://github.com/Aquiles369/iconos/blob/main/img/lobo2.gif" width="50px"> </p>
 
-### <picture> <img align="right" src="https://github.com/Aquiles369/iconos/blob/main/img/geni.gif"  width = 250px  high ="200px"></picture>
+### <picture> <img align="right" src="https://github.com/Aquiles369/iconos/blob/main/img/geni.gif"  width = 450px  high ="200px"></picture>
 <br><br> 
 
 
@@ -38,7 +38,7 @@
   <br>
 
 
-### <img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/perfec.gif" width ="50px"> Ser mejor cada dia <img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/perfec.gif"  width ="50px">
+### <img height="40" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width ="50px"> Ser mejor cada dia <img height="40" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif"  width ="50px">
 ##
   <br>
 
