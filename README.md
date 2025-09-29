@@ -43,7 +43,7 @@
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
   <br>
 
-### <picture> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFnM29vZHo4ODRyaTdiazRjbmtyYWJrYWh4aDczOWxmdWdlcDZvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Dfpfss2vAyQvBVCi7l/giphy.gif" width ="90" > </picture> Proyectos Destacados
+### <picture> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFnM29vZHo4ODRyaTdiazRjbmtyYWJrYWh4aDczOWxmdWdlcDZvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Dfpfss2vAyQvBVCi7l/giphy.gif" width ="90" > </picture> Proyectos destacados
 <p align="center"><br>
 	<a href="https://www.linkedin.com/in/Aquiles369/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/Aquiles369"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -54,7 +54,7 @@
 </p>
 <br>
 
-### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZqcDVjaGw4MDB2eHl0a2RjanFjMXlncXdraHlzNnlleGpzYnFqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f5qDLTTcOqcnExaIIp/giphy.gif" width = 70px>  </picture> Proyectos Generales
+### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZqcDVjaGw4MDB2eHl0a2RjanFjMXlncXdraHlzNnlleGpzYnFqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f5qDLTTcOqcnExaIIp/giphy.gif" width = 70px>  </picture> Proyectos generales
  <p align="center"><br><br>
   	<a href="https://github.com/Aquiles369/FLDSMDFR"><img alt="tools creada" src="https://img.shields.io/badge/FLDSMDFR-ff4500?logo=FLDSMDFR&logoColor=#0000ff&style=flat"/></a>
    	<a href="https://github.com/Aquiles369/Bug_Bounty_IA_ari"><img alt="tools creada" src="https://img.shields.io/badge/Bug_Bounty_IA_ari-f70606?logo=Bug_Bounty_IA_ari&logoColor=#f70606&style=flat"/></a>
@@ -65,7 +65,7 @@
 
  <br>
  
-### <picture> <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width ="50" > </picture> Curso Creados
+### <picture> <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width ="50" > </picture> Cursos creados
 <p align="center"><br>
 	<a href="https://www.linkedin.com/in/Aquiles369/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/Aquiles369"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -118,7 +118,7 @@
    </a>
 </p>
 
- ### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/pixel.gif" width = 70px>  </picture> Back-End
+ ### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/pixel.gif" width = 70px>  </picture> Back-end
  <p align="center">
 	<a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-14354C.svg?logo=php&logoColor=white&color=mediumpurple"></a>
  	<a href="https://www.mysql.com/"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
@@ -187,7 +187,7 @@
 
 
    
- ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmwwZjB3dDRjZGZ6czFlbGhrMHFkZGQ4bGs2c3doZjJueXBjeW9kMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NJRnk63JCZ4BvCi6ZQ/giphy.gif" width = 70px>  </picture> Otros programacion y pentesting Web
+ ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmwwZjB3dDRjZGZ6czFlbGhrMHFkZGQ4bGs2c3doZjJueXBjeW9kMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NJRnk63JCZ4BvCi6ZQ/giphy.gif" width = 70px>  </picture> Programación y pentesting Web
  
 <p align="center">
 	<a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
@@ -228,7 +228,8 @@
 	<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 </p>
 <p align="center">
-<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">"ESPERO QUE ESTE REPOSITORIO  FUESE DE TU AGRADO , TE MANDO UN SALUDO GRANDE"<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">Espero que este repositorio haya sido de tu agrado.  
+¡Te mando un gran saludo!<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 	<br>
 	<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 </p>
