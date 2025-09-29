@@ -24,14 +24,14 @@
   • Experiencia en **CTFs** y retos.  
   • Experiencia en **bug bounty**.<br>
   • Salón de la Fama **puesto 22** en el programa de PortSwigger.net.<br>
-  • Proyectos y **creación de varios cursos** realizados de forma autodidacta.
+  • Proyectos y **creación de varios cursos**.
 
 - **Mis Redes Sociales:**  
-  📚 Mi página: **[GitBook — Todos los módulos](https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos)**  
+  📚 Mi página: **[GitBook](https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos)**  
   🎥 YouTube: **[Aquiles](https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg)**  
-  💬 Discord (servidor oficial): **https://discord.gg/tuinvitelink**  
-  🛡️ Perfil Bug Bounty / HackerOne: **https://hackerone.com/tu_usuario**<br>
-  💼 LinkedIn: *(añade tu enlace)*<br>
+  💬 Discord : **https://discord.gg/tuinvitelink**<br>  
+  🛡️ Perfil Bug Bounty/HackerOne: **https://hackerone.com/aquiless/hacktivity?type=user**<br>
+  💼 LinkedIn: *()*<br>
   ✉️ Contacto: **aquiless369@gmail.com**
   <br>
   <br>
