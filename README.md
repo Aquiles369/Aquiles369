@@ -8,7 +8,7 @@
 
 ##
 
-### <p align="center"> <picture> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJjYXB0ZTFpajdkM3hmNjNkN2hjZDAwb2Roam42M2Fpd2VteXprMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zpw7K1f3smFfENMsOA/giphy.gif" width="50px"/></picture>&nbsp;&nbsp;WHOAMI<img src="https://github.com/Aquiles369/iconos/blob/main/img/lobo2.gif" width="50px"> </p>
+### <p align="center"> <picture> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJjYXB0ZTFpajdkM3hmNjNkN2hjZDAwb2Roam42M2Fpd2VteXprMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zpw7K1f3smFfENMsOA/giphy.gif" width="50px"/></picture>&nbsp;&nbsp;WHOAMI<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJjYXB0ZTFpajdkM3hmNjNkN2hjZDAwb2Roam42M2Fpd2VteXprMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zpw7K1f3smFfENMsOA/giphy.gif" width="50px"> </p>
 
 ### <picture> <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWh1NXMwY3B4NmsyeTlxaHZkZWgxd3M5eWdqbnU0ZHFydzhlZG0ycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MZ7yrimhG3DThJqHjl/giphy.gif"  width = 350px  high ="200px"></picture>
 <br><br> 
@@ -187,7 +187,7 @@
 
 
    
- ### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/pccc.gif" width = 70px>  </picture> Otros programacion y pentesting Web
+ ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmwwZjB3dDRjZGZ6czFlbGhrMHFkZGQ4bGs2c3doZjJueXBjeW9kMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NJRnk63JCZ4BvCi6ZQ/giphy.gif" width = 70px>  </picture> Otros programacion y pentesting Web
  
 <p align="center">
 	<a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
