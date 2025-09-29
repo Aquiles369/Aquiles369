@@ -14,7 +14,7 @@
 <br><br> 
 
 
-- **Whoami:** Desarrollador **Web** especializado en **Back-end**, con conocimientos de **Front-end**.  
+- **Whoami:** <br> Desarrollador **Web** especializado en **Back-end**, con conocimientos de **Front-end**.  
   Técnico Superior en **Ciberseguridad** con experiencia en **auditorías web** y **hardening de servidores**.
 
 - **Sobre mí:**  
