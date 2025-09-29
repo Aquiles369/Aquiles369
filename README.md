@@ -29,7 +29,7 @@
 - **Redes Sociales:** <br>
   💼 LinkedIn: *(XD)*<br>
   ✉️ Contacto: **aquiless369@gmail.com**  
-  📚 Mi página: **[GitBook](https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos)**  
+  📚 Mi Blog: **[GitBook](https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos)**  
   🎥 YouTube: **[Aquiles](https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg)**  
   💬 Discord : **https://discord.gg/tuinvitelink**   <br>
   🛡️ Perfil Bug Bounty/HackerOne: **https://hackerone.com/aquiless/hacktivity?type=user**<br>
