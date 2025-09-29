@@ -23,7 +23,7 @@
   • Iniciativa y autonomía para resolver problemas.  
   • Experiencia en **CTFs** y retos.  
   • Experiencia en **bug bounty**.<br>
-  • Salón de la Fama **puesto 22** en el programa de PortSwigger.net em HackoerOner.<br>
+  • Salón de la Fama **puesto 22** en el programa de PortSwigger.net.<br>
   • Proyectos y **creación de varios cursos** realizados de forma autodidacta.
 
 - **Mis Redes Sociales:**  
@@ -116,7 +116,7 @@
    </a>
 </p>
 
- ### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/pixel.gif" width = 70px>  </picture> Back-end
+ ### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/pixel.gif" width = 80px>  </picture> Back-end
  <p align="center">
 	<a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-14354C.svg?logo=php&logoColor=white&color=mediumpurple"></a>
  	<a href="https://www.mysql.com/"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
