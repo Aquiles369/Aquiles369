@@ -38,9 +38,8 @@
   <br>
 
 
-### <img height="40" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B5M3B2bmpoeXJsNTB5MHUxYXQ4NWM0Y2F1ZHdxdmFudnpzcGt1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iuJEr72fj83GJy4tJn/giphy.gif" width ="50px"> Ser mejor cada dia <img height="40" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B5M3B2bmpoeXJsNTB5MHUxYXQ4NWM0Y2F1ZHdxdmFudnpzcGt1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iuJEr72fj83GJy4tJn/giphy.gif"  width ="50px">
 
-### <img height="40" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xpbDhucTBldzN2YjF6Znh3aWE2ZnpiOXlyMmpoOXB3dzY1dmd3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/51DhgKgfPbsYDwTBPa/giphy.gif" width ="50px">Tip: Si algo te interesa y querés saber más, hacé click en los recuadros <img height="40" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xpbDhucTBldzN2YjF6Znh3aWE2ZnpiOXlyMmpoOXB3dzY1dmd3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/51DhgKgfPbsYDwTBPa/giphy.gif"  width ="50px">
+### <img height="40" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B5M3B2bmpoeXJsNTB5MHUxYXQ4NWM0Y2F1ZHdxdmFudnpzcGt1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iuJEr72fj83GJy4tJn/giphy.gif" width ="50px">Tip: Si algo te interesa y querés saber más, hacé click en los recuadros <img height="40" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B5M3B2bmpoeXJsNTB5MHUxYXQ4NWM0Y2F1ZHdxdmFudnpzcGt1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iuJEr72fj83GJy4tJn/giphy.gif"  width ="50px">
 
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
@@ -190,7 +189,7 @@
 
 
    
- ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmwwZjB3dDRjZGZ6czFlbGhrMHFkZGQ4bGs2c3doZjJueXBjeW9kMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NJRnk63JCZ4BvCi6ZQ/giphy.gif" width = 70px>  </picture> Programación y pentesting Web
+ ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmwwZjB3dDRjZGZ6czFlbGhrMHFkZGQ4bGs2c3doZjJueXBjeW9kMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NJRnk63JCZ4BvCi6ZQ/giphy.gif" width = 80px>  </picture> Programación y pentesting Web
  
 <p align="center">
 	<a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
