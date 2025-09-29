@@ -43,7 +43,7 @@
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
   <br>
 
-<picture> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFnM29vZHo4ODRyaTdiazRjbmtyYWJrYWh4aDczOWxmdWdlcDZvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Dfpfss2vAyQvBVCi7l/giphy.gif" width ="70" > </picture> Proyectos Destacados
+<picture> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFnM29vZHo4ODRyaTdiazRjbmtyYWJrYWh4aDczOWxmdWdlcDZvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Dfpfss2vAyQvBVCi7l/giphy.gif" width ="90" > </picture> Proyectos Destacados
 <p align="center"><br>
 	<a href="https://www.linkedin.com/in/Aquiles369/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/Aquiles369"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -145,7 +145,7 @@
 
  
 
- ### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDkxZHI3bWVhcmFuejk3b2tvaHpnd2xjeGU3MnpvY2tzZnVvc2ozeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MvFV5DRtti3KT54PID/giphy.gif" width = 70px>  </picture> Herramientas
+ ### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1vM3R0bWVkeXk2cjJoZjlhMjVjZmRhOTQ5a21panR4NWhvbndoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sUo8IP8n2k5MI/giphy.gif" width = 70px>  </picture> Herramientas
  
 <p align="center">
      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
