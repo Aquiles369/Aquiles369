@@ -203,12 +203,14 @@
 </p>
 
 <br>
+<br>
+<br>
+
 
 <picture> <img src = "https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width = 1000px>  </picture>
 
 <br>
-<br>
-<br>
+
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Estadísticas
 <div align="center">
