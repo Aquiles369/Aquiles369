@@ -8,7 +8,7 @@
 
 ##
 
-### <p align="center"> <picture> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnpwYThhdW1wejV1azJ5b2Qxb3praGxwNm40cjUwOGJvYWlvc3JrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/y0fqIesjtRHjAQYAo6/giphy.gif" width="50px"/></picture>&nbsp;&nbsp;“Elige: ¿quieres ver a un dev más o conocer a 𝒜զႮ𐐆ᛚ𝖊ꆅ?”<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBtam0yN2psZzRtZnU1OHVsNzl5emhzejc2bTgxbDQ2czlqZHRxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f1ct6STeUQ2N36Cmks/giphy.gif" width="50px"> </p>
+### <p align="center"> <picture> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnpwYThhdW1wejV1azJ5b2Qxb3praGxwNm40cjUwOGJvYWlvc3JrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/y0fqIesjtRHjAQYAo6/giphy.gif" width="50px"/></picture>&nbsp;&nbsp;“Elige: ¿ quieres ver a un dev más o conocer a 𝒜զႮ𐐆ᛚ𝖊ꆅ ?”<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBtam0yN2psZzRtZnU1OHVsNzl5emhzejc2bTgxbDQ2czlqZHRxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f1ct6STeUQ2N36Cmks/giphy.gif" width="50px"> </p>
 
 ### <picture> <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWh1NXMwY3B4NmsyeTlxaHZkZWgxd3M5eWdqbnU0ZHFydzhlZG0ycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MZ7yrimhG3DThJqHjl/giphy.gif"  width = 350px  high ="200px"></picture>
 <br><br> 
