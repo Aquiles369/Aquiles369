@@ -53,7 +53,7 @@
 
 </p>
 <br>
-<br>
+
 ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZqcDVjaGw4MDB2eHl0a2RjanFjMXlncXdraHlzNnlleGpzYnFqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f5qDLTTcOqcnExaIIp/giphy.gif" width = 70px>  </picture> Proyectos Generales
  <p align="center"><br><br>
   	<a href="https://github.com/Aquiles369/FLDSMDFR"><img alt="tools creada" src="https://img.shields.io/badge/FLDSMDFR-ff4500?logo=FLDSMDFR&logoColor=#0000ff&style=flat"/></a>
