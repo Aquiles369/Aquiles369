@@ -71,7 +71,8 @@
  <a href="aquiless369@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
  <a href="https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg"><img alt="youtube" src="https://img.shields.io/badge/youtube-ff4500?logo=youtube&logoColor=#0000ff&style=flat">
  <a href="https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos"><img alt="Blog Personal" src="https://img.shields.io/badge/Mi%20Pagina%20Web-yelow">
-<br>
+
+
 ##
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="55"> Skills:
