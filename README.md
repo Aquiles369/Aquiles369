@@ -10,7 +10,7 @@
 
 ### <p align="center"> <picture> <img src="https://github.com/Aquiles369/iconos/blob/main/img/lobo2.gif" width="50px"/></picture>&nbsp;&nbsp;WHOAMI<img src="https://github.com/Aquiles369/iconos/blob/main/img/lobo2.gif" width="50px"> </p>
 
-### <picture> <img align="right" src="https://giphy.com/gifs/meme-requiem-shigure-ui-RBIwm8rlA2Fy1CG5xa"  width = 350px  high ="200px"></picture>
+### <picture> <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmwyeHJhcmQwa3MzdXF6MWxneGVmNGM5MDBmdGw5cXBkc2M2ODUwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RBIwm8rlA2Fy1CG5xa/giphy.gif"  width = 350px  high ="200px"></picture>
 <br><br> 
 
 
