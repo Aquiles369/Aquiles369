@@ -42,7 +42,7 @@
 
 <br>
 
-### <img height="40" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xpbDhucTBldzN2YjF6Znh3aWE2ZnpiOXlyMmpoOXB3dzY1dmd3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/51DhgKgfPbsYDwTBPa/giphy.gif" width ="50px"> **Tip:** Si algo te interesa y querés saber más, hacé *click* en los recuadros.  
+### <img height="40" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xpbDhucTBldzN2YjF6Znh3aWE2ZnpiOXlyMmpoOXB3dzY1dmd3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/51DhgKgfPbsYDwTBPa/giphy.gif" width ="50px"> Tip: Si algo te interesa y querés saber más, hacé *click* en los recuadros.  
 Cada uno te llevará directo al repositorio, curso o recurso correspondiente.
  <img height="40" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xpbDhucTBldzN2YjF6Znh3aWE2ZnpiOXlyMmpoOXB3dzY1dmd3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/51DhgKgfPbsYDwTBPa/giphy.gif"  width ="50px">
 
