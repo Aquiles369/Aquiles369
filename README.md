@@ -26,7 +26,7 @@
   • Salón de la Fama **puesto 22** en el programa de PortSwigger.net.<br>
   • Proyectos y **creación de varios cursos**.
 
-- **Mis Redes Sociales:**
+- **Mis Redes Sociales:** <br>
   💼 LinkedIn: *(XD)*<br>
   ✉️ Contacto: **aquiless369@gmail.com**  
   📚 Mi página: **[GitBook](https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos)**  
