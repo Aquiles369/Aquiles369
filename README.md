@@ -168,7 +168,7 @@
 </p>
 
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 70px>  </picture> Sistemas operativos
+ ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTB3ZjM0ZnZ4ZHJnZG5yYm96aGZnaDljNzd3YzEwNnc1bmR3aHBocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oAMORhDCizxzfrtSly/giphy.gif" width = 70px>  </picture> Sistemas operativos
  
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
