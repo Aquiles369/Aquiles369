@@ -8,7 +8,7 @@
 
 ##
 
-### <p align="center"> <picture> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTB3ZjM0ZnZ4ZHJnZG5yYm96aGZnaDljNzd3YzEwNnc1bmR3aHBocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oAMORhDCizxzfrtSly/giphy.gif" width="50px"/></picture>&nbsp;&nbsp;WHOAMI<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTB3ZjM0ZnZ4ZHJnZG5yYm96aGZnaDljNzd3YzEwNnc1bmR3aHBocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oAMORhDCizxzfrtSly/giphy.gif" width="50px"> </p>
+### <p align="center"> <picture> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmwwZjB3dDRjZGZ6czFlbGhrMHFkZGQ4bGs2c3doZjJueXBjeW9kMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NJRnk63JCZ4BvCi6ZQ/giphy.gif" width="50px"/></picture>&nbsp;&nbsp;WHOAMI<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmwwZjB3dDRjZGZ6czFlbGhrMHFkZGQ4bGs2c3doZjJueXBjeW9kMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NJRnk63JCZ4BvCi6ZQ/giphy.gif" width="50px"> </p>
 
 ### <picture> <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWh1NXMwY3B4NmsyeTlxaHZkZWgxd3M5eWdqbnU0ZHFydzhlZG0ycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MZ7yrimhG3DThJqHjl/giphy.gif"  width = 350px  high ="200px"></picture>
 <br><br> 
