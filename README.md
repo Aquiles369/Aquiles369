@@ -32,7 +32,7 @@
   ✉️ Contacto: **aquiless369@gmail.com**  
   📚 Mi Blog: **[GitBook](https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos)**  
   🎥 YouTube: **[Aquiles](https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg)**  
-  💬 Discord : **https://discord.gg/tuinvitelink**   <br>
+  💬 Discord : **https://discord.gg/pdnnH6f83h**   <br>
   🛡️ Perfil Bug Bounty/HackerOne: **https://hackerone.com/aquiless/hacktivity?type=user**<br>
   <br>
   <br>
