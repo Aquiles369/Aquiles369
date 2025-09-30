@@ -24,7 +24,7 @@
   • Experiencia en **CTFs** y retos.  
   • Experiencia en **bug bounty**.<br>
   • Salón de la Fama **puesto 22** en el programa de PortSwigger.net.<br>
-  • Bug encontrado en NBA — Severidad: alta. Estado: duplicado/privado. Informe #3335655 (11-sep-2025).<br>
+  • Bug encontrado en NBA — Severidad: alta. Estado: duplicado/privado.<br>
   • Proyectos y **creación de varios cursos**.
 
 - **Redes Sociales:** <br>
