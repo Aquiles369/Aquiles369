@@ -61,14 +61,7 @@
  
 ### <picture> <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width ="70" > </picture> Cursos creados
 <p align="center"><br>
-	<a href="https://www.linkedin.com/in/Aquiles369/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/Aquiles369"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
- <a href="aquiless369@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
- <a href="https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg"><img alt="youtube" src="https://img.shields.io/badge/youtube-ff4500?logo=youtube&logoColor=#0000ff&style=flat">
- <a href="https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos"><img alt="Blog Personal" src="https://img.shields.io/badge/Mi%20Pagina%20Web-yelow">
-
-
-<picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
+	
 <br><br>
 
 ### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBuMTlkbTVsNzE4b29xcjd1dHFiYXE1cTNzczU2dG4xZW0yNWFrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YXum0CzuoMdW2MKgyJ/giphy.gif" width ="85"> Skills:
