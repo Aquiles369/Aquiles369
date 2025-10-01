@@ -44,7 +44,7 @@
 
 ### <picture> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFnM29vZHo4ODRyaTdiazRjbmtyYWJrYWh4aDczOWxmdWdlcDZvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Dfpfss2vAyQvBVCi7l/giphy.gif" width ="90" > </picture> Proyectos destacados
 <p align="center"><br>
-	<a href="https://www.linkedin.com/in/Aquiles369/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://github.com/Aquiles369/Tool_Google_dorks_12k/tree/main"><img alt="tools creada" src="https://img.shields.io/badge/Tool%20Arsenal%20de%20los%20Dorks%20de%20Google-ff4500?logo=FLDSMDFR&logoColor=#0000ff&style=flat"/></a>
 	<a href="https://github.com/Aquiles369"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
  <a href="aquiless369@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
  <a href="https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg"><img alt="youtube" src="https://img.shields.io/badge/youtube-ff4500?logo=youtube&logoColor=#0000ff&style=flat">
