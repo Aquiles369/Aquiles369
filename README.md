@@ -46,8 +46,6 @@
 <p align="center"><br>
 	<a href="https://github.com/Aquiles369/Arsenal_de_los_Dorks_de_Google/tree/main"><img alt="tools creada" src="https://img.shields.io/badge/Arsenal%20de%20los%20Dorks%20de%20Google-f70606?logo=Bug_Bounty_IA_ari&logoColor=#f70606&style=flat"/></a>
 </p>
-<picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
-<br>
 
 ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZqcDVjaGw4MDB2eHl0a2RjanFjMXlncXdraHlzNnlleGpzYnFqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f5qDLTTcOqcnExaIIp/giphy.gif" width = 80px>  </picture> Proyectos generales
  <p align="center"><br><br>
@@ -58,13 +56,15 @@
       	<a href="https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos"><img alt="tools creada" src="https://img.shields.io/badge/Blog-ff8000?logo=Blog&logoColor=#ff8000&style=flat"/></a>
 	<a href="nada"><img alt="check list V1 la mejor del mundo" src="https://img.shields.io/badge/Chek_list_V1-003aff?logo=Check_list_V11&logoColor=#003aff&style=flat"/></a></p>     
 	
-<picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
-<br>
  
 ### <picture> <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width ="70" > </picture> Cursos creados
 <p align="center"><br>
 	
 <br><br>
+
+<picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
+
+<br>
 
 ### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBuMTlkbTVsNzE4b29xcjd1dHFiYXE1cTNzczU2dG4xZW0yNWFrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YXum0CzuoMdW2MKgyJ/giphy.gif" width ="85"> Skills:
 
@@ -106,9 +106,7 @@
      <img alt="angular" src="https://img.shields.io/badge/Normalize.css-00ced1?logo=Normalize.css&logoColor=#0000ff&style=flat">
    </a>
 </p>
-<picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 
-<br>
 
 
  ### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/pixel.gif" width = 80px>  </picture> Back-end
@@ -123,9 +121,7 @@
  
  </p>
 
-<picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 
-<br>
 
  ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGU0eWp6Y2gyY3h4anR6MjQxMnQ0bmNyYzB3N2kwYWlsYm9jaHk3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Db7LCEUikG9P8dt3MC/giphy.gif" width = 70px>  </picture> IDEs / Editores de código
  
@@ -135,9 +131,7 @@
         <a href="#"><img alt="neovim" src="https://img.shields.io/badge/neovim-f0ffff?logo=neovim&logoColor=#0000ff&style=flat" /></a>
 
 
-<picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 
-<br>
 
  ### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1vM3R0bWVkeXk2cjJoZjlhMjVjZmRhOTQ5a21panR4NWhvbndoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sUo8IP8n2k5MI/giphy.gif" width = 70px>  </picture> Herramientas
  
@@ -151,9 +145,7 @@
      <a href="#"><img src="https://img.shields.io/badge/Docker-dc143c?logo=Docker&logoColor=#FF5733&style=flat"></a>
      <a href="https://www.w3schools.com/css/" target="_blank">	
 
-</p>
 
-<picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 
 <br>
 
@@ -174,9 +166,7 @@
 
 </p>
 
-<picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 
-<br>
    
  ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmwwZjB3dDRjZGZ6czFlbGhrMHFkZGQ4bGs2c3doZjJueXBjeW9kMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NJRnk63JCZ4BvCi6ZQ/giphy.gif" width = 80px>  </picture> Programación y pentesting Web
  
