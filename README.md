@@ -49,8 +49,7 @@
 
 ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZqcDVjaGw4MDB2eHl0a2RjanFjMXlncXdraHlzNnlleGpzYnFqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f5qDLTTcOqcnExaIIp/giphy.gif" width = 80px>  </picture> Proyectos generales
  <p align="center"><br><br>
-  	<a href="https://github.com/Aquiles369/FLDSMDFR"><img alt="tools creada" src="https://img.shields.io/badge/FLDSMDFR-ff4500?logo=FLDSMDFR&logoColor=%230000ff&style=flat&color=green
-"/></a>
+  	<a href="https://github.com/Aquiles369/FLDSMDFR"><img alt="tools creada" src="https://img.shields.io/badge/FLDSMDFR-ff4500?logo=FLDSMDFR&logoColor=%230000ff&style=flat&color=green"/></a>
    	<a href="https://github.com/Aquiles369/Bug_Bounty_IA_ari"><img alt="tools creada" src="https://img.shields.io/badge/Bug_Bounty_IA_ari-f70606?logo=Bug_Bounty_IA_ari&logoColor=#f70606&style=flat"/></a>
     	<a href="https://github.com/Aquiles369/CIBERSEGURIDAD.TODOS-LOS-PDF"><img alt="tools creada" src="https://img.shields.io/badge/CIBERSEGURIDAD_TODOS_LOS_PDF-0615f7?logo=Bug_Bounty_IA_ari&logoColor=#0615f7&style=flat"/></a>
      	<a href="https://github.com/Aquiles369/Cursos-de-Youtube"><img alt="tools creada" src="https://img.shields.io/badge/Cursos_de_Youtube-bd06f7?logo=Bug_Bounty_IA_ari&logoColor=#bd06f7&style=flat"/></a>
