@@ -88,23 +88,11 @@
 	<a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="typescript" src="https://img.shields.io/badge/typescript-800000?logo=typescript&logoColor=#0000ff&style=flat">
   </a> 	
-<a href="https://www.sql.com/" target="_blank"> 
-    <img alt="fast api" src="https://img.shields.io/badge/fastapi-483d8b?logo=fastapi&logoColor=#0000ff&style=flat">
-  </a> 
 	<a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="json" src="https://img.shields.io/badge/json-800000?logo=json&logoColor=#0000ff&style=flat">
   </a> 	
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="angular" src="https://img.shields.io/badge/angular-708090?logo=angular&logoColor=#0000ff&style=flat">
-   </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="Vu.js" src="https://img.shields.io/badge/Vue.js-c71585?logo=Vue.js&logoColor=#0000ff&style=flat">
-   </a>
- <a href="https://www.python.org" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
-  </a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="angular" src="https://img.shields.io/badge/Normalize.css-00ced1?logo=Normalize.css&logoColor=#0000ff&style=flat">
    </a>
 </p>
 
@@ -113,11 +101,8 @@
  ### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/pixel.gif" width = 80px>  </picture> Back-end
  <p align="center">
 	<a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-14354C.svg?logo=php&logoColor=white&color=mediumpurple"></a>
- 	<a href="https://www.mysql.com/"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-  	<a href="https://laravel.com/"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-14354C.svg?logo=laravel&logoColor=black&color=orangered"></a>
-        <a href="https://mongodb.com/"><img alt="mongodb" src="https://img.shields.io/badge/mongodb-ff00ff?logo=mongodb&logoColor=#ff00ff&style=flat"></a>
-        <a href="https://laravel.com/"><img alt="pssql" src="https://img.shields.io/badge/PostgreSQL-ffff00?logo=PostgreSQL&logoColor=#0000ff&style=flat"></a>
-        <a href="https://laravel.com/"><img alt="pssql" src="https://img.shields.io/badge/symfony-1e90ff?logo=symfony&logoColor=#0000ff&style=flat"></a>
+    <img alt="MYSQL" src="http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql"></a> 
+    <a href="https://laravel.com/"><img alt="pssql" src="https://img.shields.io/badge/symfony-1e90ff?logo=symfony&logoColor=#0000ff&style=flat"></a>
     <img alt="MYSQL" src="http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql"></a> 
  
  </p>
