@@ -123,13 +123,42 @@
  
 <p align="center">
      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/gitlab-00008b?logo=gitlab&logoColor=#0000ff&style=flat"></a>
      <a href="https://github.com/Aquiles369"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-     <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat"></a>
+	 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/gitlab-00008b?logo=gitlab&logoColor=#0000ff&style=flat"></a>
      <a href="#"><img src="https://img.shields.io/badge/burpsuite-faebd7?logo=burpsuite&logoColor=#0000ff&style=flat" /></a>
      <a href="#"><img src="https://img.shields.io/badge/Docker-dc143c?logo=Docker&logoColor=#FF5733&style=flat"></a>
-     <a href="https://www.w3schools.com/css/" target="_blank">	
+	 <a href="#"><img src="https://img.shields.io/badge/Nmap-0033CC?logo=FLDSMDFR&logoColor=%23000000&style=flat"></a>
+     <a href="#"><img src="https://img.shields.io/badge/Sub-finder-0033CC?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=0033CC"></a>
+	<a href="#"><img src="https://img.shields.io/badge/httpx-28A745?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=28A745"></a>
+	<a href="#"><img src="https://img.shields.io/badge/httprobe-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"></a>
+	<a href="#"><img src="https://img.shields.io/badge/EyeWitness-FF4500?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FF4500"></a>
+	<a href="#"><img src="https://img.shields.io/badge/crt.sh-C00000?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=C00000"></a>
+	<a href="#"><img src="https://img.shields.io/badge/Shodan-6F42C1?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=6F42C1"></a>
+	<a href="#"><img src="https://img.shields.io/badge/FOFA-00CED1?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=00CED1"></a>
+	<a href="#"><img src="https://img.shields.io/badge/Amass-FF69B4?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FF69B4"></a>
+	<!--  lista adicional, todos distintos -->
+	<a href="#"><img src="https://img.shields.io/badge/wafw00f-8B4513?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=8B4513"></a>
+	<a href="#"><img src="https://img.shields.io/badge/subzy-2E8B57?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=2E8B57"></a>
+	<a href="#"><img src="https://img.shields.io/badge/cmseek-4B0082?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=4B0082"></a>
+	<a href="#"><img src="https://img.shields.io/badge/paramspider-7FFFD4?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=7FFFD4"></a>
+	<a href="#"><img src="https://img.shields.io/badge/crunchbase.com-D2691E?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=D2691E"></a>
+	<a href="#"><img src="https://img.shields.io/badge/sublist3r-1E90FF?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=1E90FF"></a>
+	<a href="#"><img src="https://img.shields.io/badge/waybackurls-9ACD32?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=9ACD32"></a>
+	<a href="#"><img src="https://img.shields.io/badge/nuclei-00BFFF?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=00BFFF"></a>
+	<a href="#"><img src="https://img.shields.io/badge/linkfinder-B22222?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=B22222"></a>
+	<a href="#"><img src="https://img.shields.io/badge/katana-DC143C?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=DC143C"></a>
+	<a href="#"><img src="https://img.shields.io/badge/visualping-FF8C00?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FF8C00"></a>
+	<a href="#"><img src="https://img.shields.io/badge/caido-4682B4?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=4682B4"></a>
+	<a href="#"><img src="https://img.shields.io/badge/nslookup-556B2F?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=556B2F"></a>
+	<a href="#"><img src="https://img.shields.io/badge/viewdns.info-808080?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=808080"></a>
+	<a href="#"><img src="https://img.shields.io/badge/bgp.he.net-000000?logo=FLDSMDFR&logoColor=%23FFFFFF&style=flat&labelColor=000000"></a>
+	<a href="#"><img src="https://img.shields.io/badge/web-check.yxz-7CFC00?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=7CFC00"></a>
+	<a href="#"><img src="https://img.shields.io/badge/postman.com-FF1493?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FF1493"></a>
+	<a href="#"><img src="https://img.shields.io/badge/dalfox%20personalizado-00FF7F?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=00FF7F"></a>
+	<a href="#"><img src="https://img.shields.io/badge/403%20bypass-8A2BE2?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=8A2BE2"></a>
+	<!-- extras: -->
+	<a href="#"><img src="https://img.shields.io/badge/Many%20more-6A5ACD?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=6A5ACD"></a>
+
 
 <br>
 
