@@ -46,6 +46,7 @@
 <p align="center"><br>
 	<a href="https://github.com/Aquiles369/Arsenal_de_los_Dorks_de_Google/tree/main"><img alt="tools creada" src="https://img.shields.io/badge/Arsenal%20de%20los%20Dorks%20de%20Google-f70606?logo=Bug_Bounty_IA_ari&logoColor=#f70606&style=flat"/></a>
 </p>
+<picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
 ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZqcDVjaGw4MDB2eHl0a2RjanFjMXlncXdraHlzNnlleGpzYnFqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f5qDLTTcOqcnExaIIp/giphy.gif" width = 80px>  </picture> Proyectos generales
@@ -56,8 +57,9 @@
      	<a href="https://github.com/Aquiles369/Cursos-de-Youtube"><img alt="tools creada" src="https://img.shields.io/badge/Cursos_de_Youtube-bd06f7?logo=Bug_Bounty_IA_ari&logoColor=#bd06f7&style=flat"/></a>
       	<a href="https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos"><img alt="tools creada" src="https://img.shields.io/badge/Blog-ff8000?logo=Blog&logoColor=#ff8000&style=flat"/></a>
 	<a href="nada"><img alt="check list V1 la mejor del mundo" src="https://img.shields.io/badge/Chek_list_V1-003aff?logo=Check_list_V11&logoColor=#003aff&style=flat"/></a></p>     
-
- <br>
+	
+<picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
+<br>
  
 ### <picture> <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width ="70" > </picture> Cursos creados
 <p align="center"><br>
@@ -104,6 +106,10 @@
      <img alt="angular" src="https://img.shields.io/badge/Normalize.css-00ced1?logo=Normalize.css&logoColor=#0000ff&style=flat">
    </a>
 </p>
+<picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
+
+<br>
+
 
  ### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/pixel.gif" width = 80px>  </picture> Back-end
  <p align="center">
@@ -113,15 +119,13 @@
         <a href="https://mongodb.com/"><img alt="mongodb" src="https://img.shields.io/badge/mongodb-ff00ff?logo=mongodb&logoColor=#ff00ff&style=flat"></a>
         <a href="https://laravel.com/"><img alt="pssql" src="https://img.shields.io/badge/PostgreSQL-ffff00?logo=PostgreSQL&logoColor=#0000ff&style=flat"></a>
         <a href="https://laravel.com/"><img alt="pssql" src="https://img.shields.io/badge/symfony-1e90ff?logo=symfony&logoColor=#0000ff&style=flat"></a>
-    <img alt="MYSQL" src="http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql"></a> 	
-
-
-   
-   
-
+    <img alt="MYSQL" src="http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql"></a> 
  
  </p>
 
+<picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
+
+<br>
 
  ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGU0eWp6Y2gyY3h4anR6MjQxMnQ0bmNyYzB3N2kwYWlsYm9jaHk3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Db7LCEUikG9P8dt3MC/giphy.gif" width = 70px>  </picture> IDEs / Editores de código
  
@@ -130,7 +134,10 @@
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
         <a href="#"><img alt="neovim" src="https://img.shields.io/badge/neovim-f0ffff?logo=neovim&logoColor=#0000ff&style=flat" /></a>
 
- 
+
+<picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
+
+<br>
 
  ### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1vM3R0bWVkeXk2cjJoZjlhMjVjZmRhOTQ5a21panR4NWhvbndoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sUo8IP8n2k5MI/giphy.gif" width = 70px>  </picture> Herramientas
  
@@ -140,22 +147,17 @@
      <a href="https://github.com/Aquiles369"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
      <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat"></a>
-     <a href="#"><img alt="Apache" src="https://img.shields.io/badge/apache-cd5c5c?logo=apache&logoColor=#0000ff&style=flat"></a>
      <a href="#"><img src="https://img.shields.io/badge/burpsuite-faebd7?logo=burpsuite&logoColor=#0000ff&style=flat" /></a>
      <a href="#"><img src="https://img.shields.io/badge/Docker-dc143c?logo=Docker&logoColor=#FF5733&style=flat"></a>
      <a href="https://www.w3schools.com/css/" target="_blank">	
 
-
-         
-
-
-
-
-
 </p>
 
+<picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 
- ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTB3ZjM0ZnZ4ZHJnZG5yYm96aGZnaDljNzd3YzEwNnc1bmR3aHBocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oAMORhDCizxzfrtSly/giphy.gif" width = 70px>  </picture> Sistemas operativos
+<br>
+
+ ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTB3ZjM0ZnZ4ZHJnZG5yYm96aGZnaDljNzd3YzEwNnc1bmR3aHBocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oAMORhDCizxzfrtSly/giphy.gif" width = 70px>  </picture> Sistemas operativos/Distros de GNU-Linux
  
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
@@ -172,7 +174,9 @@
 
 </p>
 
+<picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 
+<br>
    
  ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmwwZjB3dDRjZGZ6czFlbGhrMHFkZGQ4bGs2c3doZjJueXBjeW9kMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NJRnk63JCZ4BvCi6ZQ/giphy.gif" width = 80px>  </picture> Programación y pentesting Web
  
