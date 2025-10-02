@@ -94,19 +94,20 @@
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="angular" src="https://img.shields.io/badge/angular-708090?logo=angular&logoColor=#0000ff&style=flat">
    </a>
+   <a href="https://github.com/Aquiles369/FLDSMDFR">
+  <img alt="Proyecto creado" src="https://img.shields.io/badge/Api%20Rest-008000?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=008000"/>
+   </a>
 </p>
-
+<br>
 <br>
 
  ### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/pixel.gif" width = 80px>  </picture> Back-end
  <p align="center">
 	<a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-14354C.svg?logo=php&logoColor=white&color=mediumpurple"></a>
     <img alt="MYSQL" src="http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql"></a> 
-    <a href="https://laravel.com/"><img alt="pssql" src="https://img.shields.io/badge/symfony-1e90ff?logo=symfony&logoColor=#0000ff&style=flat"></a>
-    <img alt="MYSQL" src="http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql"></a> 
- 
+    <a href="https://laravel.com/"><img alt="pssql" src="https://img.shields.io/badge/symfony-1e90ff?logo=symfony&logoColor=#0000ff&style=flat"></a> 
  </p>
-
+<br>
 <br>
 
  ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGU0eWp6Y2gyY3h4anR6MjQxMnQ0bmNyYzB3N2kwYWlsYm9jaHk3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Db7LCEUikG9P8dt3MC/giphy.gif" width = 70px>  </picture> IDEs / Editores de código
@@ -116,6 +117,7 @@
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
         <a href="#"><img alt="neovim" src="https://img.shields.io/badge/neovim-f0ffff?logo=neovim&logoColor=#0000ff&style=flat" /></a>
 
+<br>
 <br>
 
 
@@ -161,8 +163,10 @@
 
 
 <br>
+<br>
 
- ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTB3ZjM0ZnZ4ZHJnZG5yYm96aGZnaDljNzd3YzEwNnc1bmR3aHBocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oAMORhDCizxzfrtSly/giphy.gif" width = 70px>  </picture> Sistemas operativos/Distros de GNU-Linux
+
+### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTB3ZjM0ZnZ4ZHJnZG5yYm96aGZnaDljNzd3YzEwNnc1bmR3aHBocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oAMORhDCizxzfrtSly/giphy.gif" width = 70px>  </picture> Sistemas operativos/Distros de GNU-Linux
  
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
@@ -180,8 +184,10 @@
 </p>
 
 <br>
-   
- ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmwwZjB3dDRjZGZ6czFlbGhrMHFkZGQ4bGs2c3doZjJueXBjeW9kMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NJRnk63JCZ4BvCi6ZQ/giphy.gif" width = 80px>  </picture> Programación y pentesting Web
+<br>
+
+
+### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmwwZjB3dDRjZGZ6czFlbGhrMHFkZGQ4bGs2c3doZjJueXBjeW9kMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NJRnk63JCZ4BvCi6ZQ/giphy.gif" width = 80px>  </picture> Programación y pentesting Web
  
 <p align="center">
 	<a href="#"><img alt = "hacker one " src="https://img.shields.io/badge/hackerone-dc143c?logo=hackerone&logoColor=#0000ff&style=flat" /></a>
