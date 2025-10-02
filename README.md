@@ -68,7 +68,7 @@
 <img height="40" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBuMTlkbTVsNzE4b29xcjd1dHFiYXE1cTNzczU2dG4xZW0yNWFrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YXum0CzuoMdW2MKgyJ/giphy.gif"><img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif"><span style="font-size:34px; font-weight:bold;">Skills</span><img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif"><img height="35" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBuMTlkbTVsNzE4b29xcjd1dHFiYXE1cTNzczU2dG4xZW0yNWFrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YXum0CzuoMdW2MKgyJ/giphy.gif"></p>
 
 
-
+<br>
 <br>
  
 ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdrYXd3bjlvMmQzMTMzenUya2l0Y2U4MDg3Zm16dXY0MTFqcHM5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/NFrr9sq0XpyWz27CZO/giphy.gif" width = 70px>  </picture> Front-end
@@ -119,7 +119,7 @@
 
 <br>
 <br>
-
+<br>
 
  ### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1vM3R0bWVkeXk2cjJoZjlhMjVjZmRhOTQ5a21panR4NWhvbndoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sUo8IP8n2k5MI/giphy.gif" width = 70px>  </picture> Herramientas
  
@@ -164,7 +164,7 @@
 
 <br>
 <br>
-
+<br>
 
 ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTB3ZjM0ZnZ4ZHJnZG5yYm96aGZnaDljNzd3YzEwNnc1bmR3aHBocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oAMORhDCizxzfrtSly/giphy.gif" width = 70px>  </picture> Sistemas operativos/Distros de GNU-Linux
  
@@ -185,7 +185,7 @@
 
 <br>
 <br>
-
+<br>
 
 ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmwwZjB3dDRjZGZ6czFlbGhrMHFkZGQ4bGs2c3doZjJueXBjeW9kMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NJRnk63JCZ4BvCi6ZQ/giphy.gif" width = 80px>  </picture> Programación y pentesting Web
  
