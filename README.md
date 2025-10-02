@@ -64,9 +64,8 @@
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 
-<h3 align="center"><img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif"><img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif"> Skills <img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif"><img height="35" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif"></h3>
+<h3 align="center"><img height="40" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBuMTlkbTVsNzE4b29xcjd1dHFiYXE1cTNzczU2dG4xZW0yNWFrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YXum0CzuoMdW2MKgyJ/giphy.gif"><img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif"> Skills <img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif"><img height="35" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBuMTlkbTVsNzE4b29xcjd1dHFiYXE1cTNzczU2dG4xZW0yNWFrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YXum0CzuoMdW2MKgyJ/giphy.gif"></h3>
 
-### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBuMTlkbTVsNzE4b29xcjd1dHFiYXE1cTNzczU2dG4xZW0yNWFrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YXum0CzuoMdW2MKgyJ/giphy.gif" width ="85"> Skills:
 
 <br>
  
@@ -107,7 +106,7 @@
    </a>
 </p>
 
-
+<br>
 
  ### <picture> <img src = "https://github.com/Aquiles369/iconos/blob/main/img/pixel.gif" width = 80px>  </picture> Back-end
  <p align="center">
@@ -121,7 +120,7 @@
  
  </p>
 
-
+<br>
 
  ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGU0eWp6Y2gyY3h4anR6MjQxMnQ0bmNyYzB3N2kwYWlsYm9jaHk3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Db7LCEUikG9P8dt3MC/giphy.gif" width = 70px>  </picture> IDEs / Editores de código
  
@@ -130,7 +129,7 @@
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
         <a href="#"><img alt="neovim" src="https://img.shields.io/badge/neovim-f0ffff?logo=neovim&logoColor=#0000ff&style=flat" /></a>
 
-
+<br>
 
 
  ### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1vM3R0bWVkeXk2cjJoZjlhMjVjZmRhOTQ5a21panR4NWhvbndoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sUo8IP8n2k5MI/giphy.gif" width = 70px>  </picture> Herramientas
@@ -144,8 +143,6 @@
      <a href="#"><img src="https://img.shields.io/badge/burpsuite-faebd7?logo=burpsuite&logoColor=#0000ff&style=flat" /></a>
      <a href="#"><img src="https://img.shields.io/badge/Docker-dc143c?logo=Docker&logoColor=#FF5733&style=flat"></a>
      <a href="https://www.w3schools.com/css/" target="_blank">	
-
-
 
 <br>
 
@@ -166,7 +163,7 @@
 
 </p>
 
-
+<br>
    
  ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmwwZjB3dDRjZGZ6czFlbGhrMHFkZGQ4bGs2c3doZjJueXBjeW9kMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NJRnk63JCZ4BvCi6ZQ/giphy.gif" width = 80px>  </picture> Programación y pentesting Web
  
