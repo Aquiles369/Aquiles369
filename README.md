@@ -44,7 +44,7 @@
 
 ### <picture> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFnM29vZHo4ODRyaTdiazRjbmtyYWJrYWh4aDczOWxmdWdlcDZvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Dfpfss2vAyQvBVCi7l/giphy.gif" width ="90" > </picture> Proyectos destacados
 <p align="center"><br>
-	<a href="https://github.com/Aquiles369/Arsenal_de_los_Dorks_de_Google/tree/main"><img alt="Proyecto creado" src="https://img.shields.io/badge/Arsenal%20de%20los%20Dorks%20de%20Google-87BFFF?logo=FLDSMDFR&logoColor=%23000000&style=plastic&labelColor=87BFFF"/></a>
+	<a href="https://github.com/Aquiles369/Arsenal_de_los_Dorks_de_Google/tree/main"><img alt="Proyecto creado" src="https://img.shields.io/badge/Arsenal%20de%20los%20Dorks%20de%20Google-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=plastic&labelColor=FFD700"/></a>
 </p>
 
 ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZqcDVjaGw4MDB2eHl0a2RjanFjMXlncXdraHlzNnlleGpzYnFqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f5qDLTTcOqcnExaIIp/giphy.gif" width = 80px>  </picture> Proyectos generales
@@ -64,7 +64,16 @@
 
 <br>
 
-<p align="center"><img height="40" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBuMTlkbTVsNzE4b29xcjd1dHFiYXE1cTNzczU2dG4xZW0yNWFrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YXum0CzuoMdW2MKgyJ/giphy.gif"><img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif"> Skills <img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif"><img height="35" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBuMTlkbTVsNzE4b29xcjd1dHFiYXE1cTNzczU2dG4xZW0yNWFrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YXum0CzuoMdW2MKgyJ/giphy.gif"></p>
+<p align="center">
+  <img height="40" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBuMTlkbTVsNzE4b29xcjd1dHFiYXE1cTNzczU2dG4xZW0yNWFrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YXum0CzuoMdW2MKgyJ/giphy.gif">
+  <img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif">
+
+  <span style="font-size:24px; font-weight:bold;">Skills</span>
+
+  <img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif">
+  <img height="35" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBuMTlkbTVsNzE4b29xcjd1dHFiYXE1cTNzczU2dG4xZW0yNWFrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YXum0CzuoMdW2MKgyJ/giphy.gif">
+</p>
+
 
 
 <br>
