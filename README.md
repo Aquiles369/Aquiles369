@@ -49,10 +49,10 @@
 
 ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZqcDVjaGw4MDB2eHl0a2RjanFjMXlncXdraHlzNnlleGpzYnFqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f5qDLTTcOqcnExaIIp/giphy.gif" width = 80px>  </picture> Proyectos generales
  <p align="center"><br><br>
-  	<a href="https://github.com/Aquiles369/FLDSMDFR"><img alt="Proyecto creado" src="https://img.shields.io/badge/FLDSMDFR-ff4500?logo=FLDSMDFR&logoColor=%230000ff&style=flat&color=%2300ff00"/></a>
-   	<a href="https://github.com/Aquiles369/Bug_Bounty_IA_ari"><img alt="Proyecto creado" src="https://img.shields.io/badge/Bug_Bounty_IA_ari-ff4500?logo=FLDSMDFR&logoColor=%230000ff&style=flat&color=%2300ff00"/></a>
-    	<a href="https://github.com/Aquiles369/CIBERSEGURIDAD.TODOS-LOS-PDF"><img alt="Proyecto creado" src="https://img.shields.io/badge/CIBERSEGURIDAD_TODOS_LOS_PDF-ff4500?logo=FLDSMDFR&logoColor=%230000ff&style=flat&color=%2300ff00"/></a>
-      	<a href="https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos"><img alt="Proyecto creado" src="https://img.shields.io/badge/Blog-ff4500?logo=FLDSMDFR&logoColor=%230000ff&style=flat&color=%2300ff00"/></a></p>     
+  	<a href="https://github.com/Aquiles369/FLDSMDFR"><img alt="Proyecto creado" src="https://img.shields.io/badge/FLDSMDFR-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+   	<a href="https://github.com/Aquiles369/Bug_Bounty_IA_ari"><img alt="Proyecto creado" src="https://img.shields.io/badge/Bug%20Bounty%20IA%20ari-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+    	<a href="https://github.com/Aquiles369/CIBERSEGURIDAD.TODOS-LOS-PDF"><img alt="Proyecto creado" src="https://img.shields.io/badge/Ciberseguridad%20todos%20los%20PDF-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+      	<a href="https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos"><img alt="Proyecto creado" src="https://img.shields.io/badge/Blog-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a></p>     
 	
  
 ### <picture> <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width ="70" > </picture> Cursos creados
