@@ -60,8 +60,11 @@
   	<a href="https://github.com/Aquiles369/FLDSMDFR"><img alt="Proyecto creado" src="https://img.shields.io/badge/Bash%20scripting-0033CC?logo=FLDSMDFR&logoColor=%23FFFFFF&style=flat&labelColor=0033CC"/></a></p>     
 <br><br>
 
+<picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 
-<h2 align="center"><img height="40" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBuMTlkbTVsNzE4b29xcjd1dHFiYXE1cTNzczU2dG4xZW0yNWFrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YXum0CzuoMdW2MKgyJ/giphy.gif"><img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif"> Skills <img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif"><img height="35" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBuMTlkbTVsNzE4b29xcjd1dHFiYXE1cTNzczU2dG4xZW0yNWFrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YXum0CzuoMdW2MKgyJ/giphy.gif"></h2>
+<br>
+
+<p align="center"><img height="40" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBuMTlkbTVsNzE4b29xcjd1dHFiYXE1cTNzczU2dG4xZW0yNWFrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YXum0CzuoMdW2MKgyJ/giphy.gif"><img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif"> Skills <img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif"><img height="35" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBuMTlkbTVsNzE4b29xcjd1dHFiYXE1cTNzczU2dG4xZW0yNWFrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YXum0CzuoMdW2MKgyJ/giphy.gif"></p>
 
 
 <br>
