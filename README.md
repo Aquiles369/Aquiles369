@@ -42,7 +42,7 @@
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFnM29vZHo4ODRyaTdiazRjbmtyYWJrYWh4aDczOWxmdWdlcDZvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Dfpfss2vAyQvBVCi7l/giphy.gif" width ="90" > </picture> Herramientas creadas
+### <picture> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2l2Zmo4ZmJwa3JyNjJzejVoOTRja2V4NmNseHF2bjdhcmxmYmE5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bwryYUIraaiXs0AqTd/giphy.gif" width ="90" > </picture> Herramientas creadas
 <p align="center"><br>
 	<a href="https://github.com/Aquiles369/Arsenal_de_los_Dorks_de_Google/tree/main"><img alt="Proyecto creado" src="https://img.shields.io/badge/Arsenal%20de%20los%20Dorks%20de%20Google-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=plastic&labelColor=FFD700"/></a>
 	<a href="https://github.com/Aquiles369/Codigos-de-HTTP"><img alt="Proyecto creado" src="https://img.shields.io/badge/C%C3%B3digos%20de%20HTTP-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=plastic&labelColor=FFD700"/></a>
