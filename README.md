@@ -159,7 +159,7 @@
 	<a href="#"><img src="https://img.shields.io/badge/dalfox%20personalizado-00FF7F?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=00FF7F"></a>
 	<a href="#"><img src="https://img.shields.io/badge/403%20bypass-8A2BE2?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=8A2BE2"></a>
 	<!-- extras: -->
-	<a href="#"><img src="https://img.shields.io/badge/Many%20more-6A5ACD?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=6A5ACD"></a>
+	<a href="#"><img src="https://img.shields.io/badge/Extra%20more-6A5ACD?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=6A5ACD"></a>
 
 
 <br>
@@ -194,6 +194,8 @@
 	<a href="#"><img alt = "python3 " src="https://img.shields.io/badge/python3-dc143c?logo=python3&logoColor=#0000ff&style=flat" /></a>
 	<a href="#"><img src="https://img.shields.io/badge/GNU%20Bash-800080?logo=GNU%20Bash&logoColor=#0000ff&style=flat"></a>
 	<a href="#"><img src="https://img.shields.io/badge/hardening_Servidores-dc143c?logo=hardening_Servidores&logoColor=#FF5733&style=flat"></a>
+	<a href="#"><img src="https://img.shields.io/badge/Laboratorio%20web-0033CC?logo=Laboratorio%20web&logoColor=%23000000&style=flat"></a>
+
    
 </p>
 
