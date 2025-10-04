@@ -55,6 +55,7 @@
 <p align="center"><br>
 	<a href="https://github.com/Aquiles369/CIBERSEGURIDAD.TODOS-LOS-PDF"><img alt="Proyecto creado" src="https://img.shields.io/badge/Ciberseguridad%20todos%20los%20PDF-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 	<a href="https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos"><img alt="Proyecto creado" src="https://img.shields.io/badge/Blog-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="https://discord.gg/McUh5a2FwK"><img alt="Proyecto creado" src="https://img.shields.io/badge/Servidor%20de%20Discord-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 </p>
 
 ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZqcDVjaGw4MDB2eHl0a2RjanFjMXlncXdraHlzNnlleGpzYnFqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f5qDLTTcOqcnExaIIp/giphy.gif" width = 80px>  </picture> Proyectos generales
@@ -70,11 +71,27 @@
 
 ### <picture> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2l2Zmo4ZmJwa3JyNjJzejVoOTRja2V4NmNseHF2bjdhcmxmYmE5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bwryYUIraaiXs0AqTd/giphy.gif" width ="75" > </picture> Blog
 <p align="center"><br>
-	<a href="https://github.com/Aquiles369/Arsenal_de_los_Dorks_de_Google/tree/main"><img alt="Proyecto creado" src="https://img.shields.io/badge/Arsenal%20de%20los%20Dorks%20de%20Google-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=plastic&labelColor=FFD700"/></a>
-	<a href="https://github.com/Aquiles369/Codigos-de-HTTP"><img alt="Proyecto creado" src="https://img.shields.io/badge/C%C3%B3digos%20de%20HTTP-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=plastic&labelColor=FFD700"/></a>
-	<a href="https://github.com/Aquiles369/FLDSMDFR"><img alt="Proyecto creado" src="https://img.shields.io/badge/FLDSMDFR-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-	<a href="https://github.com/Aquiles369/Colab-Bug-bounty"><img alt="Proyecto creado" src="https://img.shields.io/badge/Colab%20Bug%20bounty-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-	<a href="https://github.com/Aquiles369/Gestor-de-Payloads/tree/main"><img alt="Proyecto creado" src="https://img.shields.io/badge/Gestor%20de%20Payloads-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="https://aquiles-1.gitbook.io/aquiles/gnu-linux/quickstart/manejo-completo-de-gnu-linux-comandos-manejo-entre-directorios"><img alt="Proyecto creado" src="https://img.shields.io/badge/GNU%20/%20Linux-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="https://aquiles-1.gitbook.io/aquiles/windows/images-and-media/interactive-blocks"><img alt="Proyecto creado" src="https://img.shields.io/badge/Windows-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="https://aquiles-1.gitbook.io/aquiles/python/que-es-python"><img alt="Proyecto creado" src="https://img.shields.io/badge/Python-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="https://aquiles-1.gitbook.io/aquiles/html/que-es-html"><img alt="Proyecto creado" src="https://img.shields.io/badge/HTML-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="https://aquiles-1.gitbook.io/aquiles/css/que-es-css"><img alt="Proyecto creado" src="https://img.shields.io/badge/CSS-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="https://aquiles-1.gitbook.io/aquiles/javascrypt/que-es-javascrypt"><img alt="Proyecto creado" src="https://img.shields.io/badge/JavaScript-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="https://img.shields.io/badge/PHP-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"><img alt="Proyecto creado" src="https://aquiles-1.gitbook.io/aquiles/php/page"/></a>
+	<a href="https://aquiles-1.gitbook.io/aquiles/mysql/page-9"><img alt="Proyecto creado" src="https://img.shields.io/badge/MySQL-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="https://aquiles-1.gitbook.io/aquiles/redes/page-16"><img alt="Proyecto creado" src="https://img.shields.io/badge/Redes-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="https://aquiles-1.gitbook.io/aquiles/conceptos-de-ciberseguridad/page-15"><img alt="Proyecto creado" src="https://img.shields.io/badge/Ciberseguridad-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="https://aquiles-1.gitbook.io/aquiles/hardering-en-windows/page-43"><img alt="Proyecto creado" src="https://img.shields.io/badge/Hardening-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="https://aquiles-1.gitbook.io/aquiles/forense-en-windows/page-46"><img alt="Proyecto creado" src="https://img.shields.io/badge/forense-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="https://aquiles-1.gitbook.io/aquiles/metodologias-de-owasp-web/page-49"><img alt="Proyecto creado" src="https://img.shields.io/badge/Metodolog%C3%ADa-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="https://aquiles-1.gitbook.io/aquiles/sitios-web-para-practicar-hacking/page-53"><img alt="Proyecto creado" src="https://img.shields.io/badge/Laboratorios%20Web-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="https://aquiles-1.gitbook.io/aquiles/manejo-de-docker/page-58"><img alt="Proyecto creado" src="https://img.shields.io/badge/Docker-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="https://aquiles-1.gitbook.io/aquiles/manejo-de-git/page-59"><img alt="Proyecto creado" src="https://img.shields.io/badge/Git-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="https://aquiles-1.gitbook.io/aquiles/manejo-de-github/page-60"><img alt="Proyecto creado" src="https://img.shields.io/badge/GitHub-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="https://aquiles-1.gitbook.io/aquiles/manejo-de-gitlab/page-61"><img alt="Proyecto creado" src="https://img.shields.io/badge/GitLab-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="https://aquiles-1.gitbook.io/aquiles/manejo-de-vscode-trucos-atajos/page-62"><img alt="Proyecto creado" src="https://img.shields.io/badge/Editores%20/%20Ides-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="https://aquiles-1.gitbook.io/aquiles/bug-bounty-desde-0/page-65"><img alt="Proyecto creado" src="https://img.shields.io/badge/Bug%20Bounty-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	
 </p>
 
 
