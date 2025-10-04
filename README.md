@@ -68,7 +68,7 @@
 <p align="center"><br><br>
   	<a href="https://github.com/Aquiles369/FLDSMDFR"><img alt="Curso creado" src="https://img.shields.io/badge/Bash%20scripting-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a></p>     
 
-### <picture> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNtbnB5YTlnNzR5N2g3M3R0dXVtZHN1YTFqOGYwbGYxdDI0NngwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1jgLDGD1Bn27e/giphy.gif" width ="75" > </picture> Blog
+### <picture> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNtbnB5YTlnNzR5N2g3M3R0dXVtZHN1YTFqOGYwbGYxdDI0NngwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1jgLDGD1Bn27e/giphy.gif" width ="65" > </picture> Blog
 <p align="center"><br>
 	<a href="https://aquiles-1.gitbook.io/aquiles/gnu-linux/quickstart/manejo-completo-de-gnu-linux-comandos-manejo-entre-directorios"><img alt="Proyecto creado" src="https://img.shields.io/badge/GNU%20/%20Linux-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 	<a href="https://aquiles-1.gitbook.io/aquiles/windows/images-and-media/interactive-blocks"><img alt="Proyecto creado" src="https://img.shields.io/badge/Windows-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
@@ -89,7 +89,11 @@
 	<a href="https://aquiles-1.gitbook.io/aquiles/manejo-de-github/page-60"><img alt="Proyecto creado" src="https://img.shields.io/badge/GitHub-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 	<a href="https://aquiles-1.gitbook.io/aquiles/manejo-de-gitlab/page-61"><img alt="Proyecto creado" src="https://img.shields.io/badge/GitLab-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 	<a href="https://aquiles-1.gitbook.io/aquiles/manejo-de-vscode-trucos-atajos/page-62"><img alt="Proyecto creado" src="https://img.shields.io/badge/Editores%20/%20Ides-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-	<a href="https://aquiles-1.gitbook.io/aquiles/bug-bounty-desde-0/page-65"><img alt="Proyecto creado" src="https://img.shields.io/badge/Bug%20Bounty-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a><br><br>
+	<a href="https://aquiles-1.gitbook.io/aquiles/bug-bounty-desde-0/page-65"><img alt="Proyecto creado" src="https://img.shields.io/badge/Bug%20Bounty-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="https://aquiles-1.gitbook.io/aquiles/bug-bounty-desde-0/page-65"><img alt="Proyecto creado" src="https://img.shields.io/badge/TypeScript-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="https://aquiles-1.gitbook.io/aquiles/bug-bounty-desde-0/page-65"><img alt="Proyecto creado" src="https://img.shields.io/badge/Angular-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	
+	<br><br>
 	
 </p>
 
