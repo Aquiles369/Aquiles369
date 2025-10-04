@@ -63,7 +63,7 @@
 
 ### <picture> <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width ="70" > </picture> Cursos Youtube creados
 <p align="center"><br><br>
-  	<a href="https://github.com/Aquiles369/FLDSMDFR"><img alt="Curso creado" src="https://img.shields.io/badge/Bash%20scripting-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a></p><br>     
+  	<a href="https://github.com/Aquiles369/FLDSMDFR"><img alt="Curso creado" src="https://img.shields.io/badge/Bash%20scripting-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a></p>    
 
 
 ### <picture> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNtbnB5YTlnNzR5N2g3M3R0dXVtZHN1YTFqOGYwbGYxdDI0NngwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1jgLDGD1Bn27e/giphy.gif" width ="65" > </picture> Blog
@@ -89,14 +89,13 @@
 	<a href="https://aquiles-1.gitbook.io/aquiles/manejo-de-vscode-trucos-atajos/page-62"><img alt="Proyecto creado" src="https://img.shields.io/badge/Editores%20/%20Ides-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 	<a href="https://aquiles-1.gitbook.io/aquiles/bug-bounty-desde-0/page-65"><img alt="Proyecto creado" src="https://img.shields.io/badge/Bug%20Bounty-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 	<a href="https://aquiles-1.gitbook.io/aquiles/bug-bounty-desde-0/page-65"><img alt="Proyecto creado" src="https://img.shields.io/badge/TypeScript-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-	<a href="https://aquiles-1.gitbook.io/aquiles/bug-bounty-desde-0/page-65"><img alt="Proyecto creado" src="https://img.shields.io/badge/Angular-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a><br>
+	<a href="https://aquiles-1.gitbook.io/aquiles/bug-bounty-desde-0/page-65"><img alt="Proyecto creado" src="https://img.shields.io/badge/Angular-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a></p><br><br>
 
 
 ### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Zyam9mM3ZwaGx1MjFmZDN3aDNqc3Z6c2Exd20yejZ4a2hvem1sYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/USmRiZEwGGPIxDJm56/giphy.gif" width = 80px>  </picture> Proyectos generales
  <p align="center"><br><br>
    	<a href="https://github.com/Aquiles369/Bug_Bounty_IA_ari"><img alt="Proyecto creado" src="https://img.shields.io/badge/Bug%20Bounty%20IA%20ari-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-  <a href="https://github.com/Aquiles369/Reloj-digital"><img alt="Proyecto creado" src="https://img.shields.io/badge/Reloj%20Digital-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a></p>
-</p><br><br>
+  <a href="https://github.com/Aquiles369/Reloj-digital"><img alt="Proyecto creado" src="https://img.shields.io/badge/Reloj%20Digital-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a></p><br><br>
 
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
