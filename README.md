@@ -64,7 +64,6 @@
 	<a href="https://github.com/Aquiles369/Gestor-de-Payloads/tree/main"><img alt="Proyecto creado" src="https://img.shields.io/badge/Metodos%20HTTP-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 	<a href="https://github.com/Aquiles369/Gestor-de-Payloads/tree/main"><img alt="Proyecto creado" src="https://img.shields.io/badge/Header%20Arsenal-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 	<a href="https://github.com/Aquiles369/Gestor-de-Payloads/tree/main"><img alt="Proyecto creado" src="https://img.shields.io/badge/Header%20Vulnerabilidades-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-	<a href="https://github.com/Aquiles369/Gestor-de-Payloads/tree/main"><img alt="Proyecto creado" src="https://img.shields.io/badge/Header%20Vulnerabilidades-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 	<a href="https://github.com/Aquiles369/Gestor-de-Payloads/tree/main"><img alt="Proyecto creado" src="https://img.shields.io/badge/60%20caminos%20creativos-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 	<a href="https://github.com/Aquiles369/FLDSMDFR"><img alt="Proyecto creado" src="https://img.shields.io/badge/FLDSMDFR-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 </p><br>
