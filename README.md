@@ -17,8 +17,9 @@
 
 - **Whoami:** <br>
 
-  Desarrollador **Web** especializado en **Back-end**, con conocimientos de **Front-end**
-  Técnico Superior en **Ciberseguridad** con experiencia en **auditorías web** y **hardening de servidores**.<br> 
+  Desarrollador **Web** especializado en **Back-end** con conocimientos de **Front-end**.
+**Técnico Superior en Ciberseguridad** con experiencia en auditorías web y **hardening de servidores**.
+En mis ratos libres **análisis de malware y reversing**.<br> 
 
 
 - **Sobre mí:**<br>
@@ -26,8 +27,6 @@
   • Más de 5 años de experiencia en hacking web (bug bounty, auditorías y hardening).<br> 
   • Técnico Superior en Ciberseguridad.  <br> 
   • Soltura en varios lenguajes de desarrollo y *scripting*.  <br> 
-  • Creatividad y pensamiento lateral.  <br> 
-  • Iniciativa y autonomía para resolver problemas.  
   • Experiencia en **CTFs** y retos.  
   • Experiencia en **bug bounty**.<br>
   • Salón de la Fama **puesto 22** en el programa de PortSwigger.net.<br>
