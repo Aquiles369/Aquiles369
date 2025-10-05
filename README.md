@@ -17,7 +17,9 @@
 - **Whoami:** <br> Desarrollador **Web** especializado en **Back-end**, con conocimientos de **Front-end**
   Técnico Superior en **Ciberseguridad** con experiencia en **auditorías web** y **hardening de servidores**.
 
-- **Sobre mí:**  
+- **Sobre mí:**
+  • Más de 5 años de experiencia en hacking web (bug bounty, auditorías y hardening).
+  • Técnico Superior en Ciberseguridad.  
   • Soltura en varios lenguajes de desarrollo y *scripting*.  
   • Creatividad y pensamiento lateral.  
   • Iniciativa y autonomía para resolver problemas.  
@@ -25,7 +27,7 @@
   • Experiencia en **bug bounty**.<br>
   • Salón de la Fama **puesto 22** en el programa de PortSwigger.net.<br>
   • Bug encontrado en NBA — Severidad: alta. Estado: duplicado/privado.<br>
-  • Proyectos y **creación de varios cursos**.
+  • Autor y creador de varios **proyectos y cursos** formativos relacionados con seguridad web.
 
 - **Redes Sociales:** <br>
   💼 LinkedIn: *(XD)*<br>
@@ -56,9 +58,15 @@
 <p align="center"><br>
 	<a href="https://github.com/Aquiles369/Arsenal_de_los_Dorks_de_Google/tree/main"><img alt="Proyecto creado" src="https://img.shields.io/badge/Arsenal%20de%20los%20Dorks%20de%20Google-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=plastic&labelColor=FFD700"/></a>
 	<a href="https://github.com/Aquiles369/Codigos-de-HTTP"><img alt="Proyecto creado" src="https://img.shields.io/badge/C%C3%B3digos%20de%20HTTP-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=plastic&labelColor=FFD700"/></a>
-	<a href="https://github.com/Aquiles369/FLDSMDFR"><img alt="Proyecto creado" src="https://img.shields.io/badge/FLDSMDFR-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 	<a href="https://github.com/Aquiles369/Colab-Bug-bounty"><img alt="Proyecto creado" src="https://img.shields.io/badge/Colab%20Bug%20bounty-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 	<a href="https://github.com/Aquiles369/Gestor-de-Payloads/tree/main"><img alt="Proyecto creado" src="https://img.shields.io/badge/Gestor%20de%20Payloads-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="https://github.com/Aquiles369/Gestor-de-Payloads/tree/main"><img alt="Proyecto creado" src="https://img.shields.io/badge/Gestor%20de%20Informes-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="https://github.com/Aquiles369/Gestor-de-Payloads/tree/main"><img alt="Proyecto creado" src="https://img.shields.io/badge/Metodos%20HTTP-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="https://github.com/Aquiles369/Gestor-de-Payloads/tree/main"><img alt="Proyecto creado" src="https://img.shields.io/badge/Header%20Arsenal-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="https://github.com/Aquiles369/Gestor-de-Payloads/tree/main"><img alt="Proyecto creado" src="https://img.shields.io/badge/Header%20Vulnerabilidades-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="https://github.com/Aquiles369/Gestor-de-Payloads/tree/main"><img alt="Proyecto creado" src="https://img.shields.io/badge/Header%20Vulnerabilidades-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="https://github.com/Aquiles369/Gestor-de-Payloads/tree/main"><img alt="Proyecto creado" src="https://img.shields.io/badge/60%20caminos%20creativos-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="https://github.com/Aquiles369/FLDSMDFR"><img alt="Proyecto creado" src="https://img.shields.io/badge/FLDSMDFR-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 </p><br>
 
 
