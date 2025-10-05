@@ -19,19 +19,19 @@
 
   Desarrollador **Web** especializado en **Back-end** con conocimientos de **Front-end**.
 **Técnico Superior en Ciberseguridad** con experiencia en auditorías web y **hardening de servidores**.
-En mis ratos libres **análisis de malware y reversing**.<br> 
+En mis ratos libres **análisis de malware y reversing**.<br><br> 
 
 
 - **Sobre mí:**<br>
   
-  • Más de 5 años de experiencia en hacking web (bug bounty, auditorías y hardening).<br> 
+  • Más de 5 años de experiencia en hacking web.<br> 
   • Técnico Superior en Ciberseguridad.  <br> 
   • Soltura en varios lenguajes de desarrollo y *scripting*.  <br> 
   • Experiencia en **CTFs** y retos.  
   • Experiencia en **bug bounty**.<br>
   • Salón de la Fama **puesto 22** en el programa de PortSwigger.net.<br>
   • Bug encontrado en NBA — Severidad: alta. Estado: duplicado/privado.<br>
-  • Autor y creador de varios **proyectos y cursos** formativos relacionados con seguridad web.<br> 
+  • Autor y creador de varios **proyectos y cursos** formativos relacionados con seguridad web.<br><br>
 
 
 - **Redes Sociales:** <br>
