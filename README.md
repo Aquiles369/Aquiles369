@@ -14,15 +14,18 @@
 <br><br> 
 
 
-- **Whoami:** <br> Desarrollador **Web** especializado en **Back-end**, con conocimientos de **Front-end**
+- **Whoami:** <br>
+
+  Desarrollador **Web** especializado en **Back-end**, con conocimientos de **Front-end**
   Técnico Superior en **Ciberseguridad** con experiencia en **auditorías web** y **hardening de servidores**.
+
 
 - **Sobre mí:**<br>
   
   • Más de 5 años de experiencia en hacking web (bug bounty, auditorías y hardening).<br> 
-  • Técnico Superior en Ciberseguridad.  
-  • Soltura en varios lenguajes de desarrollo y *scripting*.  
-  • Creatividad y pensamiento lateral.  
+  • Técnico Superior en Ciberseguridad.  <br> 
+  • Soltura en varios lenguajes de desarrollo y *scripting*.  <br> 
+  • Creatividad y pensamiento lateral.  <br> 
   • Iniciativa y autonomía para resolver problemas.  
   • Experiencia en **CTFs** y retos.  
   • Experiencia en **bug bounty**.<br>
@@ -30,7 +33,9 @@
   • Bug encontrado en NBA — Severidad: alta. Estado: duplicado/privado.<br>
   • Autor y creador de varios **proyectos y cursos** formativos relacionados con seguridad web.
 
+
 - **Redes Sociales:** <br>
+
   💼 LinkedIn: *(XD)*<br>
   ✉️ Contacto: **aquiless369@gmail.com**  
   📚 Mi Blog: **[GitBook](https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos)**  
@@ -41,6 +46,7 @@
   <br>
   <br>
   <br>
+  <br> 
 
 ### <img height="40" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B5M3B2bmpoeXJsNTB5MHUxYXQ4NWM0Y2F1ZHdxdmFudnpzcGt1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iuJEr72fj83GJy4tJn/giphy.gif" width ="50px">Tip: **hacé click en los recuadros** <img height="40" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B5M3B2bmpoeXJsNTB5MHUxYXQ4NWM0Y2F1ZHdxdmFudnpzcGt1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iuJEr72fj83GJy4tJn/giphy.gif"  width ="50px">
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
