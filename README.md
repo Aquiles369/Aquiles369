@@ -17,8 +17,9 @@
 - **Whoami:** <br> Desarrollador **Web** especializado en **Back-end**, con conocimientos de **Front-end**
   Técnico Superior en **Ciberseguridad** con experiencia en **auditorías web** y **hardening de servidores**.
 
-- **Sobre mí:**
-  • Más de 5 años de experiencia en hacking web (bug bounty, auditorías y hardening).
+- **Sobre mí:**<br>
+  
+  • Más de 5 años de experiencia en hacking web (bug bounty, auditorías y hardening).<br> 
   • Técnico Superior en Ciberseguridad.  
   • Soltura en varios lenguajes de desarrollo y *scripting*.  
   • Creatividad y pensamiento lateral.  
