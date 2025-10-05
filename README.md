@@ -66,6 +66,7 @@ En mis ratos libres **análisis de malware y reversing**.<br><br>
 	<a href="https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos"><img alt="Proyecto creado" src="https://img.shields.io/badge/Blog-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 	<a href="https://discord.gg/McUh5a2FwK"><img alt="Proyecto creado" src="https://img.shields.io/badge/Servidor%20de%20Discord-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 	<a href="https://discord.gg/McUh5a2FwK"><img alt="Proyecto creado" src="https://img.shields.io/badge/Templo%20de%20Aquiles%203D-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="https://github.com/Aquiles369/CIBERSEGURIDAD.TODOS-LOS-PDF"><img alt="Proyecto creado" src="https://img.shields.io/badge/Vulnerabilidades%20Cliente/Servidor/Raras-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 </p>
 
 
