@@ -52,7 +52,7 @@
 	<a href="https://discord.gg/McUh5a2FwK"><img alt="Proyecto creado" src="https://img.shields.io/badge/Plantilla%20Master%20XSS-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 	<a href="https://discord.gg/McUh5a2FwK"><img alt="Proyecto creado" src="https://img.shields.io/badge/Creaci%C3%B3n%20de%20Payload%20IA%20+%20Plantilla%20Maestra%20XSS-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 	<a href="https://github.com/Aquiles369/CIBERSEGURIDAD.TODOS-LOS-PDF"><img alt="Proyecto creado" src="https://img.shields.io/badge/Arsenal%20Bug%20Bounty%20Recursos-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-	<a href="https://github.com/Aquiles369/CIBERSEGURIDAD.TODOS-LOS-PDF"><img alt="Proyecto creado" src="25+ Bug Bounty Methodologies"/></a>
+	<a href="https://github.com/Aquiles369/CIBERSEGURIDAD.TODOS-LOS-PDF"><img alt="Proyecto creado" src="https://img.shields.io/badge/25+%20Bug%20Bounty%20Methodologies-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 	<a href="https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos"><img alt="Proyecto creado" src="https://img.shields.io/badge/Blog-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 	<a href="https://discord.gg/McUh5a2FwK"><img alt="Proyecto creado" src="https://img.shields.io/badge/Servidor%20de%20Discord-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 </p>
