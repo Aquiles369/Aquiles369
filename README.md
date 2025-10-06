@@ -31,7 +31,7 @@ En mis ratos libres **análisis de malware y reversing**.<br><br>
   • Experiencia en **bug bounty**.<br>
   • Salón de la Fama **puesto 22** en el programa de PortSwigger.net.<br>
   • Bug encontrado en NBA — Severidad: alta. Estado: duplicado/privado.<br>
-  • Autor y creador de varios **proyectos y cursos** formativos relacionados con seguridad web.<br><br>
+  • Autor y creador de varios **proyectos y cursos**.<br><br>
 
 
 - **Redes Sociales:** <br>
@@ -117,7 +117,7 @@ En mis ratos libres **análisis de malware y reversing**.<br><br>
 	<a href="https://aquiles-1.gitbook.io/aquiles/bug-bounty-desde-0/page-65"><img alt="Proyecto creado" src="https://img.shields.io/badge/Angular-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a></p><br><br>
 
 
-### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Zyam9mM3ZwaGx1MjFmZDN3aDNqc3Z6c2Exd20yejZ4a2hvem1sYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/USmRiZEwGGPIxDJm56/giphy.gif" width = 80px>  </picture> Proyectos generales
+### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazIxcWJqY2VkanZhbWI2Nml3Z3RiZ2ozZWl5czVnNjYwaGhoaDRlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3PVhwZvf6pqG6xswLv/giphy.gif" width = 80px>  </picture> Proyectos generales
  <p align="center"><br><br>
    	<a href="https://github.com/Aquiles369/Bug_Bounty_IA_ari"><img alt="Proyecto creado" src="https://img.shields.io/badge/Bug%20Bounty%20IA%20ari-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
   <a href="https://github.com/Aquiles369/Reloj-digital"><img alt="Proyecto creado" src="https://img.shields.io/badge/Reloj%20Digital-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a></p><br><br>
