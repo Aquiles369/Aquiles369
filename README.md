@@ -119,7 +119,7 @@ En mis ratos libres **análisis de malware y reversing**.<br><br>
 </p><br><br>
 
 
-### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNtbnB5YTlnNzR5N2g3M3R0dXVtZHN1YTFqOGYwbGYxdDI0NngwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1jgLDGD1Bn27e/giphy.gif" width = 80px>  </picture> Proyectos generales
+### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNtbnB5YTlnNzR5N2g3M3R0dXVtZHN1YTFqOGYwbGYxdDI0NngwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1jgLDGD1Bn27e/giphy.gif" width = 70px>  </picture> Proyectos generales
  <p align="center"><br><br>
    	<a href="https://github.com/Aquiles369/Bug_Bounty_IA_ari"><img alt="Proyecto creado" src="https://img.shields.io/badge/bug%20bounty%20ia%20ari-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/Reloj-digital"><img alt="Proyecto creado" src="https://img.shields.io/badge/reloj%20digital-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a></p><br><br>
