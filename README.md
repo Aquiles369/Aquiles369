@@ -68,6 +68,10 @@ En mis ratos libres **análisis de malware y reversing**.<br><br>
 <a href="https://discord.gg/McUh5a2FwK"><img alt="Proyecto creado" src="https://img.shields.io/badge/templo%20de%20aquiles%203d-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/CIBERSEGURIDAD.TODOS-LOS-PDF"><img alt="Proyecto creado" src="https://img.shields.io/badge/vulnerabilidades%20cliente/servidor/raras-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/CIBERSEGURIDAD.TODOS-LOS-PDF"><img alt="Proyecto creado" src="https://img.shields.io/badge/arsenal%20de%20laboratorios%20para%20bug%20bounty-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+<a href="https://github.com/Aquiles369/CIBERSEGURIDAD.TODOS-LOS-PDF"><img alt="Proyecto creado" src="https://img.shields.io/badge/lista%20completa%20de%20caracteres%20especiales-ffd700?logo=fldsm%20dfr&logoColor=%23000000&style=flat&labelColor=ffd700"/></a>
+<a href="https://github.com/Aquiles369/CIBERSEGURIDAD.TODOS-LOS-PDF"><img alt="Proyecto creado" src="https://img.shields.io/badge/charset-ffd700?logo=fldsm dfr&logoColor=%23000000&style=flat&labelColor=ffd700
+"/></a>
+<a href="https://github.com/Aquiles369/CIBERSEGURIDAD.TODOS-LOS-PDF"><img alt="Proyecto creado" src="https://img.shields.io/badge/lista%20de%20metodos%20http-ffd700?logo=fldsm%20dfr&logoColor=%23000000&style=flat&labelColor=ffd700"/></a>
 
 </p>
 
