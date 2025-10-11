@@ -96,7 +96,7 @@ En mis ratos libres **análisis de malware y reversing**.<br><br>
 <a href="https://github.com/Aquiles369/Reloj-digital"><img alt="Proyecto creado" src="https://img.shields.io/badge/reloj%20digital-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a></p><br>
 
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBud2k4bHFrN24wb2lrYWl1ZWNmcWduejQ4YnMxYndxaXp4b2thciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fSCJ53Il5dVpvyCEPA/giphy.gif" width = 70px>  </picture> Proyectos Mestro
+### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBud2k4bHFrN24wb2lrYWl1ZWNmcWduejQ4YnMxYndxaXp4b2thciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fSCJ53Il5dVpvyCEPA/giphy.gif" width = 70px>  </picture> Proyecto Maestro
  <p align="center"><br><br>
    	<a href="https://github.com/Aquiles369/Bug_Bounty_IA_ari"><img alt="Proyecto creado" src="https://img.shields.io/badge/excalibur-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a></p><br>
 
