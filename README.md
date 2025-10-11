@@ -58,7 +58,6 @@ En mis ratos libres **análisis de malware y reversing**.<br><br>
 ### <picture> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFnM29vZHo4ODRyaTdiazRjbmtyYWJrYWh4aDczOWxmdWdlcDZvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Dfpfss2vAyQvBVCi7l/giphy.gif" width ="90" > </picture> Proyectos destacados
 <p align="center"><br>
 	<a href="https://github.com/Aquiles369/CIBERSEGURIDAD.TODOS-LOS-PDF"><img alt="Proyecto creado" src="https://img.shields.io/badge/ciberseguridad%20todos%20los%20pdf-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-<a href="https://github.com/Aquiles369/plantilla-master-xss"><img alt="Proyecto creado" src="https://img.shields.io/badge/creaci%C3%B3n%20de%20payload%20ia%20+%20plantilla%20maestra%20xss-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/CIBERSEGURIDAD.TODOS-LOS-PDF"><img alt="Proyecto creado" src="https://img.shields.io/badge/arsenal%20bug%20bounty%20recursos-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 	<a href="https://github.com/Aquiles369/Recusos-xss/tree/main"><img alt="Proyecto creado" src="https://img.shields.io/badge/+80%20de%20recursos%20sobre%20xss%20-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/CIBERSEGURIDAD.TODOS-LOS-PDF"><img alt="Proyecto creado" src="https://img.shields.io/badge/informes%20de%20bug%20bounty%20en%20+7%20plataformas-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
@@ -88,6 +87,7 @@ En mis ratos libres **análisis de malware y reversing**.<br><br>
 <a href="https://github.com/Aquiles369/header-vulnerabilidades-Excalibur"><img alt="Proyecto creado" src="https://img.shields.io/badge/header%20vulnerabilidades-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/60-caminos-creativos-"><img alt="Proyecto creado" src="https://img.shields.io/badge/60%20caminos%20creativos-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/FLDSMDFR"><img alt="Proyecto creado" src="https://img.shields.io/badge/fldsmdfr-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+<a href="https://github.com/Aquiles369/plantilla-master-xss"><img alt="Proyecto creado" src="https://img.shields.io/badge/creaci%C3%B3n%20de%20payload%20ia%20+%20plantilla%20maestra%20xss-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>	
 </p><br>
 
 
