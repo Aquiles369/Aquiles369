@@ -17,7 +17,7 @@
 
 - **Whoami:** <br>
 
-  Desarrollador **Web** especializado en **Back-end** con conocimientos de **Front-end**.
+  Desarrollador **Web** especializado en **Back-end** y conocimientos de **Front-end**.
 **Técnico Superior en Ciberseguridad** con experiencia en auditorías web y **hardening de servidores**.
 En mis ratos libres **Bug bounty**.<br><br> 
 
@@ -31,7 +31,7 @@ En mis ratos libres **Bug bounty**.<br><br>
   • Experiencia en **bug bounty**.<br>
   • Salón de la Fama **puesto 22** en el programa de PortSwigger.net.<br>
   • Bug encontrado en NBA — Severidad: alta. Estado: duplicado/privado.<br>
-  • Autor y creador de varios **proyectos y cursos**.<br><br>
+  • Autor y creador de varios **proyectos y Harramientas**.<br><br>
 
 
 - **Redes Sociales:** <br>
