@@ -84,7 +84,9 @@ En mis ratos libres **Bug bounty**.<br><br>
 <a href="https://github.com/Aquiles369/FLDSMDFR"><img alt="Proyecto creado" src="https://img.shields.io/badge/fldsmdfr-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/plantilla-master-xss"><img alt="Proyecto creado" src="https://img.shields.io/badge/creaci%C3%B3n%20de%20payload%20ia%20+%20plantilla%20maestra%20xss-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>	
 <a href="https://github.com/Aquiles369/CIBERSEGURIDAD.TODOS-LOS-PDF"><img alt="Proyecto creado" src="https://img.shields.io/badge/charset-ffd700?logo=fldsm%20dfr&logoColor=%23000000&style=flat&labelColor=ffd700"/></a>
-<a href="https://github.com/Aquiles369/CIBERSEGURIDAD.TODOS-LOS-PDF"><img alt="Proyecto creado" src="https://img.shields.io/badge/ofuscaci%C3%B3n%20payload%20+%20ia-ffd700?logo=fldsm%20dfr&logoColor=%23000000&style=flat&labelColor=ffd700"/></a>
+<a href="https://github.com/Aquiles369/ofuscacion-de-payload-ia"><img alt="Proyecto creado" src="https://img.shields.io/badge/ofuscaci%C3%B3n%20payload%20+%20ia-ffd700?logo=fldsm%20dfr&logoColor=%23000000&style=flat&labelColor=ffd700"/></a>
+<a href="https://github.com/Aquiles369/promt-ia-codificacion-de-payload"><img alt="Proyecto creado" src="https://img.shields.io/badge/codificaci%C3%B3n%20payload%20+%20ia-ffd700?logo=fldsm%20dfr&logoColor=%23000000&style=flat&labelColor=ffd700"/></a>
+<a href="https://github.com/Aquiles369/promt-de-100-tecnicas-xss-ia"><img alt="Proyecto creado" src="https://img.shields.io/badge/100%20t%C3%A9cnicas%20xss%20+%20ia-ffd700?logo=fldsm%20dfr&logoColor=%23000000&style=flat&labelColor=ffd700"/></a>
 </p><br>
 
 
