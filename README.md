@@ -66,7 +66,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 <a href="https://hackerone.com/aquiless/hacktivity?type=user"><img alt="Proyecto creado" src="https://img.shields.io/badge/perfil%20hackerone%20-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>	
 <a href="https://github.com/Aquiles369/lista-de-caracteres-especiales"><img alt="Proyecto creado" src="https://img.shields.io/badge/lista%20completa%20de%20caracteres%20especiales-ffd700?logo=fldsm%20dfr&logoColor=%23000000&style=flat&labelColor=ffd700"/></a>
 <a href="https://github.com/Aquiles369/lista-de-metodos-http"><img alt="Proyecto creado" src="https://img.shields.io/badge/lista%20de%20metodos%20http-ffd700?logo=fldsm%20dfr&logoColor=%23000000&style=flat&labelColor=ffd700"/></a>
-<a href="https://discord.gg/McUh5a2FwK"><img alt="Proyecto creado" src="https://img.shields.io/badge/promt%20para%20ia-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+<a href="https://github.com/Aquiles369/promt-para-ia/tree/main"><img alt="Proyecto creado" src="https://img.shields.io/badge/promt%20para%20ia-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 
 </p>
 
