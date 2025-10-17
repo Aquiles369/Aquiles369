@@ -96,19 +96,20 @@ En mis ratos libres **Bug bounty**.<br><br>
 </p><br>
 
 
-### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNtbnB5YTlnNzR5N2g3M3R0dXVtZHN1YTFqOGYwbGYxdDI0NngwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1jgLDGD1Bn27e/giphy.gif" width = 70px>  </picture> Proyectos Vulnerabilidades Cliente/Servidor/Raras
+### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNtbnB5YTlnNzR5N2g3M3R0dXVtZHN1YTFqOGYwbGYxdDI0NngwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1jgLDGD1Bn27e/giphy.gif" width = 70px>  </picture> Vulnerabilidades Cliente/Servidor/Raras
  <p align="center"><br><br>
+<a href="https://github.com/Aquiles369/js_analisis"><img alt="Proyecto creado" src="https://img.shields.io/badge/analisis%20archivos%20.js-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
    	<a href="https://github.com/Aquiles369/Bug_Bounty_IA_ari"><img alt="Proyecto creado" src="https://img.shields.io/badge/bug%20bounty%20ia%20ari-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/Reloj-digital"><img alt="Proyecto creado" src="https://img.shields.io/badge/reloj%20digital-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a></p><br>
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBud2k4bHFrN24wb2lrYWl1ZWNmcWduejQ4YnMxYndxaXp4b2thciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fSCJ53Il5dVpvyCEPA/giphy.gif" width = 70px>  </picture> Serie diario de un cazador
+### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXYxbzc0NGJscmU4ajRiZmo0YTczNHp2czNqbXJ5ODVpb3I5ZDl4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fUGkJOWduDgKRDVvzT/giphy.gif" width = 70px>  </picture> Serie diario de un cazador
  <p align="center"><br><br>
    	<a href="https://studio.youtube.com/playlist/PLiL4_0yJL4TupZNb55ATYE5eLGzd_La_B/edit"><img alt="Proyecto creado" src="https://img.shields.io/badge/top%201%20portswigger.net-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a></p>
 <br><br>
 
 
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBud2k4bHFrN24wb2lrYWl1ZWNmcWduejQ4YnMxYndxaXp4b2thciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fSCJ53Il5dVpvyCEPA/giphy.gif" width = 70px>  </picture> Proyectos Destacado
+### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBud2k4bHFrN24wb2lrYWl1ZWNmcWduejQ4YnMxYndxaXp4b2thciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fSCJ53Il5dVpvyCEPA/giphy.gif" width = 70px>  </picture> Proyecto Destacado
  <p align="center"><br><br>
    	<a href="https://github.com/Aquiles369/excalibur"><img alt="Proyecto creado" src="https://img.shields.io/badge/excalibur-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a></p>
 <br><br>
