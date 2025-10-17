@@ -69,6 +69,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 <a href="https://github.com/Aquiles369/promt-para-ia/tree/main"><img alt="Proyecto creado" src="https://img.shields.io/badge/promt%20para%20ia-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/300-tips-para-bug-bounty"><img alt="Proyecto creado" src="https://img.shields.io/badge/300%20tips%20para%20bug%20bounty-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/Metodologia-web-25"><img alt="Proyecto creado" src="https://img.shields.io/badge/Metodolog%C3%ADa%20web%20+25-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+<a href="https://github.com/Aquiles369/Plantillas-informes"><img alt="Proyecto creado" src="https://img.shields.io/badge/Plantillas-informes%20bug%20bounty-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 
 </p>
 
