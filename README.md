@@ -69,6 +69,8 @@ En mis ratos libres **Bug bounty**.<br><br>
 <a href="https://github.com/Aquiles369/lista-de-metodos-http"><img alt="Proyecto creado" src="https://img.shields.io/badge/lista%20de%20metodos%20http-ffd700?logo=fldsm%20dfr&logoColor=%23000000&style=flat&labelColor=ffd700"/></a>
 <a href="https://github.com/Aquiles369/promt-para-ia/tree/main"><img alt="Proyecto creado" src="https://img.shields.io/badge/promt%20para%20ia-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/300-tips-para-bug-bounty"><img alt="Proyecto creado" src="https://img.shields.io/badge/300%20tips%20para%20bug%20bounty-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+<a href="https://github.com/Aquiles369/Bug_Bounty_IA_ari"><img alt="Proyecto creado" src="https://img.shields.io/badge/bug%20bounty%20ia%20ari-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+<a href="https://github.com/Aquiles369/Reloj-digital"><img alt="Proyecto creado" src="https://img.shields.io/badge/reloj%20digital-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/Metodologia-web-25"><img alt="Proyecto creado" src="https://img.shields.io/badge/Metodolog%C3%ADa%20web%20+25-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/Plantillas-informes"><img alt="Proyecto creado" src="https://img.shields.io/badge/Plantillas-informes%20bug%20bounty-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/plataformas-para-leer-informes"><img alt="Proyecto creado" src="https://img.shields.io/badge/Plataformas%20para%20leer%20informes-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
@@ -99,12 +101,13 @@ En mis ratos libres **Bug bounty**.<br><br>
 ### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNtbnB5YTlnNzR5N2g3M3R0dXVtZHN1YTFqOGYwbGYxdDI0NngwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1jgLDGD1Bn27e/giphy.gif" width = 70px>  </picture> Vulnerabilidades Cliente/Servidor/Raras
  <p align="center"><br><br>
 <a href="https://github.com/Aquiles369/js_analisis"><img alt="Proyecto creado" src="https://img.shields.io/badge/analisis%20archivos%20.js-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-   	<a href="https://github.com/Aquiles369/Bug_Bounty_IA_ari"><img alt="Proyecto creado" src="https://img.shields.io/badge/bug%20bounty%20ia%20ari-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-<a href="https://github.com/Aquiles369/Reloj-digital"><img alt="Proyecto creado" src="https://img.shields.io/badge/reloj%20digital-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a></p><br>
+ <a href="https://github.com/Aquiles369/idor"><img alt="Proyecto creado" src="https://img.shields.io/badge/idor-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+</p><br>
 
 ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXYxbzc0NGJscmU4ajRiZmo0YTczNHp2czNqbXJ5ODVpb3I5ZDl4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fUGkJOWduDgKRDVvzT/giphy.gif" width = 70px>  </picture> Serie diario de un cazador
  <p align="center"><br><br>
-   	<a href="https://studio.youtube.com/playlist/PLiL4_0yJL4TupZNb55ATYE5eLGzd_La_B/edit"><img alt="Proyecto creado" src="https://img.shields.io/badge/top%201%20portswigger.net-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a></p>
+   	<a href="https://studio.youtube.com/playlist/PLiL4_0yJL4TupZNb55ATYE5eLGzd_La_B/edit"><img alt="Proyecto creado" src="https://img.shields.io/badge/top%201%20portswigger.net-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+ </p>
 <br><br>
 
 
