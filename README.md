@@ -74,7 +74,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 <a href="https://github.com/Aquiles369/metodologia-web-25"><img alt="Proyecto creado" src="https://img.shields.io/badge/metodolog%C3%ADa%20web%20+25-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/Plantillas-informes"><img alt="Proyecto creado" src="https://img.shields.io/badge/plantillas-informes%20bug%20bounty-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/plataformas-para-leer-informes"><img alt="Proyecto creado" src="https://img.shields.io/badge/plataformas%20para%20leer%20informes-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-<a href="https://github.com/Aquiles369/Bases-de-datos-de-informes-json"><img alt="Proyecto creado" src="https://img.shields.io/badge/bases%20de%20datos%20%20informes%20en%20formato%20json-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+<a href="https://github.com/Aquiles369/Bases-de-datos-informes-en-formato-json"><img alt="Proyecto creado" src="https://img.shields.io/badge/bases%20de%20datos%20%20informes%20en%20formato%20json-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 
 </p>
 
