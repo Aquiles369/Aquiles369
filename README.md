@@ -71,9 +71,10 @@ En mis ratos libres **Bug bounty**.<br><br>
 <a href="https://github.com/Aquiles369/300-tips-para-bug-bounty"><img alt="Proyecto creado" src="https://img.shields.io/badge/300%20tips%20para%20bug%20bounty-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/Bug_Bounty_IA_ari"><img alt="Proyecto creado" src="https://img.shields.io/badge/bug%20bounty%20ia%20ari-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/Reloj-digital"><img alt="Proyecto creado" src="https://img.shields.io/badge/reloj%20digital-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-<a href="https://github.com/Aquiles369/Metodologia-web-25"><img alt="Proyecto creado" src="https://img.shields.io/badge/Metodolog%C3%ADa%20web%20+25-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+<a href="https://github.com/Aquiles369/metodologia-web-25"><img alt="Proyecto creado" src="https://img.shields.io/badge/Metodolog%C3%ADa%20web%20+25-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/Plantillas-informes"><img alt="Proyecto creado" src="https://img.shields.io/badge/Plantillas-informes%20bug%20bounty-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-<a href="https://github.com/Aquiles369/plataformas-para-leer-informes"><img alt="Proyecto creado" src="https://img.shields.io/badge/Plataformas%20para%20leer%20informes-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+<a href="https://github.com/Aquiles369/plataformas-para-leer-informes"><img alt="Proyecto creado" src="https://img.shields.io/badge/plataformas%20para%20leer%20informes-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+<a href="https://github.com/Aquiles369/Bases-de-datos-de-informes-json"><img alt="Proyecto creado" src="https://img.shields.io/badge/bases%20de%20datos%20de%20informes%20json-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 
 </p>
 
