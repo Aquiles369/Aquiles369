@@ -95,7 +95,6 @@ En mis ratos libres **Bug bounty**.<br><br>
 <a href="https://github.com/Aquiles369/ofuscacion-de-payload-ia"><img alt="Proyecto creado" src="https://img.shields.io/badge/ofuscaci%C3%B3n%20payload%20+%20ia-ffd700?logo=fldsm%20dfr&logoColor=%23000000&style=flat&labelColor=ffd700"/></a>
 <a href="https://github.com/Aquiles369/promt-ia-codificacion-de-payload"><img alt="Proyecto creado" src="https://img.shields.io/badge/codificaci%C3%B3n%20payload%20+%20ia-ffd700?logo=fldsm%20dfr&logoColor=%23000000&style=flat&labelColor=ffd700"/></a>
 <a href="https://github.com/Aquiles369/promt-de-100-tecnicas-xss-ia"><img alt="Proyecto creado" src="https://img.shields.io/badge/100%20t%C3%A9cnicas%20xss%20+%20ia-ffd700?logo=fldsm%20dfr&logoColor=%23000000&style=flat&labelColor=ffd700"/></a>
-<a href="https://github.com/Aquiles369/2-tools-de-js-analisis"><img alt="Proyecto creado" src="https://img.shields.io/badge/2%20tools%20de%20js%20analisis-ffd700?logo=fldsm%20dfr&logoColor=%23000000&style=flat&labelColor=ffd700"/></a>
 <a href="https://github.com/Aquiles369/dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty/tree/main"><img alt="Proyecto creado" src="https://img.shields.io/badge/dorks%20google%20empresas%20que%20tienen%20su%20propio%20programa%20de%20bug%20bounty-ffd700?logo=fldsm%20dfr&logocolor=%23000000&style=flat&labelcolor=ffd700"/></a>
 </p><br>
 
@@ -103,7 +102,6 @@ En mis ratos libres **Bug bounty**.<br><br>
 ### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNtbnB5YTlnNzR5N2g3M3R0dXVtZHN1YTFqOGYwbGYxdDI0NngwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1jgLDGD1Bn27e/giphy.gif" width = 70px>  </picture> Vulnerabilidades Cliente/Servidor/Raras
  <p align="center"><br><br>
 <a href="https://github.com/Aquiles369/js_analisis"><img alt="Proyecto creado" src="https://img.shields.io/badge/analisis%20archivos%20.js-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
- <a href="https://github.com/Aquiles369/idor"><img alt="Proyecto creado" src="https://img.shields.io/badge/idor-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 </p><br>
 
 ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXYxbzc0NGJscmU4ajRiZmo0YTczNHp2czNqbXJ5ODVpb3I5ZDl4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fUGkJOWduDgKRDVvzT/giphy.gif" width = 70px>  </picture> Serie diario de un cazador
