@@ -53,7 +53,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 <br>
 
 
-### <picture> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFnM29vZHo4ODRyaTdiazRjbmtyYWJrYWh4aDczOWxmdWdlcDZvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Dfpfss2vAyQvBVCi7l/giphy.gif" width ="90" > </picture> Proyectos destacados
+### <picture> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFnM29vZHo4ODRyaTdiazRjbmtyYWJrYWh4aDczOWxmdWdlcDZvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Dfpfss2vAyQvBVCi7l/giphy.gif" width ="90" > </picture> <center> Proyectos destacados </center>
 <p align="center"><br>
 	<a href="https://github.com/Aquiles369/CIBERSEGURIDAD.TODOS-LOS-PDF"><img alt="Proyecto creado" src="https://img.shields.io/badge/ciberseguridad%20todos%20los%20pdf-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/diario_de_caza_portswigger_net"><img alt="Proyecto creado" src="https://img.shields.io/badge/diario%20de%20un%20cazador-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
