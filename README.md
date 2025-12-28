@@ -105,7 +105,8 @@ En mis ratos libres **Bug bounty**.<br><br>
 
 ### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNtbnB5YTlnNzR5N2g3M3R0dXVtZHN1YTFqOGYwbGYxdDI0NngwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1jgLDGD1Bn27e/giphy.gif" width = 70px>  </picture> Vulnerabilidades Cliente/Servidor/Raras
  <p align="center"><br><br>
-<a href="https://github.com/Aquiles369/js_analisis"><img alt="Proyecto creado" src="https://img.shields.io/badge/analisis%20archivos%20.js-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+<a href="https://github.com/Aquiles369/js_analisis"><img alt="Proyecto creado" src="https://img.shields.io/badge/analisis%20archivos%20.js-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>  
+<a href="https://github.com/Aquiles369/ssrf"><img alt="Proyecto creado" src="https://img.shields.io/badge/ssrf-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a> 
 </p><br>
 
 ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXYxbzc0NGJscmU4ajRiZmo0YTczNHp2czNqbXJ5ODVpb3I5ZDl4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fUGkJOWduDgKRDVvzT/giphy.gif" width = 70px>  </picture> Serie diario de un cazador
