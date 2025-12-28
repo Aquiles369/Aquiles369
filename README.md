@@ -121,6 +121,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 <a href="https://github.com/Aquiles369/inyeccion_orm"><img alt="Proyecto creado" src="https://img.shields.io/badge/inyecci%C3%B3n_orm-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/inyeccion_saml"><img alt="Proyecto creado" src="https://img.shields.io/badge/inyecci%C3%B3n_saml-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/inyeccion_ldap"><img alt="Proyecto creado" src="https://img.shields.io/badge/inyecci%C3%B3n_ldap-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	 <a href="https://github.com/Aquiles369/XXE"><img alt="Proyecto creado" src="https://img.shields.io/badge/xxe-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 </p><br>
 
 ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXYxbzc0NGJscmU4ajRiZmo0YTczNHp2czNqbXJ5ODVpb3I5ZDl4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fUGkJOWduDgKRDVvzT/giphy.gif" width = 70px>  </picture> Serie diario de un cazador
