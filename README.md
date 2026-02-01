@@ -56,7 +56,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 
 
 
-### <picture> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFnM29vZHo4ODRyaTdiazRjbmtyYWJrYWh4aDczOWxmdWdlcDZvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Dfpfss2vAyQvBVCi7l/giphy.gif" width ="90" > </picture> <p align="center">  Proyectos destacados </p> 
+## <p align="center">  Proyectos destacados </p> 
 
 
 <p align="center"><br>
@@ -84,7 +84,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 </p>
 
 
-### <picture> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2l2Zmo4ZmJwa3JyNjJzejVoOTRja2V4NmNseHF2bjdhcmxmYmE5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bwryYUIraaiXs0AqTd/giphy.gif" width ="75" > </picture> Herramientas 
+### <picture> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2l2Zmo4ZmJwa3JyNjJzejVoOTRja2V4NmNseHF2bjdhcmxmYmE5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bwryYUIraaiXs0AqTd/giphy.gif" width ="75" > </picture> p align="center">  Herramientas </p>
 <p align="center"><br>
 	<a href="https://github.com/Aquiles369/Arsenal_de_los_Dorks_de_Google/tree/main"><img alt="Proyecto creado" src="https://img.shields.io/badge/arsenal%20de%20los%20dorks%20de%20google-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=plastic&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/Codigos-de-HTTP"><img alt="Proyecto creado" src="https://img.shields.io/badge/c%C3%B3digos%20de%20http-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=plastic&labelColor=FFD700"/></a>
