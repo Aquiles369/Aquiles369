@@ -58,7 +58,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 
 
 
-### <p align="center">  Proyectos destacados </p> 
+## <p align="center">  Proyectos destacados </p> 
 
 
 <p align="center"><br>
@@ -84,6 +84,8 @@ En mis ratos libres **Bug bounty**.<br><br>
 <a href="https://github.com/Aquiles369/Bases-de-datos-informes-en-formato-json"><img alt="Proyecto creado" src="https://img.shields.io/badge/bases%20de%20datos%20%20informes%20en%20formato%20json-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 
 </p>
+<br>
+<br>
 
 
 ### <p align="center">   Herramientas </p>
@@ -103,7 +105,8 @@ En mis ratos libres **Bug bounty**.<br><br>
 <a href="https://github.com/Aquiles369/promt-ia-codificacion-de-payload"><img alt="Proyecto creado" src="https://img.shields.io/badge/codificaci%C3%B3n%20payload%20+%20ia-ffd700?logo=fldsm%20dfr&logoColor=%23000000&style=flat&labelColor=ffd700"/></a>
 <a href="https://github.com/Aquiles369/promt-de-100-tecnicas-xss-ia"><img alt="Proyecto creado" src="https://img.shields.io/badge/100%20t%C3%A9cnicas%20xss%20+%20ia-ffd700?logo=fldsm%20dfr&logoColor=%23000000&style=flat&labelColor=ffd700"/></a>
 <a href="https://github.com/Aquiles369/dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty/tree/main"><img alt="Proyecto creado" src="https://img.shields.io/badge/dorks%20google%20empresas%20que%20tienen%20su%20propio%20programa%20de%20bug%20bounty-ffd700?logo=fldsm%20dfr&logocolor=%23000000&style=flat&labelcolor=ffd700"/></a>
-</p><br>
+</p>
+<br><br>
 
 
 ### <p align="center"> Vulnerabilidades Cliente/Servidor/Raras </p>
@@ -127,6 +130,9 @@ En mis ratos libres **Bug bounty**.<br><br>
 <a href="https://github.com/Aquiles369/inyeccion_ldap"><img alt="Proyecto creado" src="https://img.shields.io/badge/inyecci%C3%B3n_ldap-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 	 <a href="https://github.com/Aquiles369/XXE"><img alt="Proyecto creado" src="https://img.shields.io/badge/xxe-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 </p><br>
+
+<br>
+<br>
 
 ### <p align="center">  Serie diario de un cazador </p>
  <p align="center"><br><br>
