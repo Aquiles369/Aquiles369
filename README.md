@@ -58,7 +58,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 
 
 
-### <picture> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFnM29vZHo4ODRyaTdiazRjbmtyYWJrYWh4aDczOWxmdWdlcDZvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Dfpfss2vAyQvBVCi7l/giphy.gif" width ="90" > </picture> <p align="center">  Proyectos destacados </p> 
+### <p align="center">  Proyectos destacados </p> 
 
 
 <p align="center"><br>
@@ -86,7 +86,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 </p>
 
 
-### <picture> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2l2Zmo4ZmJwa3JyNjJzejVoOTRja2V4NmNseHF2bjdhcmxmYmE5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bwryYUIraaiXs0AqTd/giphy.gif" width ="75" > </picture> <p align="center">   Herramientas </p>
+### <p align="center">   Herramientas </p>
 <p align="center"><br>
 	<a href="https://github.com/Aquiles369/Arsenal_de_los_Dorks_de_Google/tree/main"><img alt="Proyecto creado" src="https://img.shields.io/badge/arsenal%20de%20los%20dorks%20de%20google-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=plastic&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/Codigos-de-HTTP"><img alt="Proyecto creado" src="https://img.shields.io/badge/c%C3%B3digos%20de%20http-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=plastic&labelColor=FFD700"/></a>
@@ -106,7 +106,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 </p><br>
 
 
-### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNtbnB5YTlnNzR5N2g3M3R0dXVtZHN1YTFqOGYwbGYxdDI0NngwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1jgLDGD1Bn27e/giphy.gif" width = 70px>  </picture> Vulnerabilidades Cliente/Servidor/Raras
+### <p align="center"> Vulnerabilidades Cliente/Servidor/Raras </p>
  <p align="center"><br><br>
 <a href="https://github.com/Aquiles369/js_analisis"><img alt="Proyecto creado" src="https://img.shields.io/badge/analisis%20archivos%20.js-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>  
 <a href="https://github.com/Aquiles369/cache"><img alt="Proyecto creado" src="https://img.shields.io/badge/cache-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
@@ -128,7 +128,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 	 <a href="https://github.com/Aquiles369/XXE"><img alt="Proyecto creado" src="https://img.shields.io/badge/xxe-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 </p><br>
 
-### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXYxbzc0NGJscmU4ajRiZmo0YTczNHp2czNqbXJ5ODVpb3I5ZDl4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fUGkJOWduDgKRDVvzT/giphy.gif" width = 70px>  </picture> Serie diario de un cazador
+### <p align="center">  Serie diario de un cazador </p>
  <p align="center"><br><br>
    	<a href="https://studio.youtube.com/playlist/PLiL4_0yJL4TupZNb55ATYE5eLGzd_La_B/edit"><img alt="Proyecto creado" src="https://img.shields.io/badge/top%201%20portswigger.net-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
  </p>
@@ -136,7 +136,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 
 
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBud2k4bHFrN24wb2lrYWl1ZWNmcWduejQ4YnMxYndxaXp4b2thciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fSCJ53Il5dVpvyCEPA/giphy.gif" width = 70px>  </picture> Proyecto Excálibur
+### <p align="center">  Proyecto Excálibur </p>
  <p align="center"><br><br>
    	<a href="https://github.com/Aquiles369/excalibur"><img alt="Proyecto creado" src="https://img.shields.io/badge/excalibur-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a></p>
 <br><br>
@@ -148,7 +148,9 @@ En mis ratos libres **Bug bounty**.<br><br>
 <br>
 
 <p align="center">
-<img height="40" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBuMTlkbTVsNzE4b29xcjd1dHFiYXE1cTNzczU2dG4xZW0yNWFrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YXum0CzuoMdW2MKgyJ/giphy.gif"><img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif"><span style="font-size:34px; font-weight:bold;">Skills</span><img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif"><img height="35" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBuMTlkbTVsNzE4b29xcjd1dHFiYXE1cTNzczU2dG4xZW0yNWFrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YXum0CzuoMdW2MKgyJ/giphy.gif"></p>
+<img height="40" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBuMTlkbTVsNzE4b29xcjd1dHFiYXE1cTNzczU2dG4xZW0yNWFrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YXum0CzuoMdW2MKgyJ/giphy.gif"><img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif"><span style="font-size:34px; font-weight:bold;"> Skills </span><img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif"><img height="35" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBuMTlkbTVsNzE4b29xcjd1dHFiYXE1cTNzczU2dG4xZW0yNWFrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YXum0CzuoMdW2MKgyJ/giphy.gif"></p>
+<picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture> </p>
+
 
 
 <br>
