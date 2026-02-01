@@ -36,7 +36,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 
 - **Redes Sociales:** <br>
 
-  💼 LinkedIn → *https://www.linkedin.com/in/aquiles-%E3%85%A4-6477a0304/?profileId=ACoAAE23AZcBuV48qm4StK6H44KWdsYqFdxS7b8*<br>
+  💼 LinkedIn → *https://www.linkedin.com/in/%E3%85%A4-%E3%85%A4-6477a0304/*<br>
   ✉️ Contacto → **aquiless369@gmail.com**<br>
   📚 Mi Blog → **[GitBook](https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos)**  
   🎥 YouTube → **[Aquiles](https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg)**  
