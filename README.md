@@ -30,7 +30,7 @@ En mis ratos libres **Bug bounty**.<br><br>
   • Experiencia en **CTFs** y retos.  
   • Experiencia en **bug bounty**.<br>
   • Salón de la Fama **puesto 22** en el programa de PortSwigger.net.<br>
-  • Bug encontrado en NBA — Severidad: alta. Estado: duplicado/privado.<br>
+  • Bug encontrado en NBA | Severidad: alta. Estado: duplicado/privado.<br>
   • Autor y creador de varios **proyectos y herramientas**.<br><br>
 
 
