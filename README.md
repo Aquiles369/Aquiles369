@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
- <img  height="470rem" alt="GIF" src="https://github.com/Aquiles369/iconos/blob/main/redme.gif"/>
+ <img  height="470rem" alt="GIF" src="https://github.com/Aquiles369/iconos/blob/main/portada.gif"/>
 </p>
 
 ##
