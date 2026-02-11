@@ -144,8 +144,8 @@ En mis ratos libres **Bug bounty**.<br><br>
 
 <p align="center"><br>
 	<a href=https://github.com/Aquiles369/charsets-parsing-y-bypass-de-WAF."><img alt="Proyecto creado" src="https://img.shields.io/badge/charsets,%20parsing%20y%20bypass%20de%20WAF-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-<a href="https://github.com/Aquiles369/CIBERSEGURIDAD.TODOS-LOS-PDF"><img alt="Proyecto creado" src="https://img.shields.io/badge/ciberseguridad%20todos%20los%20pdf-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-<a href=https://github.com/Aquiles369/charsets-parsing-y-bypass-de-WAF."><img alt="Proyecto creado" src="https://img.shields.io/badge/charsets,%20parsing%20y%20bypass%20de%20WAF-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+<a href="https://github.com/Aquiles369/Normalizacion-Unicode-y-Desalineacion-entre-Capas."><img alt="Proyecto creado" src="https://img.shields.io/badge/Normalizaci%C3%B3n%20Unicode%20y%20Desalineaci%C3%B3n%20entre%20Capas-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+<a href=https://github.com/Aquiles369/ofuscacion-visual-y-Unicode-para-ejecucion-de-JavaScript./blob/main/README.md."><img alt="Proyecto creado" src="https://img.shields.io/badge/ofuscaci%C3%B3n%20visual%20y%20Unicode%20para%20ejecuci%C3%B3n%20de%20JavaScript.-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 
 </p><br>
 <br>
