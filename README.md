@@ -13,7 +13,7 @@
  <br>
  <br>
 
-### <picture> <img align="right" src="https://github.com/Aquiles369/iconos/blob/main/porti_abajo.gif"  width = 380px  high ="200px"></picture>
+### <picture> <img align="right" src="https://github.com/Aquiles369/iconos/blob/main/porti_abajo.gif"  width = 355px  high ="200px"></picture>
 
 
 
