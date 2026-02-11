@@ -147,6 +147,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 <a href="https://github.com/Aquiles369/CIBERSEGURIDAD.TODOS-LOS-PDF"><img alt="Proyecto creado" src="https://img.shields.io/badge/ciberseguridad%20todos%20los%20pdf-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href=https://github.com/Aquiles369/charsets-parsing-y-bypass-de-WAF."><img alt="Proyecto creado" src="https://img.shields.io/badge/charsets,%20parsing%20y%20bypass%20de%20WAF-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 
+</p><br>
 <br>
 <br>
 
