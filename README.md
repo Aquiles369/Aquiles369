@@ -113,7 +113,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 <br><br>
 
 
-### <p align="center"> Vulnerabilidades Cliente/Servidor/Raras </p>
+### <p align="center"> Vulnerabilidades Profundidad Cliente/Servidor/Raras/Extra </p>
  <p align="center"><br><br>
 <a href="https://github.com/Aquiles369/js_analisis"><img alt="Proyecto creado" src="https://img.shields.io/badge/analisis%20archivos%20.js-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>  
 <a href="https://github.com/Aquiles369/cache"><img alt="Proyecto creado" src="https://img.shields.io/badge/cache-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
