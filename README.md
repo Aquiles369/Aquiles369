@@ -152,6 +152,20 @@ En mis ratos libres **Bug bounty**.<br><br>
 <br>
 
 
+<br>
+<br>
+
+
+### <p align="center"> Investigaciones prácticas  </p> 
+
+
+<p align="center"><br>
+	<a href=""><img alt="Proyecto creado" src="https://img.shields.io/badge/C%C3%A1psula%20Hiper%20Foco-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+<a href=""><img alt="Proyecto creado" src="https://img.shields.io/badge/C%CC%B6a%CC%B6m%CC%B6a%CC%B6r%CC%B6a%CC%B6%20%CC%B6d%CC%B6e%CC%B6%20%CC%B6d%CC%B6e%CC%B6s%CC%B6p%CC%B6e%CC%B6r%CC%B6s%CC%B6o%CC%B6n%CC%B6a%CC%B6l%CC%B6i%CC%B6z%CC%B6a%CC%B6c%CC%B6i%CC%B6o%CC%B6n%CC%B6%20%CC%B6i%CC%B6n%CC%B6t%CC%B6e%CC%B6n%CC%B6s%CC%B6i%CC%B6d%CC%B6a%CC%B6d%CC%B6%20%CC%B6a%CC%B6l%CC%B6t%CC%B6a%CC%B6-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+
+</p><br>
+
+
 ### <p align="center">  Serie diario de un cazador </p>
  <p align="center"><br><br>
    	<a href="https://studio.youtube.com/playlist/PLiL4_0yJL4TupZNb55ATYE5eLGzd_La_B/edit"><img alt="Proyecto creado" src="https://img.shields.io/badge/top%201%20portswigger.net-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
