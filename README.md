@@ -147,7 +147,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 <a href="https://github.com/Aquiles369/Normalizacion-Unicode-y-Desalineacion-entre-Capas."><img alt="Proyecto creado" src="https://img.shields.io/badge/Normalizaci%C3%B3n%20Unicode%20y%20Desalineaci%C3%B3n%20entre%20Capas-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/ofuscacion-visual-y-Unicode-para-ejecucion-de-JavaScript"><img alt="Proyecto creado" src="https://img.shields.io/badge/ofuscaci%C3%B3n%20visual%20y%20Unicode%20para%20ejecuci%C3%B3n%20de%20JavaScript.-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 
-</p><br>
+</p>
 <br>
 <br>
 
@@ -156,8 +156,8 @@ En mis ratos libres **Bug bounty**.<br><br>
 
 
 <p align="center"><br>
-	<a href=""><img alt="Proyecto creado" src="https://img.shields.io/badge/C%C3%A1psula%20Hiper%20Foco-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-<a href=""><img alt="Proyecto creado" src="https://img.shields.io/badge/C%CC%B6a%CC%B6m%CC%B6a%CC%B6r%CC%B6a%CC%B6%20%CC%B6d%CC%B6e%CC%B6%20%CC%B6d%CC%B6e%CC%B6s%CC%B6p%CC%B6e%CC%B6r%CC%B6s%CC%B6o%CC%B6n%CC%B6a%CC%B6l%CC%B6i%CC%B6z%CC%B6a%CC%B6c%CC%B6i%CC%B6o%CC%B6n%CC%B6%20%CC%B6i%CC%B6n%CC%B6t%CC%B6e%CC%B6n%CC%B6s%CC%B6i%CC%B6d%CC%B6a%CC%B6d%CC%B6%20%CC%B6a%CC%B6l%CC%B6t%CC%B6a%CC%B6-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+	<a href="a"><img alt="Proyecto creado" src="https://img.shields.io/badge/C%C3%A1psula%20Hiper%20Foco-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+<a href="a"><img alt="Proyecto creado" src="https://img.shields.io/badge/C%CC%B6a%CC%B6m%CC%B6a%CC%B6r%CC%B6a%CC%B6%20%CC%B6d%CC%B6e%CC%B6%20%CC%B6d%CC%B6e%CC%B6s%CC%B6p%CC%B6e%CC%B6r%CC%B6s%CC%B6o%CC%B6n%CC%B6a%CC%B6l%CC%B6i%CC%B6z%CC%B6a%CC%B6c%CC%B6i%CC%B6o%CC%B6n%CC%B6%20%CC%B6i%CC%B6n%CC%B6t%CC%B6e%CC%B6n%CC%B6s%CC%B6i%CC%B6d%CC%B6a%CC%B6d%CC%B6%20%CC%B6a%CC%B6l%CC%B6t%CC%B6a%CC%B6-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 
 </p><br>
 
