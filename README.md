@@ -152,10 +152,6 @@ En mis ratos libres **Bug bounty**.<br><br>
 <br>
 
 
-<br>
-<br>
-
-
 ### <p align="center"> Investigaciones prácticas  </p> 
 
 
