@@ -2,9 +2,7 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github.com/Aquiles369/iconos/blob/main/mono_ultra.gif?raw=true" height="400px" />
-</p>
+<p align="center"> <img src="https://github.com/Aquiles369/iconos/blob/main/mono_ultra.gif?raw=true" width="100%" /> </p>
 
 ##
 
