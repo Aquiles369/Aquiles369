@@ -47,10 +47,13 @@ En mis ratos libres **Bug bounty**.<br><br>
   ✦ Mi Blog → **[GitBook](https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos)**  
   ✦ YouTube → **[Aquiles](https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg)**  
   ✦ Discord → **https://discord.gg/pdnnH6f83h**   <br>
-  ✦ Perfil Bug Bounty/HackerOne → **https://hackerone.com/aquiless/hacktivity?type=user**<br><br><br>
+  ✦ Perfil Bug Bounty/HackerOne → **https://hackerone.com/aquiless/hacktivity?type=user**<br><br>
+  <br>
 
 
-## <p align="center">  ꧁ Navegación rápida ꧂  </p>
+### <p align="center">  ꧁ Navegación rápida ꧂  </p>
+
+<br>
 
 - [☠︎︎ Proyectos destacados](#proyectos-destacados)
 - [⚠ Herramientas](#herramientas)
@@ -65,14 +68,12 @@ En mis ratos libres **Bug bounty**.<br><br>
   <br>
   <br>
   <br>
-  <br>
-  <br>
 
 
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture> </p>
 
-### <p align="center">  <img height="40" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B5M3B2bmpoeXJsNTB5MHUxYXQ4NWM0Y2F1ZHdxdmFudnpzcGt1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iuJEr72fj83GJy4tJn/giphy.gif" width ="50px"> Tip: **hacé click en los recuadros** <img height="40" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B5M3B2bmpoeXJsNTB5MHUxYXQ4NWM0Y2F1ZHdxdmFudnpzcGt1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iuJEr72fj83GJy4tJn/giphy.gif"  width ="50px">
+### <p align="center">  <img height="40" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B5M3B2bmpoeXJsNTB5MHUxYXQ4NWM0Y2F1ZHdxdmFudnpzcGt1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iuJEr72fj83GJy4tJn/giphy.gif" width ="50px">❤ Tip: **hacé click en los recuadros** ❤<img height="40" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B5M3B2bmpoeXJsNTB5MHUxYXQ4NWM0Y2F1ZHdxdmFudnpzcGt1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iuJEr72fj83GJy4tJn/giphy.gif"  width ="50px">
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture> </p>
 <br>
 <br>
