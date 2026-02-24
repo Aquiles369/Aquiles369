@@ -395,11 +395,14 @@ En mis ratos libres **Bug bounty**.<br><br>
 
 <h3 align="center">GitHub Estadísticas</h3>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aquiles369&theme=github_dark" width="45%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aquiles369&theme=github_dark" width="45%"/>
+<br>
+
+<div align="center"> 
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aquiles369&theme=github_dark" width="90%"/>
 </div>
-	
+
+<br><br>	
+
 ### <img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/perfec.gif" width ="50px"> Ser mejor cada día <img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/perfec.gif"  width ="50px">
 	
 
