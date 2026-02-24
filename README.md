@@ -1,4 +1,4 @@
-
+<br>
 
 <h1 align="center">
   
@@ -6,7 +6,6 @@
   
 </h1>
 
-<br>
 
 ### <p align="center">
   <img src="https://github.com/Aquiles369/iconos/blob/main/mono_banner.gif?raw=true"
