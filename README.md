@@ -50,8 +50,7 @@ En mis ratos libres **Bug bounty**.<br><br>
   ✦ Perfil Bug Bounty/HackerOne → **https://hackerone.com/aquiless/hacktivity?type=user**<br><br><br>
 
 
-
-### ❤ Navegación rápida
+## <p align="center">  ꧁ Navegación rápida ꧂  </p>
 
 - [☠︎︎ Proyectos destacados](#proyectos-destacados)
 - [⚠ Herramientas](#herramientas)
