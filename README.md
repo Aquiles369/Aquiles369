@@ -63,7 +63,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 - [✿ Investigaciones prácticas | Uso privado](#investigaciones-prácticas--uso-privado)
 - [✉ Serie: Diario de un cazador](#serie-diario-de-un-cazador)
 - [𓊝 Check list Excalibur](#check-list-excálibur-para-hunter)
-- [♚ Skills & Stack técnico](#꧁-skills--stack-técnico-꧂)
+- [♚ Skills & Stack técnico](#skills--stack-técnico)
 - [ツ GitHub Estadísticas](#github-estadísticas)  
   <br>
   <br>
@@ -249,7 +249,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 
 <br>
 
-<h3 align="center">꧁ Skills & Stack técnico ꧂</h3>
+<h3 align="center"> Skills & Stack técnico </h3>
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture> </p>
 
