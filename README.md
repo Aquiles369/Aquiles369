@@ -111,7 +111,8 @@ En mis ratos libres **Bug bounty**.<br><br>
 <br>
 
 
-### <p align="center">   Herramientas </p>
+<h3 align="center">Herramientas</h3>
+
 <p align="center"><br>
 	<a href="https://github.com/Aquiles369/Arsenal_de_los_Dorks_de_Google/tree/main"><img alt="Proyecto creado" src="https://img.shields.io/badge/arsenal%20de%20los%20dorks%20de%20google-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=plastic&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/Codigos-de-HTTP"><img alt="Proyecto creado" src="https://img.shields.io/badge/c%C3%B3digos%20de%20http-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=plastic&labelColor=FFD700"/></a>
@@ -132,8 +133,9 @@ En mis ratos libres **Bug bounty**.<br><br>
 <br><br>
 
 
-### <p align="center"> Vulnerabilidades Profundidad Cliente/Servidor/Raras/Extra </p>
- <p align="center"><br><br>
+<h3 align="center">Vulnerabilidades en profundidad (Cliente / Servidor / Raras / Extra)</h3>
+
+<p align="center"><br><br>
 <a href="https://github.com/Aquiles369/js_analisis"><img alt="Proyecto creado" src="https://img.shields.io/badge/analisis%20archivos%20.js-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>  
 <a href="https://github.com/Aquiles369/cache"><img alt="Proyecto creado" src="https://img.shields.io/badge/cache-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/ssrf"><img alt="Proyecto creado" src="https://img.shields.io/badge/ssrf-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
@@ -158,8 +160,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 <br>
 
 
-### <p align="center"> Investigaciones propias </p> 
-
+<h3 align="center">Investigaciones propias</h3>
 
 <p align="center"><br>
 	<a href="https://github.com/Aquiles369/charsets-parsing-y-bypass-de-WAF"><img alt="Proyecto creado" src="https://img.shields.io/badge/charsets,%20parsing%20y%20bypass%20de%20WAF-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
@@ -171,19 +172,20 @@ En mis ratos libres **Bug bounty**.<br><br>
 <br>
 
 
-### <p align="center"> Investigaciones prácticas | uso privado </p> 
+<h3 align="center">Investigaciones prácticas | Uso privado</h3>
 
 
 <p align="center"><br>
-	<a href="a"><img alt="Proyecto creado" src="https://img.shields.io/badge/C%C3%A1psula%20Hiper%20Foco-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+<a href="a"><img alt="Proyecto creado" src="https://img.shields.io/badge/C%C3%A1psula%20Hiper%20Foco-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="a"><img alt="Proyecto creado" src="https://img.shields.io/badge/C%CC%B6a%CC%B6m%CC%B6a%CC%B6r%CC%B6a%CC%B6%20%CC%B6d%CC%B6e%CC%B6%20%CC%B6d%CC%B6e%CC%B6s%CC%B6p%CC%B6e%CC%B6r%CC%B6s%CC%B6o%CC%B6n%CC%B6a%CC%B6l%CC%B6i%CC%B6z%CC%B6a%CC%B6c%CC%B6i%CC%B6o%CC%B6n%CC%B6%20%CC%B6i%CC%B6n%CC%B6t%CC%B6e%CC%B6n%CC%B6s%CC%B6i%CC%B6d%CC%B6a%CC%B6d%CC%B6%20%CC%B6a%CC%B6l%CC%B6t%CC%B6a%CC%B6-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="a"><img alt="Proyecto creado" src="https://img.shields.io/badge/Porxy%20web%20Trinton-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 
 </p><br>
 
 
-### <p align="center">  Serie diario de un cazador </p>
- <p align="center"><br><br>
+<h3 align="center">Serie: Diario de un cazador</h3>
+
+<p align="center"><br><br>
    	<a href="https://studio.youtube.com/playlist/PLiL4_0yJL4TupZNb55ATYE5eLGzd_La_B/edit"><img alt="Proyecto creado" src="https://img.shields.io/badge/top%201%20portswigger.net-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
  </p>
 <br><br>
@@ -191,9 +193,9 @@ En mis ratos libres **Bug bounty**.<br><br>
 	
 
 
+<h3 align="center">Check list Excálibur para Hunter</h3>
 
-### <p align="center"> Check list, Excálibur para hunter </p>
- <p align="center"><br><br>
+<p align="center"><br><br>
    	<a href="https://github.com/Aquiles369/excalibur"><img alt="Proyecto creado" src="https://img.shields.io/badge/excalibur-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a></p>
 <br><br>
 
@@ -248,9 +250,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 
 <br>
 
-<p align="center">
-	
-<span style="font-size:54px; font-weight:bold;">꧁ Skills ꧂</span></p>
+<h3 align="center">꧁ Skills & Stack técnico ꧂</h3>
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture> </p>
 
