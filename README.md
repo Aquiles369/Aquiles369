@@ -47,20 +47,21 @@ En mis ratos libres **Bug bounty**.<br><br>
   ✦ Mi Blog → **[GitBook](https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos)**  
   ✦ YouTube → **[Aquiles](https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg)**  
   ✦ Discord → **https://discord.gg/pdnnH6f83h**   <br>
-  ✦ Perfil Bug Bounty/HackerOne → **https://hackerone.com/aquiless/hacktivity?type=user**<br>
+  ✦ Perfil Bug Bounty/HackerOne → **https://hackerone.com/aquiless/hacktivity?type=user**<br><br><br>
 
 
 
-### 🔎 Navegación rápida
+### ❤ Navegación rápida
 
-- [🚀 Proyectos destacados](#proyectos-destacados)
-- [🛠 Herramientas](#herramientas)
-- [🧠 Investigaciones propias](#investigaciones-propias)
-- [🧪 Vulnerabilidades en profundidad (Cliente/Servidor/Raras/Extra)](#vulnerabilidades-en-profundidad-clienteservidorrarasextra)
-- [🔬 Investigaciones prácticas | Uso privado](#investigaciones-prácticas--uso-privado)
-- [📓 Serie: Diario de un cazador](#serie-diario-de-un-cazador)
-- [📊 GitHub Estadísticas](#github-estadísticas)
-- [⚔ Check list Excalibur](#check-list-excálibur-para-hunter)
+- [☠︎︎ Proyectos destacados](#proyectos-destacados)
+- [⚠ Herramientas](#herramientas)
+- [𓆣 Vulnerabilidades en profundidad (Cliente/Servidor/Raras/Extra)](#vulnerabilidades-en-profundidad-clienteservidorrarasextra)
+- [✎ Investigaciones propias](#investigaciones-propias)
+- [✿ Investigaciones prácticas | Uso privado](#investigaciones-prácticas--uso-privado)
+- [✉ Serie: Diario de un cazador](#serie-diario-de-un-cazador)
+- [𓊝 Check list Excalibur](#check-list-excálibur-para-hunter)
+- [♚ Skills & Stack técnico](#skills)
+- [ツ GitHub Estadísticas](#github-estadísticas)
   
   <br>
   <br>
@@ -248,7 +249,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 <br>
 
 <p align="center">
-<img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif"><span style="font-size:54px; font-weight:bold;"> Skills </span><img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif"></p>
+<span style="font-size:54px; font-weight:bold;">꧁ Skills ꧂</span></p>
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture> </p>
 
 
