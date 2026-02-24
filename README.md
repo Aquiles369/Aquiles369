@@ -403,7 +403,11 @@ En mis ratos libres **Bug bounty**.<br><br>
 
 <br><br>	
 
-### <img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/perfec.gif" width ="50px"> Ser mejor cada día <img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/perfec.gif"  width ="50px">
+<div align="center">
+  <img src="https://github.com/Aquiles369/iconos/blob/main/img/perfec.gif?raw=true" height="40">
+  <span style="font-size:20px; font-weight:bold;">Ser mejor cada día</span>
+  <img src="https://github.com/Aquiles369/iconos/blob/main/img/perfec.gif?raw=true" height="40">
+</div>
 	
 
 <p align = "center">
@@ -411,7 +415,14 @@ En mis ratos libres **Bug bounty**.<br><br>
 	<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 </p>
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YwbG9zbmU1amprdTJsbmxzYnpobzd5eGtnazB6b2FmdnllaTRhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h8UlsEpqiCISTKUzvz/giphy.gif" width = 80px>  </picture> “ ¡Aguante el ramen! 🍜 Es la gloria en un tazón. ”
-<br>
+<br><br>
+
+<picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YwbG9zbmU1amprdTJsbmxzYnpobzd5eGtnazB6b2FmdnllaTRhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h8UlsEpqiCISTKUzvz/giphy.gif" width="80px">
+  <b>“ ¡Aguante el ramen! 🍜 Es la gloria en un tazón. ”</b>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YwbG9zbmU1amprdTJsbmxzYnpobzd5eGtnazB6b2FmdnllaTRhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h8UlsEpqiCISTKUzvz/giphy.gif" width="80px">
+</div>
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
