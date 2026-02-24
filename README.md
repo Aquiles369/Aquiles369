@@ -22,13 +22,7 @@
  <br>
  <br>
 
-<picture>
-  <img align="right"
-       src="https://github.com/Aquiles369/iconos/blob/main/porti_abajo.gif?raw=true"
-       width="355"
-       height="200"
-       style="border-radius: 16px;">
-</picture>
+### <picture> <img align="right" src="https://github.com/Aquiles369/iconos/blob/main/porti_abajo.gif" width = 355px high ="200px"></picture>
 
 
 - **Whoami:** <br>
