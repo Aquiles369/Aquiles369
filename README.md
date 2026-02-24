@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
- <picture> <img  alt="GIF" src="https://github.com/Aquiles369/iconos/blob/main/mono_ultra.gif"/> width = 400px height="470rem"</picture>
+ <picture> <img  alt="GIF" height="470rem" src="https://github.com/Aquiles369/iconos/blob/main/mono_ultra.gif"/> 
 </p>
 
 ##
