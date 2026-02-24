@@ -48,6 +48,20 @@ En mis ratos libres **Bug bounty**.<br><br>
   ✦ YouTube → **[Aquiles](https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg)**  
   ✦ Discord → **https://discord.gg/pdnnH6f83h**   <br>
   ✦ Perfil Bug Bounty/HackerOne → **https://hackerone.com/aquiless/hacktivity?type=user**<br>
+
+
+
+### 🔎 Navegación rápida
+
+- [🚀 Proyectos destacados](#proyectos-destacados)
+- [🛠 Herramientas](#herramientas)
+- [🧠 Investigaciones propias](#investigaciones-propias)
+- [🧪 Vulnerabilidades en profundidad (Cliente/Servidor/Raras/Extra)](#vulnerabilidades-en-profundidad-clienteservidorrarasextra)
+- [🔬 Investigaciones prácticas | Uso privado](#investigaciones-prácticas--uso-privado)
+- [📓 Serie: Diario de un cazador](#serie-diario-de-un-cazador)
+- [📊 GitHub Estadísticas](#github-estadísticas)
+- [⚔ Check list Excalibur](#check-list-excálibur-para-hunter)
+  
   <br>
   <br>
   <br>
