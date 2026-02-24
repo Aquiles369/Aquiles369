@@ -2,9 +2,11 @@
   <img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif?raw=true">
   <img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif">
   
-  <span style="color:#ffd700; text-shadow: 0 0 6px #ffcc00, 0 0 12px #ffb300, 0 0 20px #ff9900;">
-    El chambeador de la más alta calidad
-  </span>
+  𓆩⚜𓆪 𝐄𝐥 𝐜𝐡𝐚𝐦𝐛𝐞𝐚𝐝𝐨𝐫 𝐝𝐞 𝐥𝐚 𝐦𝐚́𝐬 𝐚𝐥𝐭𝐚 𝐜𝐚𝐥𝐢𝐝𝐚𝐝 𓆩⚜𓆪
+  
+  <img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif">
+  <img height="35" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif?raw=true">
+</h1>
   
   <img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif">
   <img height="35" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif?raw=true">
