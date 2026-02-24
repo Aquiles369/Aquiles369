@@ -19,7 +19,7 @@
  <br>
  <br>
 
-### <picture> <img align="right" src="https://github.com/Aquiles369/iconos/blob/main/parte_derecha.gif" width = 395px high ="200px"></picture>
+### <picture> <img align="right" src="https://github.com/Aquiles369/iconos/blob/main/sera_este_derecha.gif" width = 395px high ="200px"></picture>
 
 
 - **Whoami:** <br>
