@@ -22,14 +22,14 @@
 ### <picture> <img align="right" src="https://github.com/Aquiles369/iconos/blob/main/sera_este_derecha.gif" width = 395px high ="200px"></picture>
 
 
-- **Whoami:** <br>
+༒︎ **Whoami:** <br>
 
   Desarrollador **Web** especializado en **Back-end** y conocimientos de **Front-end**.
 **Técnico Superior en Ciberseguridad** con experiencia en auditorías web y **hardening de servidores**.
 En mis ratos libres **Bug bounty**.<br><br> 
 
 
-- **Sobre mí:**<br>
+༒︎ **Sobre mí:**<br>
   
   • Más de 5 años de experiencia en hacking web.<br> 
   • Técnico Superior en Ciberseguridad.  <br> 
@@ -41,7 +41,7 @@ En mis ratos libres **Bug bounty**.<br><br>
   • Autor y creador de varios **proyectos y herramientas**.<br><br>
 
 
-- **Redes Sociales:** <br>
+༒︎ **Redes Sociales:** <br>
 
   💼 LinkedIn → *https://www.linkedin.com/in/%E3%85%A4-%E3%85%A4-6477a0304/*<br>
   ✉️ Contacto → **aquiless369@gmail.com**<br>
