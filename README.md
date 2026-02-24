@@ -81,8 +81,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 
 
 
-
-### <p align="center">  Proyectos destacados </p> 
+<h3 align="center">Proyectos destacados</h3>
 
 
 <p align="center"><br>
@@ -250,7 +249,9 @@ En mis ratos libres **Bug bounty**.<br><br>
 <br>
 
 <p align="center">
+	
 <span style="font-size:54px; font-weight:bold;">꧁ Skills ꧂</span></p>
+
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture> </p>
 
 
