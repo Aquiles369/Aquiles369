@@ -24,31 +24,31 @@
 
 ༒︎ **Whoami:** <br>
 
-  Desarrollador **Web** especializado en **Back-end** y conocimientos de **Front-end**.
+𝓓esarrollador **Web** especializado en **Back-end** y conocimientos de **Front-end**.
 **Técnico Superior en Ciberseguridad** con experiencia en auditorías web y **hardening de servidores**.
 En mis ratos libres **Bug bounty**.<br><br> 
 
 
 ༒︎ **Sobre mí:**<br>
   
-  • Más de 5 años de experiencia en hacking web.<br> 
-  • Técnico Superior en Ciberseguridad.  <br> 
-  • Soltura en varios lenguajes de desarrollo y *scripting*.  <br> 
-  • Experiencia en **CTFs** y retos.  
-  • Experiencia en **bug bounty**.<br>
-  • Salón de la Fama **puesto 22** en el programa de PortSwigger.net.<br>
-  • Bug encontrado en NBA | Severidad: alta. Estado: duplicado/privado.<br>
-  • Autor y creador de varios **proyectos y herramientas**.<br><br>
+  ❦ Más de 5 años de experiencia en hacking web.<br> 
+  ❦ Técnico Superior en Ciberseguridad.  <br> 
+  ❦ Soltura en varios lenguajes de desarrollo y *scripting*.  <br> 
+  ❦ Experiencia en **CTFs** y retos.  
+  ❦ Experiencia en **bug bounty**.<br>
+  ❦ Salón de la Fama **puesto 22** en el programa de PortSwigger.net.<br>
+  ❦ Bug encontrado en NBA | Severidad: alta. Estado: duplicado/privado.<br>
+  ❦ Autor y creador de varios **proyectos y herramientas**.<br><br>
 
 
 ༒︎ **Redes Sociales:** <br>
 
-  💼 LinkedIn → *https://www.linkedin.com/in/%E3%85%A4-%E3%85%A4-6477a0304/*<br>
-  ✉️ Contacto → **aquiless369@gmail.com**<br>
-  📚 Mi Blog → **[GitBook](https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos)**  
-  🎥 YouTube → **[Aquiles](https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg)**  
-  💬 Discord → **https://discord.gg/pdnnH6f83h**   <br>
-  🛡️ Perfil Bug Bounty/HackerOne → **https://hackerone.com/aquiless/hacktivity?type=user**<br>
+  ✦ LinkedIn → *https://www.linkedin.com/in/%E3%85%A4-%E3%85%A4-6477a0304/*<br>
+  ✦ Contacto → **aquiless369@gmail.com**<br>
+  ✦ Mi Blog → **[GitBook](https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos)**  
+  ✦ YouTube → **[Aquiles](https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg)**  
+  ✦ Discord → **https://discord.gg/pdnnH6f83h**   <br>
+  ✦ Perfil Bug Bounty/HackerOne → **https://hackerone.com/aquiless/hacktivity?type=user**<br>
   <br>
   <br>
   <br>
