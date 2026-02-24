@@ -63,9 +63,8 @@ En mis ratos libres **Bug bounty**.<br><br>
 - [✿ Investigaciones prácticas | Uso privado](#investigaciones-prácticas--uso-privado)
 - [✉ Serie: Diario de un cazador](#serie-diario-de-un-cazador)
 - [𓊝 Check list Excalibur](#check-list-excálibur-para-hunter)
-- [♚ Skills & Stack técnico](#skills)
-- [ツ GitHub Estadísticas](#github-estadísticas)
-  
+- [♚ Skills & Stack técnico](#꧁-skills--stack-técnico-꧂)
+- [ツ GitHub Estadísticas](#github-estadísticas)  
   <br>
   <br>
   <br>
@@ -397,7 +396,8 @@ En mis ratos libres **Bug bounty**.<br><br>
 <br>
 
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Estadísticas
+<h3 align="center">GitHub Estadísticas</h3>
+
 <div align="center">
 <a href="https://github.com/Aquiles369/">
   <img src="https://github-readme-stats.vercel.app/api?username=Aquiles369&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/> 
