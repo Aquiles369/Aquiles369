@@ -7,7 +7,7 @@
 
 
 ### <p align="center">
-  <img src="https://github.com/Aquiles369/iconos/blob/main/mono_banner.gif?raw=true"
+  <img src="https://github.com/Aquiles369/iconos/blob/main/mamita_querida_3.gif"
        width="100%"
        style="border-radius: 18px;">
 </p>
