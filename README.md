@@ -59,7 +59,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 - [☠︎︎ Proyectos destacados](#proyectos-destacados)
 - [⚠ Herramientas](#herramientas)
 - [𓆣 Vulnerabilidades en profundidad (Cliente/Servidor/Raras/Extra)](#vulnerabilidades-en-profundidad-clienteservidorrarasextra)
-- [⌨ Lenguajes de programación (Front-End & Back-End)](#lenguajes-de-programación-front-end--back-end)
+- [⌨ Lenguajes de programación (Front-End & Back-End)](#lenguajes-programacion)
 - [✎ Investigaciones propias](#investigaciones-propias)
 - [✿ Investigaciones prácticas | Uso privado](#investigaciones-prácticas--uso-privado)
 - [✉ Serie: Diario de un cazador](#serie-diario-de-un-cazador)
@@ -162,11 +162,13 @@ En mis ratos libres **Bug bounty**.<br><br>
 <br>
 <br>
 
-<h3 align="center"> Lenguajes de programación (Front-End & Back-End)</h3>
+
+<h3 align="center" id="lenguajes-programacion">⌨ Lenguajes de programación (Front-End & Back-End)</h3>
+
 <p align="center">
- <a href="a"><img alt="Proyecto creado" src="https://img.shields.io/badge/Lenguajes_de_programaci%C3%B3n_Front_End_&_Back_End-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-	
+ <a href="a"><img alt="Proyecto creado" src="https://img.shields.io/badge/JavaScript-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 </p>
+
 <br>
 <br>
 
