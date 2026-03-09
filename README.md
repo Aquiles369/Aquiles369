@@ -163,7 +163,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 <br>
 
 
-<h3 align="center" id="lenguajes-programacion">⌨ Lenguajes de programación (Front-End & Back-End)</h3>
+<h3 align="center" id="lenguajes-programacion"> Lenguajes de programación (Front-End & Back-End)</h3>
 
 <p align="center">
  <a href="a"><img alt="Proyecto creado" src="https://img.shields.io/badge/JavaScript-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
