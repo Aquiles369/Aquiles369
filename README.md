@@ -162,10 +162,11 @@ En mis ratos libres **Bug bounty**.<br><br>
 <br>
 <br>
 
-## ⌨ Lenguajes de programación (Front-End & Back-End)
-
+<h3 align="center"> Lenguajes de programación (Front-End & Back-End)</h3>
+<p align="center">
  <a href="a"><img alt="Proyecto creado" src="https://img.shields.io/badge/Lenguajes_de_programaci%C3%B3n_Front_End_&_Back_End-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-
+	
+</p>
 <br>
 <br>
 
