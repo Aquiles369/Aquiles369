@@ -140,24 +140,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 
 <p align="center"><br><br>
 <a href="https://github.com/Aquiles369/js_analisis"><img alt="Proyecto creado" src="https://img.shields.io/badge/analisis%20archivos%20.js-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>  
-<a href="https://github.com/Aquiles369/cache"><img alt="Proyecto creado" src="https://img.shields.io/badge/cache-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-<a href="https://github.com/Aquiles369/ssrf"><img alt="Proyecto creado" src="https://img.shields.io/badge/ssrf-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-<a href="https://github.com/Aquiles369/reglas_regex"><img alt="Proyecto creado" src="https://img.shields.io/badge/reglas_regex-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-<a href="https://github.com/Aquiles369/403_bypass"><img alt="Proyecto creado" src="https://img.shields.io/badge/403_bypass-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-<a href="https://github.com/Aquiles369/cors"><img alt="Proyecto creado" src="https://img.shields.io/badge/cors-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-<a href="https://github.com/Aquiles369/open_redirect"><img alt="Proyecto creado" src="https://img.shields.io/badge/open_redirect-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-<a href="https://github.com/Aquiles369/client_side_template"><img alt="Proyecto creado" src="https://img.shields.io/badge/client_side_template-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-<a href="https://github.com/Aquiles369/csrf"><img alt="Proyecto creado" src="https://img.shields.io/badge/csrf-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-<a href="https://github.com/Aquiles369/Websockets"><img alt="Proyecto creado" src="https://img.shields.io/badge/Websockets-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-<a href="https://github.com/Aquiles369/idor"><img alt="Proyecto creado" src="https://img.shields.io/badge/idor-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-<a href="https://github.com/Aquiles369/Vhosts"><img alt="Proyecto creado" src="https://img.shields.io/badge/Vhosts-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-<a href="https://github.com/Aquiles369/request_smuggling"><img alt="Proyecto creado" src="https://img.shields.io/badge/request_smuggling-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-<a href="https://github.com/Aquiles369/account_takeover"><img alt="Proyecto creado" src="https://img.shields.io/badge/account_takeover-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-<a href="https://github.com/Aquiles369/inyeccion_orm"><img alt="Proyecto creado" src="https://img.shields.io/badge/inyecci%C3%B3n_orm-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-<a href="https://github.com/Aquiles369/inyeccion_saml"><img alt="Proyecto creado" src="https://img.shields.io/badge/inyecci%C3%B3n_saml-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-<a href="https://github.com/Aquiles369/inyeccion_ldap"><img alt="Proyecto creado" src="https://img.shields.io/badge/inyecci%C3%B3n_ldap-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-	 <a href="https://github.com/Aquiles369/XXE"><img alt="Proyecto creado" src="https://img.shields.io/badge/xxe-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-</p><br>
+</p>
 
 <br>
 <br>
