@@ -120,8 +120,6 @@ En mis ratos libres **Bug bounty**.<br><br>
 <p align="center"><br>
 	<a href="https://github.com/Aquiles369/Arsenal_de_los_Dorks_de_Google/tree/main"><img alt="Proyecto creado" src="https://img.shields.io/badge/arsenal%20de%20los%20dorks%20de%20google-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=plastic&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/Codigos-de-HTTP"><img alt="Proyecto creado" src="https://img.shields.io/badge/c%C3%B3digos%20de%20http-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=plastic&labelColor=FFD700"/></a>
-<a href="https://github.com/Aquiles369/Colab-Bug-bounty"><img alt="Proyecto creado" src="https://img.shields.io/badge/colab%20bug%20bounty-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-<a href="https://github.com/Aquiles369/Gestor-de-Payloads/tree/main"><img alt="Proyecto creado" src="https://img.shields.io/badge/gestor%20de%20payloads-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/Metodos-http-aceptados-y-Header"><img alt="Proyecto creado" src="https://img.shields.io/badge/metodos%20http%20y%20header-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/header-vulnerabilidades-Excalibur"><img alt="Proyecto creado" src="https://img.shields.io/badge/header%20vulnerabilidades-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/60-caminos-creativos-"><img alt="Proyecto creado" src="https://img.shields.io/badge/60%20caminos%20creativos-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
@@ -175,6 +173,8 @@ En mis ratos libres **Bug bounty**.<br><br>
 <a href="a"><img alt="Proyecto creado" src="https://img.shields.io/badge/C%CC%B6a%CC%B6m%CC%B6a%CC%B6r%CC%B6a%CC%B6%20%CC%B6d%CC%B6e%CC%B6%20%CC%B6d%CC%B6e%CC%B6s%CC%B6p%CC%B6e%CC%B6r%CC%B6s%CC%B6o%CC%B6n%CC%B6a%CC%B6l%CC%B6i%CC%B6z%CC%B6a%CC%B6c%CC%B6i%CC%B6o%CC%B6n%CC%B6%20%CC%B6i%CC%B6n%CC%B6t%CC%B6e%CC%B6n%CC%B6s%CC%B6i%CC%B6d%CC%B6a%CC%B6d%CC%B6%20%CC%B6a%CC%B6l%CC%B6t%CC%B6a%CC%B6-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="a"><img alt="Proyecto creado" src="https://img.shields.io/badge/Porxy%20web%20Trinton-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/Gestor-de-Informes"><img alt="Proyecto creado" src="https://img.shields.io/badge/gestor%20de%20informes-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+<a href="https://github.com/Aquiles369/Gestor-de-Payloads/tree/main"><img alt="Proyecto creado" src="https://img.shields.io/badge/gestor%20de%20payloads-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+<a href="https://github.com/Aquiles369/Colab-Bug-bounty"><img alt="Proyecto creado" src="https://img.shields.io/badge/colab%20bug%20bounty-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="a"><img alt="Proyecto creado" src="https://img.shields.io/badge/tool_js_analisis_con_hyperscan-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="a"><img alt="Proyecto creado" src="https://img.shields.io/badge/tool_js_analisis_con_ripgrep_pcre2_+400_regex_complejas-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 
