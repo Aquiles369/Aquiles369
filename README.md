@@ -14,8 +14,6 @@
 
 ##
 
-<br>
-
  <p align="center">
   <img src="TU_GIF_DE_TOJI.gif" width="600">
   <br>
@@ -23,8 +21,6 @@
     <img src="https://img.shields.io/badge/PLAYING-RITMO%20ASTRAL%20%E2%96%B6%EF%B8%8F-black?style=for-the-badge&logo=youtube&logoColor=red">
   </a>
 </p>
-
-<br>
 
 ## <p align="center">  ꧁ Quieres ver el contenido técnico del chambeador de la más alta calidad ꧂  </p>
 
