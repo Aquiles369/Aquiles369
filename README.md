@@ -16,9 +16,14 @@
 
 <br>
 
-# ⚡ Hunting Mode: ON
-
-[![Escuchando Phonk](https://img.shields.io/badge/PLAYING-RITMO%20ASTRAL%20%E2%96%B6%EF%B8%8F-black?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/watch?v=N6yeUcQHdhI&list=RDMM)
+# 
+<p align="center">
+  <img src="TU_GIF_DE_TOJI.gif" width="600">
+  <br>
+  <a href="https://www.youtube.com/watch?v=N6yeUcQHdhI&list=RDMM">
+    <img src="https://img.shields.io/badge/PLAYING-RITMO%20ASTRAL%20%E2%96%B6%EF%B8%8F-black?style=for-the-badge&logo=youtube&logoColor=red">
+  </a>
+</p>
 
 <br>
 
