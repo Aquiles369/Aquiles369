@@ -12,8 +12,8 @@
        style="border-radius: 18px;">
 </p>
 
- <p align="center">
-  <img src="TU_GIF_DE_TOJI.gif" width="600">
+<p align="center">
+  <img src="TU_GIF_DE_TOJI.gif" width="600" style="border-radius: 50%;">
   <br>
   <a href="https://www.youtube.com/watch?v=N6yeUcQHdhI&list=RDMM">
     <img src="https://img.shields.io/badge/PLAYING-RITMO%20ASTRAL%20%E2%96%B6%EF%B8%8F-black?style=for-the-badge&logo=youtube&logoColor=red">
@@ -27,8 +27,8 @@
 
 <br>
 
-### <picture> <img align="right" src="https://github.com/Aquiles369/iconos/blob/main/sera_este_derecha.gif" width = 395px high ="200px"></picture>
-
+### <picture> 
+  <img align="right" src="https://github.com/Aquiles369/iconos/blob/main/sera_este_derecha.gif" width="395" height="200" style="border-radius: 50%;"></picture>
 
 ༒︎ **Whoami:** <br>
 
