@@ -12,8 +12,6 @@
        style="border-radius: 18px;">
 </p>
 
-<br>
-
  <p align="center">
   <img src="TU_GIF_DE_TOJI.gif" width="600">
   <br>
