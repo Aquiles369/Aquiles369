@@ -16,7 +16,7 @@
 
 <br>
 
-# <p align="center">
+ <p align="center">
   <img src="TU_GIF_DE_TOJI.gif" width="600">
   <br>
   <a href="https://www.youtube.com/watch?v=N6yeUcQHdhI&list=RDMM">
