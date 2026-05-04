@@ -14,9 +14,17 @@
 
 ##
 
+<br>
+
+# ⚡ Hunting Mode: ON
+
+[![Escuchando Phonk](https://img.shields.io/badge/PLAYING-RITMO%20ASTRAL%20%E2%96%B6%EF%B8%8F-black?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/watch?v=N6yeUcQHdhI&list=RDMM)
+
+<br>
+
 ## <p align="center">  ꧁ Quieres ver el contenido técnico del chambeador de la más alta calidad ꧂  </p>
 
- <br>
+<br>
 
 ### <picture> <img align="right" src="https://github.com/Aquiles369/iconos/blob/main/sera_este_derecha.gif" width = 395px high ="200px"></picture>
 
