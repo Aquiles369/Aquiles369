@@ -12,7 +12,7 @@
        style="border-radius: 18px;">
 </p>
 
-<p align="center"> <img src="TU_GIF_DE_TOJI.gif" width="600"> <br> <a href="https://www.youtube.com/watch?v=-h7STkL4udA"> <img src="https://img.shields.io/badge/PLAYING-RITMO%20ASTRAL%20%E2%96%B6%EF%B8%8F-black?style=for-the-badge&logo=youtube&logoColor=red"> </a> </p>
+<p align="center"> <img src="https://github.com/Aquiles369/iconos/blob/main/mamita_querida_3.gif" width="600"> <br> <a href="https://www.youtube.com/watch?v=-h7STkL4udA"> <img src="https://img.shields.io/badge/PLAYING-RITMO%20ASTRAL%20%E2%96%B6%EF%B8%8F-black?style=for-the-badge&logo=youtube&logoColor=red"> </a> </p>
 
 ##
 
