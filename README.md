@@ -15,7 +15,6 @@
 
 ##
 
-
 ## <p align="center">  ꧁ Quieres ver el contenido técnico del chambeador de la más alta calidad ꧂  </p>
 
 <br>
@@ -49,11 +48,9 @@ En mis ratos libres **Bug bounty**.<br><br>
   ✦ YouTube → **[Aquiles](https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg)**  
   ✦ Discord → **https://discord.gg/pdnnH6f83h**   <br>
   ✦ Perfil Bug Bounty/HackerOne → **https://hackerone.com/aquiless/hacktivity?type=user**<br><br>
-  <br>
 
 ##
 
-<br>
 
 ### <p align="center">༒︎ Lista de reproducción completa para cazar bugs e hiperfoco. ༒︎</p>
 
@@ -70,7 +67,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 
 </p>
 
-<br>
+##
 
 ## <p align="center">  ꧁ Navegación rápida ꧂  </p>
 
