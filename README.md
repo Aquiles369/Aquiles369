@@ -63,7 +63,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 
 - [☠︎︎ Proyectos destacados](#proyectos-destacados)
 - [⚠ Herramientas](#herramientas)
-- [𓆣 Vulnerabilidades en profundidad (Cliente / Servidor / Raras / Extra)](#vulnerabilidades-en-profundidad-cliente--servidor--raras--extra)
+- [𓆣 Vulnerabilidades en profundidad ](#vulnerabilidades-en-profundidad-cliente--servidor--raras--extra)
 - [⌨ Lenguajes de programación (Front-End & Back-End)](#lenguajes-programacion)
 - [✎ Investigaciones propias](#investigaciones-propias)
 - [✿ Investigaciones prácticas | Uso privado](#investigaciones-prácticas--uso-privado)
@@ -138,6 +138,9 @@ En mis ratos libres **Bug bounty**.<br><br>
 
 <p align="center"><br><br>
 <a href="https://github.com/Aquiles369/js_analisis"><img alt="Proyecto creado" src="https://img.shields.io/badge/analisis%20archivos%20.js-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>  
+</p>  
+<p align="center"><br><br>
+<a href="https://github.com/Aquiles369/403_bypass"><img alt="Proyecto creado" src="https://img.shields.io/badge/403%20bypass-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>  
 </p>
 
 <br>
