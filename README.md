@@ -68,7 +68,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 - [✎ Investigaciones propias](#investigaciones-propias)
 - [✿ Investigaciones prácticas | Uso privado](#investigaciones-prácticas--uso-privado)
 - [✉ Serie: Diario de un cazador](#serie-diario-de-un-cazador)
-- [𓊝 Check list Excalibur](#check-list-excálibur-para-hunter)
+- [𓊝 Check list Lanza del Cielo Invertida](#check-list-excálibur-para-hunter)
 - [♚ Skills & Stack técnico](#skills--stack-técnico)
 - [ツ GitHub Estadísticas](#github-estadísticas)  
   <br>
@@ -197,7 +197,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 	
 
 
-<h3 align="center">Lanza del Cielo Invertida</h3>
+<h3 align="center">Metodología Lanza del Cielo Invertida</h3>
 
 <p align="center"><br><br>
    	<a href="https://github.com/Aquiles369/excalibur"><img alt="Proyecto creado" src="https://img.shields.io/badge/Lanza%20del%20Cielo%20Invertida-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a></p>
