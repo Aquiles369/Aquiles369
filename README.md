@@ -67,6 +67,8 @@ En mis ratos libres **Bug bounty**.<br><br>
 
 </p>
 
+<br>
+
 ##
 
 ## <p align="center">  ꧁ Navegación rápida ꧂  </p>
