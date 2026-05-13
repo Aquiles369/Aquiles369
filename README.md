@@ -68,7 +68,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 - [✎ Investigaciones propias](#investigaciones-propias)
 - [✿ Investigaciones prácticas | Uso privado](#investigaciones-prácticas--uso-privado)
 - [✉ Serie: Diario de un cazador](#serie-diario-de-un-cazador)
-- [𓊝 Check list Lanza del Cielo Invertida](#check-list-excálibur-para-hunter)
+- [༒︎ Metodología Lanza del Cielo Invertida](#check-list-excálibur-para-hunter)
 - [♚ Skills & Stack técnico](#skills--stack-técnico)
 - [ツ GitHub Estadísticas](#github-estadísticas)  
   <br>
