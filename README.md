@@ -12,8 +12,6 @@
        style="border-radius: 18px;">
 </p>
 
-<br>
-
 ##
 
 ### <p align="center">༒︎ Lista de reproducción completa para cazar bugs e hiperfoco. ༒︎</p>
