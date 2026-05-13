@@ -12,11 +12,11 @@
        style="border-radius: 18px;">
 </p>
 
-<p align="center">
+<br>
 
-  ༒︎ Lista de reproducción completa para cazar bugs e hiperfoco. ༒︎
-  
-</p>
+##
+
+### <p align="center">༒︎ Lista de reproducción completa para cazar bugs e hiperfoco. ༒︎</p>
 
 <p align="center"> <br> <a href="https://www.youtube.com/watch?v=-h7STkL4udA"> <img src="https://img.shields.io/badge/PLAYING-RITMO%20ASTRAL%20%E2%96%B6%EF%B8%8F-black?style=for-the-badge&logo=youtube&logoColor=red"> </a> 
 
