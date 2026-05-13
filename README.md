@@ -12,9 +12,21 @@
        style="border-radius: 18px;">
 </p>
 
-<p align="center"> <br> <a href="https://www.youtube.com/watch?v=-h7STkL4udA"> <img src="https://img.shields.io/badge/PLAYING-RITMO%20ASTRAL%20%E2%96%B6%EF%B8%8F-black?style=for-the-badge&logo=youtube&logoColor=red"> </a> </p>
+<h1 align="center">
+  
+  ༒︎ lISTA de repoducion completa, para cazar bugs, hiperfoco ༒︎
+  
+</h1>
 
-<p align="center">  <a href="https://www.youtube.com/watch?v=x_t1uRxA0Ww&list=RDx_t1uRxA0Ww&start_radio=1"> <img src="https://img.shields.io/badge/PLAYING-RESTRICCIÓN%20CELESTIAL%20%E2%96%B6%EF%B8%8F-black?style=for-the-badge&logo=youtube&logoColor=red"> </a> </p>
+<p align="center"> <br> <a href="https://www.youtube.com/watch?v=-h7STkL4udA"> <img src="https://img.shields.io/badge/PLAYING-RITMO%20ASTRAL%20%E2%96%B6%EF%B8%8F-black?style=for-the-badge&logo=youtube&logoColor=red"> </a> 
+
+<p align="center">  <a href="https://www.youtube.com/watch?v=x_t1uRxA0Ww&list=RDx_t1uRxA0Ww&start_radio=1"> <img src="https://img.shields.io/badge/PLAYING-RESTRICCIÓN%20CELESTIAL%20%E2%96%B6%EF%B8%8F-black?style=for-the-badge&logo=youtube&logoColor=red"> </a> 
+
+<p align="center">  <a href="https://www.youtube.com/watch?v=x_t1uRxA0Ww&list=RDx_t1uRxA0Ww&start_radio=1"> <img src="https://img.shields.io/badge/PLAYING-RESTRICCIÓN%20CELESTIAL%20%E2%96%B6%EF%B8%8F-black?style=for-the-badge&logo=youtube&logoColor=red"> </a> 
+
+<p align="center">  <a href="https://www.youtube.com/watch?v=zroVMthoksU&list=RDzroVMthoksU&start_radio=1"> <img src="https://img.shields.io/badge/PLAYING-NO%20ME%20RENDIR%C3%89%20HASTA%20LOGRAR%20TOP%201%20PORTSWIGGER.NET-black?style=for-the-badge&logo=youtube&logoColor=red"> </a> 
+
+</p>
 
 
 ##
