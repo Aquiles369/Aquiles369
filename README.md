@@ -33,7 +33,7 @@ En mis ratos libres **Bug bounty**.<br><br>
   ❦ Más de 5 años de experiencia en hacking web.<br> 
   ❦ Técnico Superior en Ciberseguridad.  <br> 
   ❦ Soltura en varios lenguajes de desarrollo y *scripting*.  <br> 
-  ❦ Experiencia en **CTFs** y retos.<br>  
+  ❦ Experiencia en **CTFs** y retos.
   ❦ Experiencia en **bug bounty**.<br>
   ❦ Top  **puesto 65** Global en el Salón de la Fama de PortSwigger.net (**Ex-puesto 22** - Veterano de investigación en Web Security).<br> 
   ❦ Vulnerabilidad Crítica en Freedium | **SSR + Cache Poisoning con Stored XSS persistente e inmutable global** (Reportado vía Responsible Disclosure).<br>
