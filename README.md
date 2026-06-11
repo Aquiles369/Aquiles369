@@ -46,7 +46,7 @@ En mis ratos libres **Bug bounty**.<br><br>
   ✦ LinkedIn → *https://www.linkedin.com/in/%E3%85%A4-%E3%85%A4-6477a0304/*<br>
   ✦ Contacto → **aquiless369@gmail.com**<br>
   ✦ Mi Blog → **[GitBook](https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos)**  
-  ✦ YouTube → **[Aquiles](https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg)**
+  ✦ YouTube → **[Aquiles](https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg)**<br>
   ✦ Perfil Bug Bounty/HackerOne → **https://hackerone.com/aquiless/hacktivity?type=user**<br><br>
 
 ##
