@@ -36,7 +36,8 @@ En mis ratos libres **Bug bounty**.<br><br>
   ❦ Experiencia en **CTFs** y retos. <br> 
   ❦ Experiencia en **bug bounty**.<br>
   ❦ Top  **puesto 65** Global en el Salón de la Fama de PortSwigger.net (**Ex-puesto 22** - Veterano de investigación en Web Security).<br> 
-  ❦ Vulnerabilidad Crítica en freedium-mirror.cfd | **SSR + Cache Poisoning con Stored XSS persistente e inmutable global** (Reportado vía Responsible Disclosure).<br>
+  ❦ Vulnerabilidad Crítica en freedium-mirror.cfd | **SSR + Cache Poisoning con Stored XSS persistente e inmutable global** (Reportado vía Responsible Disclosure) url fix,    
+    https://github.com/Freedium-cfd/web/issues/51.<br>
   ❦ Bug encontrado en NBA | Severidad: alta. Estado: duplicado/privado.<br>
   ❦ Autor y creador de varios **proyectos y herramientas**.<br><br>
 
