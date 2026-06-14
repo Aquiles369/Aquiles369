@@ -53,7 +53,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 ##
 
 
-### <p align="center">༒︎ Lista de reproducción completa para cazar bugs e hiperfoco. ༒︎</p>
+### <p align="center">༒︎ Lista de reproducción completa para cazar bugs e hiperfoco ༒︎</p>
 
 ##
 
