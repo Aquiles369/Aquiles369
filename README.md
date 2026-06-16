@@ -435,9 +435,9 @@ En mis ratos libres **Bug bounty**.<br><br>
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 
 <div align="center">
-  <img src=https://tenor.com/mMcs46FB7VY.gif" width="80px">
+  <img src=https://github.com/Aquiles369/iconos/blob/main/%D0%BD%D0%BE%D1%83%D0%BF.gif" width="80px">
   <b>“ ¡Aguante el ramen! 🍜 Es la gloria en un tazón. ”</b>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YwbG9zbmU1amprdTJsbmxzYnpobzd5eGtnazB6b2FmdnllaTRhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h8UlsEpqiCISTKUzvz/giphy.gif" width="80px">
+  <img src=https://github.com/Aquiles369/iconos/blob/main/%D0%BD%D0%BE%D1%83%D0%BF.gif" width="80px">
 </div>
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
