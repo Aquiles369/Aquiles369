@@ -19,7 +19,7 @@
 
 <br>
 
-### <picture> <img align="right" src="https://tenor.com/feO14bL1JWw.gif" width = 395px high ="200px"></picture>
+### <picture> <img align="right" src="https://github.com/Aquiles369/iconos/blob/main/nanachi-nanachi-eat.gif" width = 395px high ="200px"></picture>
 
 ༒︎ **Whoami:** <br>
 
