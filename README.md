@@ -420,9 +420,9 @@ En mis ratos libres **Bug bounty**.<br><br>
 <br><br>	
 
 <div align="center">
-  <img src="https://github.com/Aquiles369/iconos/blob/main/img/perfec.gif?raw=true" height="40">
+  <img src="https://tenor.com/bJR9A.gif" height="40">
   <span style="font-size:20px; font-weight:bold;">Ser mejor cada día</span>
-  <img src="https://github.com/Aquiles369/iconos/blob/main/img/perfec.gif?raw=true" height="40">
+  <img src="https://tenor.com/bJR9A.gif" height="40">
 </div>
 	
 
