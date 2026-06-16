@@ -419,7 +419,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 
 <div align="center">
   <img src="https://github.com/Aquiles369/iconos/blob/main/nanachi-bongo-tap.gif" height="40">
-  <span style="font-size:20px; font-weight:bold;">Solo quiero mas chamba</span>
+  <span style="font-size:20px; font-weight:bold;">Solo quiero más chamba</span>
   <img src="https://github.com/Aquiles369/iconos/blob/main/nanachi-bongo-tap.gif" height="40">
 </div>
 	
