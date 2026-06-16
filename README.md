@@ -7,7 +7,7 @@
 
 
 ### <p align="center">
-  <img src="https://github.com/Aquiles369/iconos/blob/main/mamita_querida_3.gif"
+  <img src="https://github.com/Aquiles369/iconos/blob/main/hoy_vencera_al_que_fui_ayer.gif"
        width="100%"
        style="border-radius: 18px;">
 </p>
