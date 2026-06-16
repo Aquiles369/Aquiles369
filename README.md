@@ -59,12 +59,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 
 <br>
 
-<p align="center"> <br> <a href="https://www.youtube.com/watch?v=-h7STkL4udA"> <img src="https://img.shields.io/badge/PLAYING-RITMO%20ASTRAL%20%E2%96%B6%EF%B8%8F-black?style=for-the-badge&logo=youtube&logoColor=red"> </a> 
-
-<p align="center">  <a href="https://www.youtube.com/watch?v=x_t1uRxA0Ww&list=RDx_t1uRxA0Ww&start_radio=1"> <img src="https://img.shields.io/badge/PLAYING-RESTRICCIÓN%20CELESTIAL%20%E2%96%B6%EF%B8%8F-black?style=for-the-badge&logo=youtube&logoColor=red"> </a> 
-
-
-<p align="center">  <a href="https://www.youtube.com/watch?v=zroVMthoksU&list=RDzroVMthoksU&start_radio=1"> <img src="https://img.shields.io/badge/PLAYING-NO%20ME%20RENDIR%C3%89%20HASTA%20LOGRAR%20TOP%201%20PORTSWIGGER.NET-black?style=for-the-badge&logo=youtube&logoColor=red"> </a> 
+<p align="center"> <br> <a href="https://www.youtube.com/shorts/ilrO6d2bYgg"> <img src="https://img.shields.io/badge/PLAYING-HOY%20VENCERA%20AL%20QUE%20FUI%20AYER-black?style=for-the-badge&logo=youtube&logoColor=red"> </a> 
 
 </p>
 
@@ -440,7 +435,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YwbG9zbmU1amprdTJsbmxzYnpobzd5eGtnazB6b2FmdnllaTRhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h8UlsEpqiCISTKUzvz/giphy.gif" width="80px">
+  <img src=https://tenor.com/mMcs46FB7VY.gif" width="80px">
   <b>“ ¡Aguante el ramen! 🍜 Es la gloria en un tazón. ”</b>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YwbG9zbmU1amprdTJsbmxzYnpobzd5eGtnazB6b2FmdnllaTRhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h8UlsEpqiCISTKUzvz/giphy.gif" width="80px">
 </div>
