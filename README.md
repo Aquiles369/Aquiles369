@@ -213,6 +213,7 @@ En mis ratos libres **Bug bounty**.<br><br>
    	<a href="https://github.com/Aquiles369/Lanza_del_Cielo_Invertida"><img alt="Proyecto creado" src="https://img.shields.io/badge/Lanza%20del%20Cielo%20Invertida-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a></p>
 <br><br>
 
+```text
            .             .
           / \           / \
          /   \         / . \
@@ -244,7 +245,9 @@ En mis ratos libres **Bug bounty**.<br><br>
  `-'  `-..###########\_/##/  /.../
         `|#####/   \####|   /../
           .xxx#|   |xxx.   |./
-         |x' `x|   |'  `|
+         |x' `x|   |'  `|   -
+         `~~~~'    `~~~~'
+```
 ⠀⠀⠀⠀⠀⠀⠀
 
 
