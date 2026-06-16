@@ -1,7 +1,7 @@
 
 <h1 align="center">
   
-  𓆩⚜𓆪 𝐄𝐥 𝐜𝐡𝐚𝐦𝐛𝐞𝐚𝐝𝐨𝐫 𝐝𝐞 𝐥𝐚 𝐦𝐚́𝐬 𝐚𝐥𝐭𝐚 𝐜𝐚𝐥𝐢𝐝𝐚𝐝 𓆩⚜𓆪
+  𓆩⚜𓆪 Me gusta chambear 𓆩⚜𓆪
   
 </h1>
 
@@ -15,7 +15,7 @@
 
 ##
 
-## <p align="center">  ꧁ Quieres ver el contenido técnico del chambeador de la más alta calidad ꧂  </p>
+## <p align="center">  ꧁ Quieres ver el contenido técnico del chambeador Nanachi ꧂  </p>
 
 <br>
 
