@@ -244,13 +244,7 @@ En mis ratos libres **Bug bounty**.<br><br>
  `-'  `-..###########\_/##/  /.../
         `|#####/   \####|   /../
           .xxx#|   |xxx.   |./
-         |x' `x|   |'  `|   -
-         `~~~~'    `~~~~' Alpatron
-
-------------------------------------------------
-Thank you for visiting https://asciiart.website/
-This ASCII pic can be found at
-https://asciiart.website/cat.php?category_id=67
+         |x' `x|   |'  `|
 ⠀⠀⠀⠀⠀⠀⠀
 
 
