@@ -21,14 +21,14 @@
 
 ### <picture> <img align="right" src="https://github.com/Aquiles369/iconos/blob/main/nanachi-nanachi-eat.gif" width = 395px high ="200px"></picture>
 
-༒︎ **Whoami:** ༒︎ <br>
+༒︎ **Whoami** ༒︎ <br>
 
 𝓓esarrollador **Web** especializado en **Back-end** y conocimientos de **Front-end**.
 **Técnico Superior en Ciberseguridad** con experiencia en auditorías web y **hardening de servidores**.
 En mis ratos libres **Bug bounty**.<br><br> 
 
 
-༒︎ **Sobre mí:** ༒︎ <br>
+༒︎ **Sobre mí** ༒︎ <br>
   
   ❦ Más de 5 años de experiencia en hacking web.<br> 
   ❦ Técnico Superior en Ciberseguridad.  <br> 
@@ -38,7 +38,7 @@ En mis ratos libres **Bug bounty**.<br><br>
   ❦ Autor y creador de varios **proyectos y herramientas**.<br><br>
 
 
-༒︎ **Vulnerabilidades web que encontré en empresas:** ༒︎ <br>
+༒︎ **Vulnerabilidades web que encontré en empresas** ༒︎ <br>
 
  ❦ Top  **puesto 65** Global en el Salón de la Fama de PortSwigger.net (**Ex-puesto 22** - Veterano de investigación en Web Security).<br> 
  ❦ Vulnerabilidad Crítica en freedium-mirror.cfd | **SSR + Cache Poisoning con Stored XSS persistente e inmutable global** (Reportado vía Responsible Disclosure) url fix,    
@@ -48,7 +48,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 
   
 
-༒︎ **Redes Sociales:** ༒︎ <br>
+༒︎ **Redes Sociales** ༒︎ <br>
 
   ✦ LinkedIn → *https://www.linkedin.com/in/%F0%9D%92%9C%D5%A6%E2%B4%8E%F0%90%90%AE%E1%9B%9A%F0%9D%96%8A%EA%86%85-6477a0304/*<br>
   ✦ Contacto → **aquiless369@gmail.com**<br>
