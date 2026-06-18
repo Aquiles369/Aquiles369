@@ -28,27 +28,35 @@
 En mis ratos libres **Bug bounty**.<br><br> 
 
 
-༒︎ **Sobre mí:**<br>
+༒︎ **Sobre mí:** <br>
   
   ❦ Más de 5 años de experiencia en hacking web.<br> 
   ❦ Técnico Superior en Ciberseguridad.  <br> 
   ❦ Soltura en varios lenguajes de desarrollo y *scripting*.  <br> 
   ❦ Experiencia en **CTFs** y retos. <br> 
   ❦ Experiencia en **bug bounty**.<br>
-  ❦ Top  **puesto 65** Global en el Salón de la Fama de PortSwigger.net (**Ex-puesto 22** - Veterano de investigación en Web Security).<br> 
-  ❦ Vulnerabilidad Crítica en freedium-mirror.cfd | **SSR + Cache Poisoning con Stored XSS persistente e inmutable global** (Reportado vía Responsible Disclosure) url fix,    
-    https://github.com/Freedium-cfd/web/issues/51.<br>
-  ❦ Bug encontrado en NBA | Severidad: alta. Estado: duplicado/privado.<br>
   ❦ Autor y creador de varios **proyectos y herramientas**.<br><br>
 
 
+༒︎ **Vulnerabilidades web que encontré en empresas:** <br>
+   ❦ Top  **puesto 65** Global en el Salón de la Fama de PortSwigger.net (**Ex-puesto 22** - Veterano de investigación en Web Security).<br> 
+   ❦ Vulnerabilidad Crítica en freedium-mirror.cfd | **SSR + Cache Poisoning con Stored XSS persistente e inmutable global** (Reportado vía Responsible Disclosure) url fix,    
+      https://github.com/Freedium-cfd/web/issues/51.<br>
+   ❦ Bug encontrado en NBA | Severidad: alta. Estado: duplicado/privado.<br>
+   ❦ Bug encontrado en NordVPN | Severidad: low y otro meduim. Estado: fix en los 2 informes validos, salon fama alcanzado<br><br>
+
+  
+
 ༒︎ **Redes Sociales:** <br>
 
-  ✦ LinkedIn → *https://www.linkedin.com/in/%E3%85%A4-%E3%85%A4-6477a0304/*<br>
+  ✦ LinkedIn → *https://www.linkedin.com/in/%F0%9D%92%9C%D5%A6%E2%B4%8E%F0%90%90%AE%E1%9B%9A%F0%9D%96%8A%EA%86%85-6477a0304/*<br>
   ✦ Contacto → **aquiless369@gmail.com**<br>
   ✦ Mi Blog → **[GitBook](https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos)**  
   ✦ YouTube → **[Aquiles](https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg)**<br>
-  ✦ Perfil Bug Bounty/HackerOne → **https://hackerone.com/aquiless/hacktivity?type=user**<br><br>
+  ✦ Perfil Bug Bounty/HackerOne → **https://hackerone.com/aquiless/hacktivity?type=user** y mi segunda cuenta **https://hackerone.com/nanachii**<br>
+
+
+	
 
 ##
 
