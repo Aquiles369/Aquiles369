@@ -85,7 +85,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 - [ Investigaciones propias](#investigaciones-propias)
 - [ Investigaciones prácticas | Uso privado](#investigaciones-prácticas--uso-privado)
 - [ Colección de informes de Bug Bounty](#colección-de-informes-de-bug-bounty)
-- [Colección de artículos de Medium sobre programación Front-End y Back-End](#colección-de-artículos-de-medium-sobre-programación-front-end-y-back-end)
+- [Colección de artículos de Medium sobre programación Front-End y Back-End](#articulos-medium)
 - [ Metodología Lanza del Cielo Invertida](#Metodología-Lanza-del-Cielo-Invertida)
 - [ Serie: Diario de un cazador](#serie-diario-de-un-cazador)
 - [ Skills & Stack técnico](#skills--stack-técnico)
@@ -197,7 +197,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 <br>
 
 
-<h3 align="center" id="lenguajes-programacion"> Colección de artículos de Medium sobre programación Front-End y Back-End </h3>
+<h3 align="center" id="articulos-medium">Colección de artículos de Medium sobre programación Front-End y Back-End </h3>
 
 <p align="center">
  <a href="a"><img alt="Proyecto creado" src="https://img.shields.io/badge/JavaScript-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
