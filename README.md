@@ -82,7 +82,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 
 - [☠︎︎ Proyectos destacados](#proyectos-destacados)
 - [⚠ Herramientas](#herramientas)
-- [𓆣 Vulnerabilidades en profundidad ](#vulnerabilidades-en-profundidad-cliente--servidor--raras--extra)
+- [𓆣 Colección de informes de Bug Bounty ](#Colección--de--informes--de--Bug--Bounty)
 - [⌨ Lenguajes de programación (Front-End & Back-End)](#lenguajes-programacion)
 - [✎ Investigaciones propias](#investigaciones-propias)
 - [✿ Investigaciones prácticas | Uso privado](#investigaciones-prácticas--uso-privado)
