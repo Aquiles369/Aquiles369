@@ -83,7 +83,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 - [☠︎︎ Proyectos destacados](#proyectos-destacados)
 - [⚠ Herramientas](#herramientas)
 - [⌨ Lenguajes de programación (Front-End & Back-End)](#lenguajes-programacion)
-- [𓆣 Colección de informes de Bug Bounty](#-colección-de-informes-de-bug-bounty)
+- [𓆣 Colección de informes de Bug Bounty](#colección-de-informes-de-bug-bounty)
 - [✎ Investigaciones propias](#investigaciones-propias)
 - [✿ Investigaciones prácticas | Uso privado](#investigaciones-prácticas--uso-privado)
 - [✉ Serie: Diario de un cazador](#serie-diario-de-un-cazador)
