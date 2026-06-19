@@ -82,12 +82,12 @@ En mis ratos libres **Bug bounty**.<br><br>
 
 - [☠︎︎ Proyectos destacados](#proyectos-destacados)
 - [⚠ Herramientas](#herramientas)
-- [⌨ Lenguajes de programación (Front-End & Back-End)](#lenguajes-programacion)
-- [𓆣 Colección de informes de Bug Bounty](#colección-de-informes-de-bug-bounty)
 - [✎ Investigaciones propias](#investigaciones-propias)
 - [✿ Investigaciones prácticas | Uso privado](#investigaciones-prácticas--uso-privado)
-- [✉ Serie: Diario de un cazador](#serie-diario-de-un-cazador)
+- [⌨ Colección de artículos de Medium sobre programación Front-End y Back-End](#colección-de-artículos-de-medium-sobre-programación-front-end-y-back-end)
+- [𓆣 Colección de informes de Bug Bounty](#colección-de-informes-de-bug-bounty)
 - [༒︎ Metodología Lanza del Cielo Invertida](#check-list-excálibur-para-hunter)
+- [✉ Serie: Diario de un cazador](#serie-diario-de-un-cazador)
 - [♚ Skills & Stack técnico](#skills--stack-técnico)
 - [ツ GitHub Estadísticas](#github-estadísticas)  
   <br>
@@ -152,29 +152,6 @@ En mis ratos libres **Bug bounty**.<br><br>
 </p>
 <br><br>
 
-
-<h3 align="center">Colección de informes de Bug Bounty</h3>
-
-<p align="center"><a href="https://github.com/Aquiles369/js_analisis"><img alt="Proyecto creado" src="https://img.shields.io/badge/analisis%20archivos%20.js-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>  
-<a href="https://github.com/Aquiles369/403_bypass"><img alt="Proyecto creado" src="https://img.shields.io/badge/403%20bypass-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>  
-
-
-
-</p>
-
-<br>
-<br>
-
-
-<h3 align="center" id="lenguajes-programacion"> Lenguajes de programación (Front-End & Back-End)</h3>
-
-<p align="center">
- <a href="a"><img alt="Proyecto creado" src="https://img.shields.io/badge/JavaScript-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-</p>
-
-<br>
-<br>
-
 <h3 align="center">Investigaciones propias</h3>
 
 <p align="center"><br>
@@ -203,7 +180,31 @@ En mis ratos libres **Bug bounty**.<br><br>
 
 
 
-</p><br>
+</p><br><br>
+
+
+
+<h3 align="center">Colección de informes de Bug Bounty</h3>
+
+<p align="center"><a href="https://github.com/Aquiles369/js_analisis"><img alt="Proyecto creado" src="https://img.shields.io/badge/analisis%20archivos%20.js-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>  
+<a href="https://github.com/Aquiles369/403_bypass"><img alt="Proyecto creado" src="https://img.shields.io/badge/403%20bypass-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>  
+
+
+
+</p>
+
+<br>
+<br>
+
+
+<h3 align="center" id="lenguajes-programacion"> Colección de artículos de Medium sobre programación Front-End y Back-End </h3>
+
+<p align="center">
+ <a href="a"><img alt="Proyecto creado" src="https://img.shields.io/badge/JavaScript-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+</p>
+
+<br>
+<br>
 
 
 <h3 align="center">Serie: Diario de un cazador</h3>
