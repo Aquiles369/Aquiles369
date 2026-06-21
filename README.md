@@ -44,7 +44,7 @@ En mis ratos libres **Bug bounty**.<br><br>
  ❦ Vulnerabilidad Crítica en freedium-mirror.cfd | **SSR + Cache Poisoning con Stored XSS persistente e inmutable global** (Reportado vía Responsible Disclosure) url fix,    
    https://github.com/Freedium-cfd/web/issues/51.<br>
  ❦ Bug encontrado en NBA | Severidad: alta. Estado: duplicado/privado.<br>
- ❦ Bug encontrado en NordVPN | Severidad: low y otro meduim. Estado: fix en los 2 informes validos, salon fama alcanzado.<br><br>
+ ❦ Bug encontrado en NordVPN | Severidad: low y otro medium. Estado: fix en los 2 informes validos, salon fama alcanzado.<br><br>
 
   
 
