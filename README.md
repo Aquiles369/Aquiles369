@@ -187,7 +187,8 @@ En mis ratos libres **Bug bounty**.<br><br>
 <h3 align="center">Colección de informes de Bug Bounty</h3>
 
 <p align="center"><a href="https://github.com/Aquiles369/js_analisis"><img alt="Proyecto creado" src="https://img.shields.io/badge/analisis%20archivos%20.js-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>  
-<a href="https://github.com/Aquiles369/403_bypass"><img alt="Proyecto creado" src="https://img.shields.io/badge/403%20bypass-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>  
+<a href="https://github.com/Aquiles369/403_bypass"><img alt="Proyecto creado" src="https://img.shields.io/badge/403%20bypass-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+<a href="https://github.com/Aquiles369/recon_general"><img alt="Proyecto creado" src="https://img.shields.io/badge/recon%20general-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>  
 
 
 
