@@ -85,6 +85,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 - [ Investigaciones propias](#investigaciones-propias)
 - [ Investigaciones prácticas | Uso privado](#investigaciones-prácticas--uso-privado)
 - [ Colección de informes de Bug Bounty](#colección-de-informes-de-bug-bounty)
+- [ Colección de informes APIs Bug Bounty](#colección-de-informes-apis-bug-bounty)
 - [Colección de artículos de Medium sobre programación Front-End y Back-End](#articulos-medium)
 - [ Metodología Lanza del Cielo Invertida](#Metodología-Lanza-del-Cielo-Invertida)
 - [ Serie: Diario de un cazador](#serie-diario-de-un-cazador)
@@ -192,6 +193,15 @@ En mis ratos libres **Bug bounty**.<br><br>
 
 
 
+</p>
+
+
+<br>
+<br>
+
+<h3 align="center">Colección de informes APIs Bug Bounty</h3>
+
+<p align="center"><a href="https://github.com/Aquiles369/api_Broken_Object_Level_Authorization"><img alt="Proyecto creado" src="https://img.shields.io/badge/broken%20object%20level%20authorization-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>  
 </p>
 
 <br>
