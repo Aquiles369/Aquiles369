@@ -194,7 +194,8 @@ En mis ratos libres **Bug bounty**.<br><br>
 <a href="https://github.com/Aquiles369/Subdomain_Takeover"><img alt="Proyecto creado" src="https://img.shields.io/badge/subdomain%20takeover-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>  
 <a href="https://github.com/Aquiles369/ip_origen"><img alt="Proyecto creado" src="https://img.shields.io/badge/ip%20origen-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a> 
 <a href="https://github.com/Aquiles369/dns_fuerza_bruta"><img alt="Proyecto creado" src="https://img.shields.io/badge/dns%20brute%20force-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a> 
-<a href="https://github.com/Aquiles369/asn"><img alt="Proyecto creado" src="https://img.shields.io/badge/asn%20recon-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a> 
+<a href="https://github.com/Aquiles369/asn"><img alt="Proyecto creado" src="https://img.shields.io/badge/asn%20recon-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+<a href="https://github.com/Aquiles369/certificados"><img alt="Proyecto creado" src="https://img.shields.io/badge/certificados-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 
 
 </p>
