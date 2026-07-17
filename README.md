@@ -189,7 +189,16 @@ En mis ratos libres **Bug bounty**.<br><br>
 
 <p align="center"><a href="https://github.com/Aquiles369/js_analisis"><img alt="Proyecto creado" src="https://img.shields.io/badge/analisis%20archivos%20.js-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>  
 <a href="https://github.com/Aquiles369/403_bypass"><img alt="Proyecto creado" src="https://img.shields.io/badge/403%20bypass-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-<a href="https://github.com/Aquiles369/recon_general"><img alt="Proyecto creado" src="https://img.shields.io/badge/recon%20general-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>  
+
+
+</p>
+
+
+<br>
+<br>
+
+<h3 align="center">Colección de Informes de Recon para Bug Bounty</h3>
+<p align="center"><a href="https://github.com/Aquiles369/recon_general"><img alt="Proyecto creado" src="https://img.shields.io/badge/recon%20general-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>  
 <a href="https://github.com/Aquiles369/Vhosts"><img alt="Proyecto creado" src="https://img.shields.io/badge/vhost-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>  
 <a href="https://github.com/Aquiles369/Subdomain_Takeover"><img alt="Proyecto creado" src="https://img.shields.io/badge/subdomain%20takeover-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>  
 <a href="https://github.com/Aquiles369/ip_origen"><img alt="Proyecto creado" src="https://img.shields.io/badge/ip%20origen-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a> 
@@ -205,10 +214,21 @@ En mis ratos libres **Bug bounty**.<br><br>
 <br>
 <br>
 
+
+
+<h3 align="center">Colección de informes de arquitectura de APIs para Bug Bounty</h3>
+<p align="center"><a href="https://github.com/Aquiles369/arquitectura_soap"><img alt="Proyecto creado" src="https://img.shields.io/badge/api%20soap-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+
+
+</p>
+
+
+<br>
+<br>
+
 <h3 align="center">Colección de informes APIs Bug Bounty</h3>
 
-<p align="center"><a href="https://github.com/Aquiles369/api_Broken_Object_Level_Authorization"><img alt="Proyecto creado" src="https://img.shields.io/badge/broken%20object%20level%20authorization-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
-<a href="https://github.com/Aquiles369/arquitectura_soap"><img alt="Proyecto creado" src="https://img.shields.io/badge/api%20soap-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+<p align="center"><a href="https://github.com/Aquiles369/api_Broken_Object_Level_Authorization"><img alt="Proyecto creado" src="https://img.shields.io/badge/broken%20object%20level%20authorization-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/>
 	
 </p>
 
