@@ -88,6 +88,11 @@ En mis ratos libres **Bug bounty**.<br><br>
 - [ Colección de informes de Recon para Bug Bounty](#colección-de-informes-de-recon-para-bug-bounty)
 - [ Colección de informes de arquitectura de APIs para Bug Bounty](#colección-de-informes-de-arquitectura-de-apis-para-bug-bounty)
 - [ Colección de informes APIs Bug Bounty](#colección-de-informes-apis-bug-bounty)
+- [ Colección de informes de Autenticación para Bug Bounty](#colección-de-informes-de-autenticación-para-bug-bounty)
+- [ Colección de informes de Sesiones para Bug Bounty](#colección-de-informes-de-sesiones-para-bug-bounty)
+- [ Colección de informes de Autorización para Bug Bounty](#colección-de-informes-de-autorización-para-bug-bounty)
+- [ Colección de informes de Flujo Restante para Bug Bounty](#colección-de-informes-de-flujo-restante-para-bug-bounty)
+- [ Colección de informes de Lógica de Negocio para Bug Bounty](#colección-de-informes-de-lógica-de-negocio-para-bug-bounty)
 - [Colección de artículos de Medium sobre programación Front-End y Back-End](#articulos-medium)
 - [ Metodología Lanza del Cielo Invertida](#Metodología-Lanza-del-Cielo-Invertida)
 - [ Serie: Diario de un cazador](#serie-diario-de-un-cazador)
@@ -238,6 +243,55 @@ En mis ratos libres **Bug bounty**.<br><br>
 <br>
 <br>
 
+
+<h3 align="center">Colección de informes Autenticación Bug Bounty</h3>
+<p align="center">
+	
+</p>
+
+<br>
+<br>
+
+<br>
+<br>
+
+
+<h3 align="center">Colección de informes Sesiones Bug Bounty</h3>
+<p align="center">
+	
+</p>
+
+<br>
+<br>
+
+
+<h3 align="center">Colección de informes Autorización Bug Bounty</h3>
+<p align="center">
+	
+</p>
+
+
+<br>
+<br>
+
+
+<h3 align="center">Colección de informes Flujo Restante Bug Bounty</h3>
+<p align="center">
+	
+</p>
+
+
+<br>
+<br>
+
+
+<h3 align="center">Colección de informes Lógica de Negocio Bug Bounty</h3>
+<p align="center">
+	
+</p>
+
+<br>
+<br>
 
 <h3 align="center" id="articulos-medium">Colección de artículos de Medium sobre programación Front-End y Back-End </h3>
 
