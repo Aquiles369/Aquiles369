@@ -85,6 +85,8 @@ En mis ratos libres **Bug bounty**.<br><br>
 - [ Investigaciones propias](#investigaciones-propias)
 - [ Investigaciones prácticas | Uso privado](#investigaciones-prácticas--uso-privado)
 - [ Colección de informes de Bug Bounty](#colección-de-informes-de-bug-bounty)
+- [ Colección de informes de Recon para Bug Bounty](#colección-de-informes-de-recon-para-bug-bounty)
+- [ Colección de informes de arquitectura de APIs para Bug Bounty](#colección-de-informes-de-arquitectura-de-apis-para-bug-bounty)
 - [ Colección de informes APIs Bug Bounty](#colección-de-informes-apis-bug-bounty)
 - [Colección de artículos de Medium sobre programación Front-End y Back-End](#articulos-medium)
 - [ Metodología Lanza del Cielo Invertida](#Metodología-Lanza-del-Cielo-Invertida)
