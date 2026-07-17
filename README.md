@@ -245,19 +245,16 @@ En mis ratos libres **Bug bounty**.<br><br>
 
 
 <h3 align="center">Colección de informes Autenticación Bug Bounty</h3>
-<p align="center">
+<p align="center"><a href="https://github.com/Aquiles369/api_Broken_Object_Level_Authorization"><img alt="Proyecto creado" src="https://img.shields.io/badge/vacio-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/>
 	
 </p>
 
 <br>
 <br>
 
-<br>
-<br>
-
 
 <h3 align="center">Colección de informes Sesiones Bug Bounty</h3>
-<p align="center">
+<p align="center"><a href="https://github.com/Aquiles369/api_Broken_Object_Level_Authorization"><img alt="Proyecto creado" src="https://img.shields.io/badge/vacio-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/>
 	
 </p>
 
@@ -266,7 +263,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 
 
 <h3 align="center">Colección de informes Autorización Bug Bounty</h3>
-<p align="center">
+<p align="center"><a href="https://github.com/Aquiles369/api_Broken_Object_Level_Authorization"><img alt="Proyecto creado" src="https://img.shields.io/badge/vacio-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/>
 	
 </p>
 
@@ -276,7 +273,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 
 
 <h3 align="center">Colección de informes Flujo Restante Bug Bounty</h3>
-<p align="center">
+<p align="center"><a href="https://github.com/Aquiles369/api_Broken_Object_Level_Authorization"><img alt="Proyecto creado" src="https://img.shields.io/badge/vacio-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/>
 	
 </p>
 
@@ -286,7 +283,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 
 
 <h3 align="center">Colección de informes Lógica de Negocio Bug Bounty</h3>
-<p align="center">
+<p align="center"><a href="https://github.com/Aquiles369/api_Broken_Object_Level_Authorization"><img alt="Proyecto creado" src="https://img.shields.io/badge/vacio-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/>
 	
 </p>
 
