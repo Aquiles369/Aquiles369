@@ -215,6 +215,7 @@ En mis ratos libres **Bug bounty**.<br><br>
 <a href="https://github.com/Aquiles369/escaneo_puertos_naabu"><img alt="Proyecto creado" src="https://img.shields.io/badge/escaneo%20puertos%20naabu-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/Shodan"><img alt="Proyecto creado" src="https://img.shields.io/badge/shodan-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/fofa"><img alt="Proyecto creado" src="https://img.shields.io/badge/fofa-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+<a href="https://github.com/Aquiles369/censys"><img alt="Proyecto creado" src="https://img.shields.io/badge/censys-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 
 
 </p>
