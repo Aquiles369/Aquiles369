@@ -45,7 +45,6 @@ En mis ratos libres **Bug bounty**.<br><br>
    https://github.com/Freedium-cfd/web/issues/51.<br>
  ❦ Bug encontrado en NBA | Severidad: alta. Estado: duplicado/privado.<br>
  ❦ Bug encontrado en NordVPN | Severidad: low y otro medium. Estado: fix en los 2 informes validos, salon fama alcanzado.<br>
- ❦ Bug encontrado en NBA | Severidad: alta. Estado: duplicado/privado.<br>
  ❦ Bug encontrado en dominio del Departamento de Defensa de EE.UU. | Severidad: Informativa/Baja. Estado: Reportado y corregido.
 Detecté una posible mala configuración de infraestructura cloud relacionada con un registro CNAME apuntando a Azure Front Door. Realicé análisis DNS, fingerprinting de servicios cloud, validación técnica y documentación del impacto. El equipo responsable actualizó la configuración DNS posteriormente.<br>
 ❦ Bug encontrado en DoorDash | Severidad: Informativa. Estado: Reportado/Reconocido por el equipo.
