@@ -235,6 +235,8 @@ Identifiqué una configuración o exposición de bajo impacto durante una invest
 
 <h3 align="center">Colección de informes de arquitectura de APIs para Bug Bounty</h3>
 <p align="center"><a href="https://github.com/Aquiles369/arquitectura_soap"><img alt="Proyecto creado" src="https://img.shields.io/badge/api%20soap-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+<a href="https://github.com/Aquiles369/api_rest"><img alt="Proyecto creado" src="https://img.shields.io/badge/api%20rest-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+
 
 
 </p>
@@ -246,8 +248,9 @@ Identifiqué una configuración o exposición de bajo impacto durante una invest
 <h3 align="center">Colección de informes APIs Bug Bounty</h3>
 
 <p align="center">
-<a href="https://github.com/Aquiles369/api_Broken_Object_Level_Authorization"><img alt="Proyecto creado" src="https://img.shields.io/badge/broken%20object%20level%20authorization-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/api_general"><img alt="Proyecto creado" src="https://img.shields.io/badge/apis_general-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+<a href="https://github.com/Aquiles369/api_Broken_Object_Level_Authorization"><img alt="Proyecto creado" src="https://img.shields.io/badge/broken%20object%20level%20authorization-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+
 	
 </p>
 
