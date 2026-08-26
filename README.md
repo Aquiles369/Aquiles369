@@ -222,6 +222,7 @@ Identifiqué una configuración o exposición de bajo impacto durante una invest
 <a href="https://github.com/Aquiles369/fofa"><img alt="Proyecto creado" src="https://img.shields.io/badge/fofa-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/censys"><img alt="Proyecto creado" src="https://img.shields.io/badge/censys-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 <a href="https://github.com/Aquiles369/recon_nube"><img alt="Proyecto creado" src="https://img.shields.io/badge/recon%20nube-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
+<a href="https://github.com/Aquiles369/Wayback_Waymore"><img alt="Proyecto creado" src="https://img.shields.io/badge/Wayback%20%26%20Waymore-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/></a>
 
 
 </p>
