@@ -271,6 +271,7 @@ Identifiqué una configuración o exposición de bajo impacto durante una invest
 
 <h3 align="center">Colección de informes Sesiones Bug Bounty</h3>
 <p align="center"><a href="https://github.com/Aquiles369/api_Broken_Object_Level_Authorization"><img alt="Proyecto creado" src="https://img.shields.io/badge/vacio-FFD700?logo=FLDSMDFR&logoColor=%23000000&style=flat&labelColor=FFD700"/>
+<p align="center"><a href="https://github.com/Aquiles369/jwt"><img alt="Proyecto creado" src="https://img.shields.io/badge/JWT-FFD700?style=flat&labelColor=FFD700"/>
 	
 </p>
 
