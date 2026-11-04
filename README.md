@@ -44,11 +44,11 @@ En mis ratos libres **Bug bounty**.<br><br>
  ❦ Vulnerabilidad Crítica en freedium-mirror.cfd | **SSR + Cache Poisoning con Stored XSS persistente e inmutable global** (Reportado vía Responsible Disclosure) url fix,    
    https://github.com/Freedium-cfd/web/issues/51.<br>
  ❦ Bug encontrado en NBA | Severidad: alta. Estado: duplicado/privado.<br>
- ❦ Bug encontrado en NordVPN | Severidad: low y otro medium. Estado: fix en los 2 informes validos, salon fama alcanzado.<br>
+ ❦ Bug encontrado en NordVPN | Severidad: low y otro medium. Estado: fix en los 2 informes validos, salon fama alcanzado puesto 44 actualmente es un programa privado.<br>
  ❦ Bug encontrado en dominio del Departamento de Defensa de EE.UU. | Severidad: Informativa/Baja. Estado: Reportado y corregido.
-Detecté una posible mala configuración de infraestructura cloud relacionada con un registro CNAME apuntando a Azure Front Door. Realicé análisis DNS, fingerprinting de servicios cloud, validación técnica y documentación del impacto. El equipo responsable actualizó la configuración DNS posteriormente.<br>
+Detecté una mala configuración de infraestructura cloud relacionada con un registro CNAME apuntando a Azure Front Door. Realicé análisis DNS, fingerprinting de servicios cloud, validación técnica y documentación del impacto. El equipo responsable actualizó la configuración DNS posteriormente.<br>
 ❦ Bug encontrado en DoorDash | Severidad: Informativa. Estado: Reportado/Reconocido por el equipo.
-Identifiqué una configuración o exposición de bajo impacto durante una investigación de seguridad. Documenté la evidencia técnica, pasos de reproducción y detalles relevantes para la corrección. El equipo agradeció el reporte y realizó la evaluación correspondiente.<br>
+Identifiqué una configuración o exposición de bajo impacto durante una investigación de seguridad. Documenté la evidencia técnica, pasos de reproducción y detalles relevantes para la corrección. El equipo agradeció el reporte y realizó la evaluación correspondiente. Encontré un CNAME huérfano con un dominio que podía emitir certificados, pero, a pesar de mi insistencia, no logré la toma completa del subdominio.<br>
  <br>
 
   
@@ -59,7 +59,7 @@ Identifiqué una configuración o exposición de bajo impacto durante una invest
   ✦ Contacto → **aquiless369@gmail.com**<br>
   ✦ Mi Blog → **[GitBook](https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos)**  
   ✦ YouTube → **[Aquiles](https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg)**<br>
-  ✦ Perfil Bug Bounty/HackerOne → **https://hackerone.com/aquiless/hacktivity?type=user** y mi segunda cuenta **https://hackerone.com/nanachii**<br>
+  ✦ Perfil Bug Bounty/HackerOne → **https://hackerone.com/dehymos?type=user** y mi segunda cuenta **https://hackerone.com/nanachii** que fue eliminar por la plataforma por tener 2 cuenta -_-<br>
 
 
 	
