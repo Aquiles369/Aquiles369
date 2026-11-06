@@ -59,7 +59,7 @@ Identifiqué una configuración o exposición de bajo impacto durante una invest
   ✦ Contacto → **aquiless369@gmail.com**<br>
   ✦ Mi Blog → **[GitBook](https://aquiles-1.gitbook.io/aquiles/readme/todos-los-modulos)**  
   ✦ YouTube → **[Aquiles](https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg)**<br>
-  ✦ Perfil Bug Bounty/HackerOne → **https://hackerone.com/dehymos?type=user** y mi segunda cuenta **https://hackerone.com/nanachii** que fue eliminar por la plataforma por tener 2 cuenta -_-<br>
+  ✦ Perfil Bug Bounty/HackerOne → **https://hackerone.com/dehymos?type=user** y mi segunda cuenta **https://hackerone.com/nanachii** que fue eliminada por la plataforma por tener 2 cuenta -_-.<br>
 
 
 	
